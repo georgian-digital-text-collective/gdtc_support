@@ -1,0 +1,718 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+iframe{
+    width:100%;
+    height:650px;
+}
+
+iframe:nth-child(2) {
+    margin-bottom: 70px;    
+}
+body {
+	line-height: 1;
+	color: black;
+    padding-top:20px;
+}
+ol, ul {
+	list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+/* End Browser Defaults */
+
+body {
+    padding:0px;
+    /*old styles
+background:#fff url(mt_kazbegi.jpg) no-repeat center center fixed;
+    background:#fff url(davit_gareja_small.jpg) no-repeat center center;
+    background:#fff url(http://depts.washington.edu/dtcg/design/background2.png) repeat-x center center;*/
+}
+
+h1 {
+    font-size:35pt;
+}
+
+body.texts {
+    padding:0px;
+    /*background:#fff url(http://depts.washington.edu/dtcg/design/background2.png) repeat-x center center;*/
+}
+
+body.works {
+    background:#fff;
+}
+
+#title {
+    padding-top:10px;
+    width:100%;
+    text-align:center;
+    background:#fff url(http://depts.washington.edu/dtcg/design/mt_kazbegi.JPG) 70% 13%;
+    border-bottom:10px;
+    border-style:ridge;
+    border-color:#ffffff;
+    overflow: hidden;
+    
+
+}
+
+#title h1 {
+    padding:0;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Monotype Corsiva;
+    font-size:35pt;
+}
+
+#title h1.get {
+    font-family: Acadnusx;
+    font-size: 35pt;
+    padding-bottom:10px;
+}
+
+#container {
+    height:100%;
+    width:100%;
+}
+
+#containerText {
+    height:100%;
+    width:100%;
+}
+
+#main {
+    width:100%;
+}
+
+#container #navBar, #container #mission_statement/*not in style.css*/ {
+    width:200px;
+    position: absolute;
+    margin-left:30px;
+    margin-top:30px;
+    opacity:0.6;
+    filter:alpha(opacity=60); 
+    border:5px;
+    border-style:ridge;
+    border-color:#B0E2FF;
+    padding:10px;
+    background-color:#6495ED;
+}
+
+#containerText #navBar {
+    width:200px;
+    position:relative;/*absolute in style.css*/
+    border:0px;
+    border-style:ridge;
+    border-color:none;
+    padding:10px;
+    background-color:none;
+    float: left;/*doesn't exist in style css*/
+}
+
+#containerText #navBarContacts {
+    width:950px; /* was 500px (8-19-2013) */
+    position:absolute;
+    border:0px;
+    border-style:ridge;
+    border-color:#B0E2FF;
+    padding:10px;
+    background-color:#6495ED;
+    margin-bottom: 100px;
+}
+#navBarContacts p{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#navBarContacts h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#containerText #navBarContacts #navBarLinks ul li {
+   font-weight:bold;
+}
+
+#containerText #navBarContacts #navBarLinks ul li ul li{
+   font-weight:normal;
+   padding-top:5px;
+   padding-bottom:5px;
+}
+
+#navBar a, #navBar2 a, #navBarLinks a {
+	display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#navBar a:hover, #navBar2 a:hover, #navBarLinks a:hover {
+    background-color: #555;
+    color: white;
+}
+
+#navBar li.home, #navBar2 li.home {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+/* Style The Dropdown Button where error starts */
+ button.dropbtn {
+	background-color: #4CAF50;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+background-color: #3e8e41;
+}
+
+
+
+#images {
+    padding-top:50px;
+    height:500px;
+    width:700px;
+    font-family: Monotype Corsiva;
+    float:right;
+}
+
+#images ins {
+    display:inline;
+    position:absolute;
+    background-color:#6495ED;
+    padding:5px;
+    font-weight:bold;
+    font-size:14pt;
+    border:5px;
+    border-style:ridge;
+    border-color:#B0E2FF;
+}
+
+#images img {
+    display:inline;
+    border:3px;
+    border-style:ridge;
+    border-color:#ffffff;
+}
+
+#images a:hover img {
+    border-color:#4AC948;
+}
+
+#images a:hover ins {
+    border-color:#4AC948;
+    background-color:#4AC948;
+}
+
+#footer {
+    padding-top:10px;
+    width:100%;
+    text-align:center;
+    background:black url(http://depts.washington.edu/dtcg/design/mt_kazbegi.JPG) 15% 78%;
+    background-size: cover;
+    position:fixed;
+    bottom:0px;
+    height:70px;
+    border-top:10px;
+    border-style:ridge;
+    border-color:white;
+ 
+}
+#footer p, #footer a{
+    color: white;
+}
+
+#footer p {
+    padding-top: 10px;
+}
+
+/* begin text style */
+
+#containerWorks {
+    position:relative;
+    width:1100px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:0;
+}
+
+#containerWorks *.en {
+    font-family: Times, Ariel, serif;
+}
+
+#containerWorks *.get {
+    font-family: AcadNusx, serif;
+}
+
+#containerWorks h2 {
+font-size:25pt;
+}
+
+#containerWorks h3 {
+font-size:20pt;
+}
+
+/*#metaData {
+    margin-top: 0px;
+    width:1100px;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#metaData li {
+    width:150px;
+    display:inline-block;
+    text-align:right; 
+    margin:0; 
+    padding:0;
+    color:#000000; 
+    font-size:17px;
+}*/
+#metaData li {
+     font-size:17px;
+ }
+
+p.page {
+    width:100%;
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align:center;
+    position:relative;
+    display:block;
+    clear:both;
+    color:black;
+}
+
+div.wrapper {
+	float:left;
+}
+
+div.ka_t {
+	color:#ff0000;
+	width:300px;
+	float:left;
+	padding:15px;
+}
+
+div.en_t {
+	color:#0000ff;
+	width:300px;
+	float:left;
+	padding:15px;
+}
+
+div.ru_t {
+	color:#000000;
+	width:300px;
+	float:left;
+	padding:15px;
+}
+
+
+
+div.get {
+    font-family: AcadNusx, serif;
+    color:#ff0000;
+    width:500px;
+    float:left;
+}
+    
+div.en {
+    font-family: Times, Ariel, serif;
+    color:#0000ff;
+    width:500px;
+    float:right;
+}
+/*specifiers*/
+p.center {
+    text-align:center;
+}
+
+/* 8-21-2013 Updates */
+#copyright {
+    font-size: 9pt;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    padding-left: 0.5em;
+}
+
+#top_right {
+    float:  right;
+}
+
+#top_right img {
+    padding-right: 0.5em;
+}
+
+#mission_statement {
+    width: 550px;
+    margin-right: 30px; /* 150 */
+    margin-top: 300px;
+    float: right;
+    border: 5px;
+    border-style: ridge;
+    border-color: #B0E2FF;
+    padding: 10px;
+    background-color: #6495ED;
+    line-height: 180%;
+}
+
+#containerText #navBarLinks {
+    width:500px;
+    position:relative;
+    border:0px;
+    border-style:ridge;
+    border-color:#B0E2FF;
+    padding:10px;
+    background-color:#6495ED;
+    margin-bottom:100px;
+}
+
+/* ul li ul { 
+    margin-left: 1em;
+}*/
+
+span.drop {
+    border-bottom: thin dotted;
+    /*background: #ffeedd;*/
+}
+
+span.drop:hover {
+    z-index: 6;
+    text-decoration: none;
+}
+
+span.def_ka, span.def_en {
+    background: #ffffff
+}
+
+span.drop span.def_en, span.def_ka {
+    position: absolute;
+    left: -9999px;
+    margin: 20px 0px 0px 0px;
+    padding: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    z-index: 6;
+}
+
+span.drop:hover span.def_ka {
+    left: 2%;
+}
+
+span.drop:hover span.def_en {
+    left: 52%;
+}
+
+/*Joy meta data formating */
+hr { 
+clear: left;
+}
+.top{
+    clear: left;
+    text-align: right;
+    display:block;
+    width: 150px;
+    float:left;
+}
+.bottom{
+    padding-left: 10px;
+    float:left;
+}
+/*Michael creating various tables*/
+article{
+}
+
+.row{
+	padding: 8px;
+	padding-bottom: 16px;
+}
+
+.row h1, h2{
+    text-align: center;
+}
+
+.row h3 {
+    padding:0;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Monotype Corsiva;
+    font-size:20pt;
+    font-style: bold;
+}
+
+.row h2 {
+    font-size:16pt;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Times New Roman;
+    font-style: bold;
+    padding-bottom: 16px;
+}
+
+
+/*
+.row a:link{
+	color: green;
+}
+.row a:visited{
+	
+}
+*/
+
+.row li {
+	
+	line-height: 200%;
+	list-style-type: none;
+}
+
+.row a{
+	/*text-decoration: underline;*/
+}
+
+.row p{
+	padding-bottom: 10px;
+}
+
+.dropdown-menu {
+	padding-bottom: 16px;
+	font-size: 20px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	border: none;
+	cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-submenu{
+	
+}
+.btn-primary {
+	background-color: transparent;
+	border-color: transparent;
+	color: black;
+	font-family: Times New Roman;
+    font-size:16pt;
+	font-style: bold;
+	overflow: auto;
+	text-align: left;
+}
+
+.col-*-* {
+}
+
+.georgian {
+	color: red;
+}
+.english {
+	color: blue;
+}
+
+
+.panel-default{
+	text-align: center;
+}
+body{
+	background-size: cover;
+}
+navBar{
+	background-color: transparent;
+}
+#logo{
+}
+/*janky navbar, current plan is to get these styles working and then implement accross the website*/
+.text_title{
+	text-align: center;
+	color: black;
+}
+#other{
+	background: url(mt_kazbegi.JPG) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.navbar-default {
+	background-color:transparent;
+    /*original color
+	background-color: #F8F8F8;*/
+	background-color: transparent;
+    /*border-color: #E7E7E7;*/
+}
+.collapse .navBar-collapse{
+	background-color: #F8F8F8;
+}
+/* Title */
+.navbar-default .navbar-brand {
+    color: #000;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+/* Link */
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: #E7E7E7;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #555;
+    background-color: #D5D5D5;
+}
+/* Caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #000;
+    border-bottom-color: #000;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #333;
+    border-bottom-color: #333;
+}
+.navbar-default .navbar-nav > .open > a .caret,
+.navbar-default .navbar-nav > .open > a:hover .caret,
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+/* Mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #CCC;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+          color: #333;
+    }
+}
+/* Dropdown Content (Hidden by Default) */
+/*
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #ffffff;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+/*
+.dropdown-content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+}
+
+/* Change color of dropdown links on hover */
+/*.dropdown-content a:active {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+/*.dropdown:active .dropdown-content {
+display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:active .dropbtn {
+background-color: #3e8e41;
+}*/
