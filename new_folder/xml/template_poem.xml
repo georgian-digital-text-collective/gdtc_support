@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>TITLE_IN_ENGLISH_WITH_UNDERSCORES_AS_SPACES, GEORGIAN_TITLE_GOES_HERE_WITH_UNDERSCORES_AS_SPACES</title>
+   <author>AUTHOR_IN_ENLGLISH_WITH_UNDERSCORES_AS_SPACES, AUTHOR_IN_GEORGIAN_WITH_UNDERSCORES_AS_SPACES</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective (GDTC)</resp>
+    <name>Mary Childs</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>dctg@uw.edu</addrLine>
+   </address>
+   <idno type="GDTC">(YEAR PUBLISHED)_(NUM)_(ORIG PUBLICAT)</idno>
+   <!--^unique identifier for every digital text ex. ISBN# or GDTC 
+   replace the X with appropriate number, ask Mary/look at staff pages under the completed XML category/folder, files with suffix _c.xml for running count-->
+   <availability>
+    <p>Copyright 2014 GDTC. All Rights Reserved.</p>
+	<p>[FOR PRINT: Get standard wording] GDTC grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<!--if for print, use above statement; if not, use statement below-->
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2014</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>AUTHOR *TITLE*</bibl>
+   <bibl>Work Title:</bibl>
+   <bibl>Publication Title:</bibl>
+   <bibl>Publisher:</bibl>
+   <bibl>City of Origin:</bibl>
+   <bibl>Editor:</bibl>
+   <bibl>Translator: TRANSLATORS NAMES HERE</bibl>
+   <bibl>ISBN # or unique GDTC identifier (if not appplicable, NA):</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of GDTC is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">22 October 12</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">GEORGIAN TITLE GOES HERE</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+									</lg>
+									<lg>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+									</lg>
+									<lg>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+									</lg>
+									<lg>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+										<l>GEORGIAN TEXT GOES HERE</l>
+									</lg>
+									<lg>
+										<l>Date goes here</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">*TITLE*</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+					</lg>
+					<lg>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+					</lg>
+					<lg>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+						<l>ENGLISH TEXT GOES HERE</l>
+					</lg>
+					<lg>
+						<l>Date goes here</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

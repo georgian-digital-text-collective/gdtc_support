@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Death_of_My_Grandmother, ბებოჩემის_გარდაცვალება</title>
+   <author>Besik_Kharanauli, ბესიკ_ხარანაული</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective</resp>
+    <name>Dominik Irtenkauf</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Georgian Digital Text Collective</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Georgian Digital Text Collective. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Terenti Graneli White Thoughts</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">Spring, 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">ბებოჩემის გარდაცვალება</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>ლეთა, დავიწყების მდინარე</l>
+									</lg>
+									<lg>
+										<l>როცა ბებოჩემი ლეთას გადადიოდა,</l>
+										<l>როცა ჯერ კიდევ</l>
+										<l>არ შეედგა ფეხი მდინარეში,</l>
+										<l>როცა ჯერ კიდევ არ იყო გონს მოსული, რადგანაც წყლისპირას</l>
+										<l>ნარიყს წამოსდო</l>
+										<l>კაბის კალთა და წაბორძიკდა,</l>
+										<l>მაგრამ ძველი ჩვეულებით,</l>
+										<l>რომელიც იმას სიცოცხლეში მუდამ გამართულს ატარებდა</l>
+										<l>თავი შეიმაგრა</l>
+										<l>გასწორდა და</l>
+										<l>ისე შედგა ფეხი მდინარეში.</l>
+										<l>წყალი გრილი იყო, თხელი იყო წყალი.</l>
+										<l>გაღმა ნაპირზე კი ტყე იწყებოდა</l>
+										<l>ტყეში.</l>
+										<l>მას ჩემსკენ არ გამოუხედავს,</l>
+										<l>მე თვალები დაბინდული მქონდა</l>
+										<l>და ვერ დავინახე,</l>
+										<l>როგორ გავიდა გაღმა ნაპირს</l>
+										<l>და ბურუსმა როგორ დაფარა.</l>
+									</lg>
+									<lg>
+										<l>იმ ქვეყანაში</l>
+									</lg>
+									<lg>
+										<l>როცა ბებოჩემი საიქიოში ჩავიდა,</l>
+										<l>მას მიეგებნენ ნათესავი სულები</l>
+										<l>მოვიდნენ ტყვიით დაკოდილნი,</l>
+										<l>სახადით მკვდარნი</l>
+										<l>დახოცილები ვინ ღალატით</l>
+										<l>და ვინ კიდევ სიყვარულის საწამლავითა.</l>
+										<l>მარტო ქვრივი ნატო არ მოსულა</l>
+										<l>ბებოჩემის შესაგებებლად,</l>
+										<l>რადგანაც ახლაც,</l>
+										<l>როგორც სიცოცხლეში,</l>
+										<l>არ ეცალა ზეიმებისთვის,</l>
+										<l>რადგანაც ახლაც,</l>
+										<l>როგორც სიცოცხლეში,</l>
+										<l>ტყეში იყო თურმე წასული</l>
+										<l>და თავისი ობლებისთვის</l>
+										<l>ფიჩხს აგროვებდა.</l>
+									</lg>
+									<lg>
+										<l>NO DATE</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">Death of My Grandmother</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>Lethe, The River of Forgetfulness</l>
+					</lg>
+					<lg>
+						<l>When my grandmother was crossing the Lethe,</l>
+						<l>When she hadn’t yet stepped into the river</l>
+						<l>And hadn’t yet regained consciousness</l>
+						<l>as she had lost her footing, from washed ashore driftwood</l>
+						<l>hooked on the hem of her skirt</l>
+						<l>by force of her old habit</l>
+						<l>which made her walk straight</l>
+						<l>she strengthened herself, drew herself up</l>
+						<l>and thus stepped into the river.</l>
+						<l>The water was cool, the water was soft</l>
+						<l>The forest was stretched along the river bank</l>
+						<l>And everything was so familiar to her</l>
+						<l>That she started to think:</l>
+						<l>Am I crossing the Iori River</l>
+						<l>Am I still going to look for my lost cow</l>
+						<l>In the forest across the river?</l>
+						<l>She has not even glanced at me</l>
+						<l>My eyes all darkened in tears</l>
+						<l>I am unable to see,</l>
+						<l>Her crossing to the other shore,</l>
+						<l>Disappearing</l>
+						<l>Vanishing into the mist.</l>
+					</lg>
+					<lg>
+						<l>Afterlife</l>
+					</lg>
+					<lg>
+						<l>When my Grandmother arrived in the afterlife</l>
+						<l>She was met by kindred spirits:</l>
+						<l>Those who had died either by a bullet,</l>
+						<l>Or passed away by black death,</l>
+						<l>Deceased either by betrayal</l>
+						<l>Or even poisoned by love</l>
+						<l>Only Nato the widow has not come</l>
+						<l>To meet my grandma</l>
+						<l>Because even now she seemed too busy</l>
+						<l>Even here to join in the feast</l>
+						<l>As in her own life -</l>
+						<l>Even here</l>
+						<l>She could be found in the forest</l>
+						<l>Collecting brushwood</l>
+						<l>For her orphans</l>
+					</lg>
+					<lg>
+						<l>NO DATE</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

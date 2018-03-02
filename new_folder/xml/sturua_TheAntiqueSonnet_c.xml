@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>The_Antique_Sonnet, ანტიკური_სონეტი</title>
+   <author>Lia_Sturua, ლია_სტურუა</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective (DTCG)</resp>
+    <name>Mary Childs</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+   <!--^unique identifier for every digital text ex. ISBN: -->
+   <availability>
+    <p>Copyright 2014 DTCG. All Rights Reserved.</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lia Sturua The Antique Sonnet</bibl>
+   <bibl>Author: Lia Sturua</bibl> 
+   <bibl>Title: The Antique Sonnet</bibl>
+   <bibl>Publisher: International Poetry Review, Greensboro, NC</bibl>
+   <bibl>City of Origin: Tbilisi</bibl>
+   <bibl>Editor: Mark Smith-Soto</bibl>
+   <bibl>Translator: Dominik Irtenkauf</bibl>
+   <bibl>ISBN # (if not appplicable, NA): NA</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">Spring 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">ანტიკური სონეტი</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>როგორ უყვარდათ! რა მზე იყო, რა თეთრი ჭირი,</l>
+										<l>რა ნექტარს სვამდნენ ვულკანების ცხელი ყელიდან!</l>
+										<l>ხალხი კლდოვანი, მარმარილოს მკრთალი ელიტა</l>
+										<l>და სისხლის ტბაში მობანავე ბრინჯაოს გმირი</l>
+										<l>ზღვა იყო ღმერთი, მიწაცა და ჰაერიც ღმერთი</l>
+										<l>ერთს რომ უყვარდა ჩვენი გმირი, მეორე კლავდა,</l>
+										<l>ხან ქუსლი ჰქონდა მას უმწეო და ხანაც მკლავი,</l>
+										<l>რომელზეც ქალი დაეწვეთა, მდინარე თეთრი</l>
+										<l>ისიც გაზრდილი წუთისოფლის ურძეო ხსენით,</l>
+										<l>ფუთ ბრინჯაოში ერთი სუსტი ქუსლის მჩხრეკავი,</l>
+										<l>სისხლის აღრევა, სისასტიკე, მრუში გენები</l>
+										<l>გველის წიწილებს ნდასჰ მარმარილოს ტორსებს ჩეკავდნენ,</l>
+										<l>მერე ყველაფრის პოეზიით გადამლეკავი,</l>
+										<l>თვალებდათხილი ჰეგზამეტრი იდგამდა ენას.</l>
+									</lg>
+									<lg>
+										<l>“ეგება ვეფხვის დედაი</l>
+										<l>ჩემზე მწარედა ტირისარდქუო.</l>
+										<l>ხალხური</l>
+										<l>ხომ შეიძლება,</l>
+										<l>მე იღბლიანმა მონადირემ,</l>
+										<l>გადავიარო ჭიუხები</l>
+										<l>და ისე როგორც ასი წლის წინათ,</l>
+										<l>შემომხვდეს ვეფხვი,</l>
+										<l>ის მოდიოდეს</l>
+										<l>ყვავილოვანი მინდრების მხრიდან</l>
+										<l>და უძველესი წყევლა ამიხდეს:</l>
+										<l>მზე დამიბნელდეს, ხმალი ვადაში გადამიტყდეს...</l>
+										<l>მაშინ მე უნდა მიშველოს მიწამ:</l>
+										<l>ჩამაგდოს თბილ და მსუყე წიაღში</l>
+										<l>და ჩემი ჩრდილი აქციოს მინდვრად...</l>
+										<l>მაგრამ მე მიწა რა მიშველის –</l>
+										<l>მთელი სიცოცხლე</l>
+										<l>მე ფეხქვეშ მქონდა ნიადაგი</l>
+										<l>მხოლოდ სიზმრების და უჩვეულო სახეების...</l>
+										<l>და ახლაც ვეფხვი – მოსისხლე მტერი,</l>
+										<l>ჩემს აღმოსავლურ და ზანტ ხილვაში,</l>
+										<l>მოდის, როგორც მზე.</l>
+										<l>ასეთ მზეს მოაქვს სასტიკი გვალვა...</l>
+										<l>და თუკი მართლა</l>
+										<l>გიყვარს შენი უცნობი ძმები, – </l>
+										<l>და მევედრება:</l>
+										<l>მზე დედაა ჩემი...</l>
+										<l>მე ვიცი,</l>
+										<l>მაგრამ ბრძოლა უკვე არ შემიძლია;</l>
+										<l>ნუ გამიწყრები, ჩემო სინათლევ!</l>
+										<l>და ელანდება გაყინულ ხელებს</l>
+										<l>რაღაც ნატიფი და საშინელი,</l>
+										<l>ალბათ, ბუსუსი მწიფე ატმების...</l>
+										<l>მაგრამ თუ ჩემი</l>
+										<l>მორყეული სამყაროს მიღმა</l>
+										<l>აიშვებს მიწა,</l>
+										<l>რომელსაც ქედზე უღელივით დავადგი ტაბუ,</l>
+										<l>და მაპატიებს</l>
+										<l>უაზრო სიზმრებს, ჭრელ სახეებს,</l>
+										<l>მე მეგონება, რომ მოვიდა პურის მცენარე</l>
+										<l>და ოქროსფერ სიკეთეს მაძლევს...</l>
+										<l>მე მეგონება, რომ ძველისძველმა</l>
+										<l>ზარხოშმა ალღომ</l>
+										<l>მოიყვანა ჩემთან ვენახი,</l>
+										<l>რომელიც დათმობს უკვდავებას მცენარეულს,</l>
+										<l>რომ ერთი წუთით განკაცდეს ჩემში...</l>
+										<l>მაშინ მე მოვკლავ ამ ლამაზ ნადირს,</l>
+										<l>რაგანაც მზე დედაა ჩემი,</l>
+										<l>რადგანაც მინდა ვუთხრა მეგობრებს:</l>
+										<l>მთელი სიცოცხლე</l>
+										<l>ჩვენ დროშასავით მოგვქონდა მაღლა</l>
+										<l>მოაზროვნეთა თეთრი შუბლები,</l>
+										<l>მაგრამ ოდესმე თუ დაგჭირდათ</l>
+										<l>დროშა სხვაგვარი,</l>
+										<l>წაიღეთ ჩემი ტანსაცმელი,</l>
+										<l>მზით გაცვეთილი,</l>
+										<l>გადააფარეთ ოქროსფერ ცხენებს</l>
+										<l>და გამაზღაპრეთ, მე გაძლევთ ნებას!</l>
+										<l>ნუ გადაიტანთ ჩემს ძვლებს ქალაქში,</l>
+										<l>ცხვარს ნუ დამიკლავთ,</l>
+										<l>მე არ მჭირდება ცრემლიანი პანაშვიდები,</l>
+										<l>ოღონდ, მიეცით დედაჩემს ძალა,</l>
+										<l>რომ დედა ვეფხვი შეეცოდოს...</l>
+									</lg>
+									<lg>
+										<l>NO DATE</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">The Antique Sonnet</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>How they loved! What a sun, how white the plague,</l>
+						<l>What nectar they imbibed from the scorching-hot volcano vent!</l>
+						<l>The rock-like people, the marble-pale elite </l>
+						<l>And the bronze hero bathing in a lake of blood</l>
+						<l>The sea itself was god, and the land and air too</l>
+						<l>While one loved our hero was loved, another murdered him,</l>
+						<l>Sometimes his heel was weak, and sometimes his arm,</l>
+						<l>Where a woman flowed, a white river</l>
+						<l>Reared on the milk-free plasma of life,</l>
+						<l>Finding a weak heel in the two stone of bronze,</l>
+						<l>Incest, brutality, vile and whoring genes</l>
+						<l>Hatching marble torsos – snake hatchlings,</l>
+						<l>And then, washing it all with poetry,</l>
+						<l>The eye-plucked hexameter began to speak.</l>
+					</lg>
+					<lg>
+						<l>‘The mother panther might be weeping</l>
+						<l>More bitterly than me.’</l>
+						<l>(A folk poem)</l>
+						<l>I might be</l>
+						<l>A lucky hunter</l>
+						<l>Walking among the ragged rocks,</l>
+						<l>And, like a hundred years ago, </l>
+						<l>Meet a panther</l>
+						<l>Coming from the land of blossoming meadows</l>
+						<l>And an age-old curse might come true for me:</l>
+						<l>‘Your sun goes black, your dagger snaps in two…’</l>
+						<l>Then it would be for the earth to save me:</l>
+						<l>Take me into its warm and nourishing depths,</l>
+						<l>Turning my shadow into a meadow…</l>
+						<l>But the earth cannot redeem me – </l>
+						<l>All my life I’ve been treading on</l>
+						<l>The soil of dreams and unusual images…</l>
+						<l>And now it’s a panther – a blood enemy,</l>
+						<l>In my oriental lazy contemplation,</l>
+						<l>That comes like a sun.</l>
+						<l>This kind of sun brings along severe drought…</l>
+						<l>And if you truly love thy unknown brothers,</l>
+						<l>You will open up for the clay Lazarus to come into you,</l>
+						<l>And sacrifice yourself to the drought,</l>
+						<l>Only to bring rain into their lives…</l>
+						<l>But suddenly,</l>
+						<l>From my sacrificial body,</l>
+						<l>Like an innocent baby comes out</l>
+						<l>A pillaged life-giving pillar of light</l>
+						<l>And pleads with me:</l>
+						<l>‘The sun is a mother to me…’</l>
+						<l>I know,</l>
+						<l>But can't fight any more;</l>
+						<l>Don’t be angry with me, dear light!</l>
+						<l>And the frozen hands</l>
+						<l>Have visions of something refined and horrible,</l>
+						<l>Probably the downy skin of a ripe peach…</l>
+						<l>But should, beyond my rickety world,</l>
+						<l>The earth, on which</l>
+						<l>I have put a taboo like a yoke,</l>
+						<l>Set loose and forgive me</l>
+						<l>My nonsensical dreams</l>
+						<l>And multi-coloured faces,</l>
+						<l>I will believe that a bread-tree has come,</l>
+						<l>Giving me its golden kindness…</l>
+						<l>I will think that the ancient</l>
+						<l>Drunken intuition</l>
+						<l>Has made the vine grow, the vine</l>
+						<l>Which discarded its vegetative immortality</l>
+						<l>So that it may, for a moment,</l>
+						<l>Find its embodiment in me…</l>
+						<l>Then I will kill this beautiful beast,</l>
+						<l>Because the sun is a mother to me,</l>
+						<l>Because I’d like to tell my friends:</l>
+						<l>“All our lives we have carried high like banners</l>
+						<l>The white foreheads of the thinking kinds,</l>
+						<l>But if ever you should need</l>
+						<l>A different banner,</l>
+						<l>Take my clothes</l>
+						<l>Thread bare from the sun,</l>
+						<l>Cover golden horses with them</l>
+						<l>And turn me into a legend,</l>
+						<l>I allow you that much!</l>
+						<l>Don’t move my bones to the city,</l>
+						<l>And don’t sacrifice a lamb on my grave,</l>
+						<l>I have no need for a tearful wake,</l>
+						<l>But give my mother the strength</l>
+						<l>To feel pity for the panther’s mother…’</l>
+					</lg>
+					<lg>
+						<l>NO DATE</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

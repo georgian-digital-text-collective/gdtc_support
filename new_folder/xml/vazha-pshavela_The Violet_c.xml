@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>The_Violet, ია</title>
+   <author>Vazha-Pshavela, ვაჟა-ფშაველა</author>
+		<respStmt>
+			<resp>Georgian Digital Text Collective (DTCG)</resp>
+			<name>Mary Childs, with Aida Lominadze</name>
+		</respStmt>
+	</titleStmt>
+<publicationStmt>
+	<distributor>Newbook Digital Texts (NDT)</distributor>
+	<address>
+		<addrLine>newbook@uw.edu</addrLine>
+	</address>
+	<idno type="DTCG">1999</idno>
+
+	<availability>
+	<p>Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+<date when="2012">2009</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>Vazha-Pshavela The Violet</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>
+The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.
+</p>
+</projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+</encodingDesc>
+<revisionDesc>
+
+<list>
+	<item><date when="2012-10-22">July 2009</date> Last checked</item>
+	<item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+</list>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="work" xml:id="GT0000">
+<head type="work">Title</head>
+<div type="container1" xml:lang="ka">
+<head type="container1">ია</head>
+<head type="container1">
+<foreign>title</foreign>
+</head>
+<head type="dedication">dedication</head>
+<div type="chapter" n="1">
+<head type="chapter" n="1">chapter title</head>
+<div type="section" n="1">
+<head type="section" n="1">section title</head>
+<pb n="0001"/>
+
+<p>უღრანს ტყეში მოსული ვარ... მანამ ცოცხალი ვარ, ჩემის სილამაზით დავატკბობ 
+ტყეს, ბალახს და იმ გაღმიდამ გამომცქერალს გულხავსიანს კლდესა, სუნელებას 
+მივაფრქვევ არემარეს. ყველას ვუყვარვარ: აგერ იმ დამპალს ყუნჭს თვალი სულ 
+ჩემსკენ უჭირავს, მიცინის ხოლმე, უნდა ჩემთან მოვიდეს, - მაკოცოს, მაგრამ არ 
+შეუძლიან, მხოლოდ შორიდამ გამიცინებს, გაიღიმება საცოდავი, თუმცა უშნოდ, 
+მაგრამ გულკეთილობა კი დიდი გადაეფინება ხოლმე პირზედ. 
+</p>
+
+<p>განა მარტო იმას უხარიან ჩემი სიცოცხლე? წვერხმელი ხეებიც მე დამხარიან 
+ზევიდამ, თვითონ თავშიშველნი, ტოტებს მე მაფარებენ: ჩვენს იას არ შეგვიცივდეს, 
+ან არაფერმა არ აწყინოსო. პირდაპირ შხაპუნა წვიმას არ უშვებენ ჩემამდის: წვიმას 
+შეუძლიან ერთბაშად ჩამომაცალოს ფოთლები. უფოთლებოდ ყოფნა და სიკვდილი 
+ჩემთვის ერთია. არა, ხეები: არყი, წიფელი, თხილი, თამელი, დუდგულა გარშემო 
+მეხვევიან და მყარაულობენ, წვიმის ნამს ინახავენ ტოტებით, ფოთლებით და მერე 
+ნელ-ნელა მამცვრევენ პირზე თითო-ოროლ ნამობით, პირსა მბანენ, მე ყელს 
+მოვიღერებ და ვინატრებ, ნეტა სიმღერა შემეძლოს, ნეტავი</p>
+
+<p>13b</p>
+
+<p>დამბადებელს ჩემთვის ნიჭი მოეცა. რომ მექო მაღლა ცა და ღრუბელი, მზე, ეს ჩემი მფარველი ხეები, ეს მთები, ის ჭალები და ღაბუა ჩიტები, რომელნიც ხმელს, ყვითელს ფოთლებში წითლის და მწვანის ფრთაბუმბულით ჩემს წინ დაგოგვენ და ხანდახან შემომჭიკჭიკებენ პირში, მათამაშებენ, უხარიანთ ჩემი სიცოცხლე. ჩემი ერთის თვის სიცოცხლე სხვის ოცდაოთხის თვის სიცოცხლეს სჯობია, მაგრამ დიდხანს სიცოცხლეს კი დანატრებული ვარ. დილას ერთმა ~წიფლისჩიტამ~ ჩემს ახლოს იგალობა, ლამაზი რამ იყო, - ყელწითელი, ღაბუა: იმასაც ჩემსავით თავი მოსწონდა, იხედებოდა გულზედ და მხრებზედ: ყველას მოსწონს თავი, ყველას უხარიან სიცოცხლე, ყველას უყვარს ბუნება.</p>
+
+<p>გუშინ ცამ იჭექა, ჭექა-ქუხილი ჩვენ არ გვაშინებს: ქუხილი წვიმის მომასწავებელია და წვიმა ხომ, ძუძუს გვაწოვებს დედამიწის გულზე. მზე-მამაა, ზევიდამ დაგვყურებს და გვეალერსება, თვალყურს გვადევნებს. წვიმის მოსვლა მცენარეთ - უხარიანთ, ყელამდის სიხარულით მოიყარნენ: ეხლა ისინი ახალს კაბებს და ქათიბებს ჩაიცმენ. აი ეს ორი დღეა, რაც ჩემი დობილი სასუტელაც* ამოჩნდა: უხარია, უხარიან საცოდავს, სულ თავს იქნევს დაბლდა და მაღლა, უკრავს თავს დედამიწას, მზის სინათლეს, მეჩურჩულება, ზღაპრებს მიამბობს სიცოცხლეზე, სიყვარულზე; ხანდახან კიდეც გაიკასკასებს, გადამეხვევა და მაკოცებს. გუშინ დილით მე და ჩემმა დობილმა ორივემ ვიტირეთ.</p>
+
+<p>რა შეუბრალებელია კაცი?! რასაც კი დაინახავს, უნდა რომ თავის სასარგებლოდ მოიხმაროს. ალბათ ვერ აფასებს ჩვენს სილამაზეს! ჩვენ წინ კაცმა გამოიარა, ცალს მხარზედ ცული ედო, მეორეზედ თოფი ეკიდა. მიადგა ერთს მშვენიერს ტოტგადართხმულს წიფელს, დაუშინა ცული და წააქცია. საბრალო, როდესაც წაიქცა, დაიკვნესა. ჩვენს იქით გუგულისკაბა* ამოსულიყო და ჯერ ხმელს, ჩამოსულს ფოთოლს არ ამოსცილებოდა. როდესაც ხე წაიქცა, გადიყრეინა ზევიდამ ფოთლები და წითლად გამობჭყვინდა, ცრემლები დასხმოდა ჩაღრმავებულს გულში.</p>
+
+<note>მცენარეა</note>
+
+<note>&amp;*
+მცენარეა</note>
+
+
+<p>14</p>
+
+<p>შუადღის დროს დაღალულ-დაქანცული ქედანი მოვიდა და დაჯდა ჩვენს წინ თელის ტოტზე და დაიწყო ღუღუნი. უხაროდა იმასაც გაზაფხულის მოსვლა და ის, რომ მშვიდობით ნახა კიდევ ნაცნობი ადგილი. უცებ თოფი გავარდა, ქედანმა ხმა გაკმინდა, ჯერ ფეხით ჩამოეკიდა ტოტზე, მემრე, ძირს ჩამოვარდა, ჩემს წინ დაეცა. სისხლი წამოუვიდა ნისკარტიდან და თვალები დახუჭა: გადმონადენი სისხლი წვეთ-წვეთად დაეტყო ფოთლებზე. მე და სასუტელას კანკალი მოგვივიდა... მე გარკვევით არაფერი მესმის, მხოლოდ რაღაც ბუბუნი, გრიალი, ბუნდი ჟრიამული მოდის ჩემამდის.</p>
+
+<p>ვაჰმე, რა საბრალო არი</p>
+<p>ია, მოსული მთაზედა!</p>
+<p>ბეჩავს დააზრობს სიცივე,</p>
+<p>ან ელვა დაჰკრავს თავზედა;</p>
+<p>ღმერთს მიუცია საწყლისად</p>
+<p>მოკლე სიცოცხლის ჟამია,</p>
+<p>ქვეყნისა მისგან შვენება</p>
+<p>ერთი ბეჩავი წამია.</p>
+<p>ია დაიწყებს კდომასა,</p>
+<p>დაიქვითინებს: "ვაჰმეო!</p>
+<p>თუ გამაჩინე, უფალო,</p>
+<p>დიდი დღე რად არ მამეო?!"</p>
+
+<p>15a</p>
+
+</div>
+</div>
+</div>
+<div type="container2" xml:lang="en">
+<head type="container2">The Violet</head>
+<pb n="001"/>
+<note>
+<unclear>needs to be checked</unclear>
+</note>
+
+<p>I grew up in a dense, thick forest... as long as I'm alive,
+  with my beauty I bring sweetness to the forest, to the grass, and
+  that boulder, with its mossy chest, looking at me from the other 
+  side, and I pour forth a wonderful fragrance over the surrounding area. 
+  Everyone loves me: there, that rotten tree stump looks
+  only at me, it's always laughing in my direction, it wants to come to me,
+  -- to kiss me, but it can't; it laughs towards me only from a distance, and
+  smiles, the poor thing -- although it's ugly, still, a large,
+  kindhearted smile spreads over its face.</p>
+
+<p>Really, is it the only one who takes joy in my life? The withered crowns of
+  the trees enjoy me from above, and they themselves, with naked tops,
+  shield me with their branches:  so that we violets don't catch
+  cold, so that nothing harms us.  They don't allow heavy rain to fall
+  directly on me: the rain could tear off my leaves in an instant. To be
+  without leaves and death are one and the same for me.  No, the
+  trees:  birch, beech, hazelnut, chequer, elder all surround me
+  and watch over me, they save the raindrops for me with
+  their branches and leaves, and then slowly, gently let fall one
+  or two drops from above; they wash my face; I lift up my neck and
+  dream, if only I could sing, if only</p>
+
+<p>13b</p>
+
+<p>my creator had given me that gift. So I could praise the sky above
+  and the cloud, the sun, these sheltering trees of mine, these mountains,
+  those flood meadows, and bearded hens, which in the dry, yellow leaves, 
+  strut in front of me with their red and green plumage, and sometimes chirp 
+  right in my face, play with me, and fill my life
+  with joy. My life of one month is better than another's life of
+  twenty-four months, but still, I dream of having a long life.  In the
+  morning, a "wood warbler" was chanting close to me -- how beautiful
+  she was -- red-throated, jowly; and she, too, like me, was
+  pleased with herself, she was looking at her chest and her
+  shoulders; everyone is pleased with himself, everyone rejoices in life, everyone loves nature.</p>
+
+<p>Yesterday there was thunder in the sky, but thunder and lightening do
+  not frighten us: thunder is a harbinger of rain, and rain, after
+  all, gives us her breast to suck on the heart of the earth.  The sun is
+  our father, it looks down on us from above, and caresses us,
+  keeps an eye on us. When the rain comes, the plants rejoice, they are
+  filled to their chins with joy:  now they put on new dresses and
+  jackets.  Look, it's been two days, since my bosom buddy, the foxglove, has appeared: 
+  she is happy, she is happy for the pitiful; she
+  constantly nods her head up and down, she bows her head to the
+  earth, to the light of the sun, she whispers to me, she tells me
+  fairy tales about life, about love; sometimes she even bursts out
+  laughing, embraces me, and kisses me.  Yesterday morning 
+  my bosom buddy and I were both crying.</p>
+  
+<p>How merciless is man!!  What ever he sees, he wants to use for his own benefit.  
+  Perhaps he can't appreciate our beauty! A man went past us, an axe was resting on one 
+  shoulder, a rifle hung from the other. He went up to a beautiful beech
+  with wide-reaching branches, he chopped it with his axe, and felled
+  it. The poor thing, it groaned when it fell.  Beyond us, an early purple orchid had come up, 
+  an had not yet raised up over last year's dry,fallen leaves.  When the tree fell, 
+  the leaves waved overhead, and the trunk glistened red, 
+  the tears flowed in the depths of its heart.</p>
+
+<p>14</p>
+
+<p>At noon, a wood pigeon, tired and exhausted, came and sat down in
+  front of us on an elm branch, and began to coo. She too, rejoiced
+  that spring was coming and that, again, in peace, she saw a
+  familiar place.  Suddenly a rifle was heard, the wood pigeon fell silent,
+  at first she hung from the branch by her foot, then she dropped
+  down and lay in front of me.  Blood flowed out of her beak
+  and she closed her eyes; the blood falling in drops splashed on the leaves.  
+  The foxglove and I shuddered... I hear
+  nothing distinctly, only some kind of din, a roar, hazy clamour comes towards me.</p>
+
+<p>Alas, how wretched is</p>
+<p>the violet, born in the mountains!</p>
+<p>Cold freezes the pitiful thing, </p>
+<p>or lightening strikes its head;</p>
+<p>God gave to this unhappy one</p> 
+<p>a short span of life,</p>
+<p>the beauty it gives the world</p>
+<p>lasts a single pitiful minute.</p>
+<p>The violet begins to die,</p>
+<p>it bursts out crying: "Alas!</p>
+<p>If you gave birth to me, O Lord,</p>
+<p>why didn't you give me a long day?!"</p>
+
+<p>15a</p>
+
+</div>
+<div type="container3" xml:lang="ru">
+	<head type="container3">title</head>
+	<p>content</p>
+</div>
+<div type="footnotes">
+		<note xml:id="n0001">note content</note>
+</div>
+</div>
+</body>
+</text>
+</TEI>

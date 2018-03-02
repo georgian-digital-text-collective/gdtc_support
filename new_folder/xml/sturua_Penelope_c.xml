@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Penelope, პენელოპე</title>
+   <author>Lia_Sturua, ლია_სტურუა</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Dominik Irtenkauf</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lia Sturua Penelope</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">Spring, 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">პენელოპე</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>ვუძღვნი
+									მანანა ღარიბაშვილს</l>
+									</lg>
+									<lg>
+										<l>არა და არ მოდის</l>
+										<l>ზღვაზე დასრიალებს,</l>
+										<l>ანუ ორ ხმელეთს შორის</l>
+										<l>გაწოლილ ჰომეროსზე</l>
+										<l>მის სიბრმავეს აპატიე</l>
+										<l>ქალების ლამფები და პროჟექტორები,</l>
+										<l>ზღვის სიპრიალე!</l>
+										<l>ვის უნახავს პრიალა სიყვარული?</l>
+										<l>იმ შენ გაუთავებელ ქსოვილსაც,</l>
+										<l>უკვე, ხორკლები აყრია,</l>
+										<l>არფებმა მამლების წითელი ბიბილოები</l>
+										<l>გამოიბეს ნდასჰ; ანტილაჟვარდი</l>
+										<l>ანგელოზების გლუვ თავებში</l>
+										<l>ჩატენილი კაკაფონია</l>
+										<l>რას ერჩოდი?</l>
+										<l>ისე რბილად ფიქრობდნენ შენზე...</l>
+										<l>და რა მოგცა მოთმინებამ?</l>
+									</lg>
+									<lg>
+										<l>რამდენიმენორმალური კაცი </l>
+										<l>რომგანასკვო,</l>
+										<l>ერთისიგიჟე არ გამოვა?</l>
+										<l>კეთილხმოვანებაბრმებს დაუტოვე,</l>
+										<l>ფილარმონიებს,</l>
+										<l>მოჰერისგანმოქსოვილ ოჯახებს,</l>
+										<l>დაწყევლილისირბილე!</l>
+										<l>თეფშზეჩანგლის გასმა</l>
+										<l>უფროარ გამოაფხიზლებს კაცს?</l>
+										<l>ყურებსცვილით კი არ დაიხშობს,</l>
+										<l>მოიჭრისდა სიგიჟის საბუთივით</l>
+										<l>მიუგდებსიმ დროებით ქალებს...</l>
+										<l>ყველანიცოტათი პოეტები ხართ:</l>
+										<l>შენც,ისიც, ორ ხმელეთს შუა გაწოლილზე,</l>
+										<l>ხომლაპარაკი ზედმეტია ...</l>
+										<l>ბრმარომ იკითხავს: - რა არის ლურჯი?</l>
+										<l>დაშოპენის ეტიუდში ჩააყოფინებენ ხელებს ...</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">Penelope</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>(dedicated
+					to Manana Garibashvili)</l>
+					</lg>
+					<lg>
+						<l>No, not walking but</l>
+						<l>Gliding over the sea,</l>
+						<l>Or rather over Homer</l>
+						<l>Stretched between two lands,</l>
+						<l>His blindness you found an excuse for</l>
+						<l>Women's lamps and projectors,</l>
+						<l>The glistening sea!</l>
+						<l>Who has seen a glistening love?</l>
+						<l>And that endless fabric of yours</l>
+						<l>Shows lumps and knots,</l>
+						<l>The harps have red combs of</l>
+						<l>Roosters – anti-azure</l>
+						<l>The cacophony enclosed</l>
+						<l>In the smooth heads of angels</l>
+						<l>Why fight them?</l>
+						<l>They'd been thinking of you so softly...</l>
+						<l>And what use was patience anyway?</l>
+					</lg>
+					<lg>
+						<l>If you tie several normal men</l>
+						<l>In a knot,</l>
+						<l>Will you get one madness?</l>
+						<l>Leave harmony to the blind,</l>
+						<l>The philharmonic halls,</l>
+						<l>The mohair-knitted families</l>
+						<l>Cursed softness!</l>
+						<l>Wouldn't a fork swished across a plate</l>
+						<l>Wake anyone better?</l>
+						<l>Wouldn't plug one's ears with wax,</l>
+						<l>Would rather cut them off</l>
+						<l>And throw at those temporary women</l>
+						<l>As a proof of madness...</l>
+						<l>You are all poets to some extent:</l>
+						<l>You, him, not to mention the one</l>
+						<l>Stretched between two lands...</l>
+						<l>When a blind man asks "What's blue?"</l>
+						<l>They'll make him put his hands in Chopin's etude.</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

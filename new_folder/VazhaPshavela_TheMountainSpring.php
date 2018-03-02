@@ -1,0 +1,234 @@
+<?php
+	include("../gdtc_support/common.php");
+	$title = "The Mountain Spring ,  მთის წყარო";
+	top($title); ?>
+				<h1><?= $title ?></h1>
+				<h1 class="get">The Mountain Spring ,  მთის წყარო</h1>
+			</article>
+		</article>
+		<article>
+			<div class = "row" id = "row">
+				<div class="col-lg-8 col-lg-offset-2">      
+					<table class="table table-condensed table-hover">
+						<thead>
+						<tr>
+						<th>Category:</th>
+						<th>Descriptor:</th>
+    					</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Author:</td>
+								<td>Vazha-Pshavela ,  ვაჟა-ფშაველა</td>
+							</tr>
+							<tr>
+								<td>Publisher:</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>City:</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>Editor:</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>Translator:</td>
+								<td>Mary Childs, with Aida Lominadze</td>
+							</tr>
+							<tr>
+								<td>Edition:</td>
+								<td>Electronic Version</td>
+							</tr>
+							<tr>
+								<td>Responsibility:</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>Date:</td>
+								<td>2011</td>
+							</tr>
+							<tr>
+								<td>Copyright:</td>
+								<td>
+								Georgian in Seattle. Non-commercial Use Permitted, With Attribution
+								[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.
+								[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.
+								</td>
+							</tr>
+							<tr>
+								<td>Notes:</td>
+								<td><ol><li>
+								needs to be checked
+								</li></ol></td>
+							</tr>
+							<tr>
+								<td>Text ID:</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</article>    
+		<article>
+			<div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+                	<h2> ვაჟა-ფშაველა</h2>
+				</div>
+				<div class="col-lg-4 english">
+					<h2>Vazha-Pshavela</h2>
+				</div>
+			</div>
+			<div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<h1> მთის წყარო</h1>
+				</div>
+				<div class="col-lg-4 english">
+					<h1>The Mountain Spring</h1>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p class = "pb">
+					Page: 1
+					</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p class = "pb">
+					Page: 1
+					</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					არაფერი ცოდვა არ მიქნია ჩემს სიცოცხლეში. ვერც ერთი სულიერი, თუნდ 
+					უსულო, ჩემს ცოდვას, ჩემს სიავეს ვერ იტყვის.  ღმერთს ესე დაუწესებივარ: 
+					უნდა ვიდინო, ვიდინო; ყველამ ჩემით უნდა მოიკლას წყურვილი. გახურებულს
+					ზაფხულის დღეში რამ-
+					</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					In my life, I have committed no sin.  Not a single living
+					  creature, or even non-living, will talk about my sin or nastiness.
+					  God created me this way:  I need to flow, and flow; everyone needs
+					  to slake his thirst by means of me.  In the intense heat of a summer’s day so many
+					</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					15</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					15</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					დენი ნადირი მოდის, სვამს ჩემს წყალსა, რამდენი დაღალულდაქანცული მუშა
+					  მოვა, მოიტანს ცელს, ნამგალს გასალესად. კაცნი მსმენ და ათასში ერთი თუ
+					  იტყვის: "დაილოცე, ცივო მთის წყაროვ, რომელი ღვინო შეგედრებაო?!"
+					  უმრავლესობა ზედ მაფურთხებს. რა ვქნა, მე ვერავის მივაფურთხებ. დეე,
+					  ისევ მე მაფურთხონ! რა ბედნიერადა ვგრძნობ ჩემს თავსა, ღმერთო! რა კარგი
+					  მეგობრები მყვანან გვერდსა! აი, ჯერ ეს ლოდები, სქლად მწვანე ხავსი რომ
+					  გადაჰკვრიათ აი, კიდევ ჩემს თავზედ პირყვითელი კლდე რომ დაყუდებულა და
+					  დამცქერის, მეხურება თავზედ მუზარადივით. ეს დევებივით ქორაფები როგორ
+					  აწვდილან ზეცად და მზის სხივსაც არ უშვებენ ჩემამდის! სქელი,
+					  გველებივით დაკლაკნილი ფესვები ჩემს უბე-კალთაში ჩაუწყვიათ. ორისა თუ
+					  სამის ვერსის სიგრძეზე ვარ მხოლოდ ბედნიერი და უცოდველი, მერე დამლევს,
+					  ჩამნთქავს უზარმაზარი მდინარე, დაიკარგება ჩემი სახელი, ჩემი
+					  ვინაობა. როგორც უნდა, ისე მათამაშებს. თითონ ხომ ღრიალებს, ბორგავს,
+					  აწყდება აქეთ-იქით, ანგრევს დედამიწას, გლეჯავს ხეებსა და მიათრევს, მეც
+					  იმასვე ჩამადენინებს. მაგრამ მაშინ მე ის აღარა ვარ, რაც ეხლა, ამ
+					  წამში, როდესაც პირველად კლდიდამ ვიბადები. ოჰ, ამ მდინარისაგან გული
+					  მაქვს გახეთქილი! რამდენჯერ აქ მესმის ხოლმე ხალხის ჟივილ-ხივილი;
+					  "დაარჩო წყალმა კაცი, უშველეთ, ღმერთი არავისა გწამთო!" ცოტა არ არის,
+					  მეც ბრალი მედება. ვაჰ, ჩემო თავო!</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					animals come to me, drink my water, so many exhausted
+					  workers come, bring their scythes to sharpen their blades.
+					  Men drink from me, and only one in a thousand says: “Blessed are
+					  you, oh cold mountain spring, what wine can be compared with you?!”
+					  The majority simply spit at me.  What can I do, I can’t spit at
+					  anyone.  But let them all the same, let them spit at me!  I consider
+					  myself fortunate, oh Lord!  What good friends I have beside me!
+					  Look, here are the boulders, covered with a thick layer of moss, there, above my head sheer cliffs covered in yellow look down at me, like skullcap.  These  maples, like Devi, raise up to the skies, and the rays of the sun don’t reach me.  Thick roots, twisted like snakes, are intertwined with my chest and lap.   I’m happy and without sin for the length of only two or three kilometers, then, an enormous river swallows me, drowns me, and my name is lost, and my identity.  It plays with me as it desires..   The river itself after all, howls, tosses from side to side, rushes here and there, destroys the ground, tears out trees, carries them away, and forces me to do the same thing. But then, I’m no longer what I was then, in the minute when I was first born from the cliffs.  Oh, my heart is burst because of this river!  How many times have I heard here the people’s cries;  “The river has drowned a man, help, for god’s sake!”  No matter what, the sin also lies on me.  Oh, my fate!
+					</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					ნეტავი დამბადებელს ესე არ დავეწესებინე და სულ დაუსრულებლად მედინა, მერწყო მცენარენი, დედამიწის ლამაზი გული, მომეკლა კაცთა და ცხოველთათვის წყურვილი! რა ბედნიერად ვგრძნობ ხოლმე ჩემს თავს, როცა მე ჩავუვლი გასახმობად დამზადებულს ბუერასა და იგი თავს დამიკრავს. სალამს მაძლევს, თან თავისის ფოთლებისას კაბას მიკერავს, მერე რომ ჩადუნიანში ჩავრაკრაკდები და ისინიც გარს შემომერტყმიან და ტრფიალით მომძახიან: "გაუმარჯოს მთის წყაროს, გაუმარჯოსო!, ახლა ზვავისაგან წამოთელილს თხილებსა და ყურძნებს დავულბობ დამჭკნარს ფესვებსა და მაღლა ავახედინებ... ოჰ, ღმერთო, ჩემს ამაგს რად აფუჭებინებ იმ ტიალს, აბეზარს, დაუდეგარს, მოუსვენარს მდინარეს! წუხელი რა ცუდი სიზმარი ვნახე!... ღმერთო დამბადებელო,  
+					</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					If only my Lord had not created my this way, but that I would flow forever by myself, to water the plants, the beautiful heart of the earth,  slake humans’ and animals' thirst.  How happy I usually feel, when I walk past the butterbur, all ready to dry up, and it nods its head at me.  It says hello,  and at the same time, sews me a dress from its leaves; then when I already burbling  past the ferns, and they surround me, and call to me with passion: 
+					 “Cheers to you, mountain spring, cheers!!.”  Now, I soften the withered roots of the hazelnut trees and the vineyards, crushed by an avalanche, and get them to look up high…  Oh, oh Lord,  why is my good work annihilated in this wretched, outrageous, turbulent and jostling river!  What an evil dream I had last night! ...Oh Lord, my creator, 
+					</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					16</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					16</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					ჩვენო პატრონო, ჩვენო შემნახველო, კარგად ამიხდინე. ეს ვნახე,  
+					ვითომ ვიღუპებოდი. გვალვა, დიდი გვალვა დამდგარიყო. ბალახნი, ხენი, 
+					ჩემნი მშობელნი, დამჭკნარიყვნენ, მეც დავმშრალიყავი  თითქმის. ღაბუა, 
+					ლამაზი "წიფლისჩიტა" ჩამოფრინდა ვერხვის ტოტიდამ და უნდოდა ჩემს 
+					გუბეში ბანაობა, მაგრამ ვეღარ დაისველა მხრები და დაიწყო ტირილი. 
+					ვხედავდი ამას და გული მიკვდებოდა; "სად წახველ, ჩემო მადლო-მეთქი," 
+					- ვდუდუნებდი. დამჭკნარი დიყი, შუპყა, შამბი, არყი, ცაცხვი და ურძანი, -
+					ყველანი  ერთად შფოთავდნენ: -"მივაშველოთ წყაროს წყალი, არ 
+					დაგვიშრესო!" მაწვდიდნენ ფოთლებიდამ, ტოტებიდამ, ფესვებიდამ  თითო-
+					ოროლა ნამობით, მაგრამ ვეღარასა მშველიდნენ. თანაც  ვითომ მიწამ 
+					პირი მიყო და დაუსრულებელს უფსკრულში უნდა  დავღუპულიყავ. 
+					შემეშინდა და გამომეღვიძა. გული მიკანკალებდა, შუბლზე ოფლი 
+					დამსხმოდა. ავიხედე, ნისლებით გაჭედილიყო ხევ-ხუვი დავინახე. ქორაფმა 
+					ტოტები დამკრა, აკვანი დამირწია და დამდუდუნა: "ნუ გეშინიან, პატარავ, 
+					არ დაშრები, არ დაიკარგებიო!" ამ დროს, დღისით ფრთხილი და 
+					წინდახედული, ზურგზე რქებგადაყრილი, "ყელყურლამაზიანი" ირემი 
+					მოვარდა გაჩქარებით, დაეწაფა ჩემს წმინდა წყალს, დალია და გაძღა. 
+					მაშინ გულდამშვიდებულმა ვსთქვი: "- არა ვარ ჩამშრალი, არაო!"  
+					</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					our master, our protector, may this dream turn out well.  I dreamed I was dying.  There was a drought, a terrible
+					drought.  The grasses, the trees, my parents were withering, and I, too, as was almost dried up.   The bearded hen, the beautiful “wood-warbler" flew down from the branch of an aspen and wanted to bathe in my stagnant puddle, but she couldn’t even get her shoulders wet, and she started to cry.  I watched her, and my heart stopped;  “Where have you gone, my grace," I murmured to myself.  The withered hogweed, reeds, birch, lime and wayfaring trees -- all of them were troubled:  “Let’s help, give water to the stream, so that it does not dry up!”  From the leaves, their branches, and their roots they gave me one or two drops of dew, but they were not able to help more.  In the meantime, it was as if the earth opened up its mouth and I had to perish in it eternal abyss.  I was frightened, and woke up.  My heart shuddered, and sweat broke out on my forehead.  I looked up, and saw the ravine covered in fog.   The maple touched me gently with its branches, rocked my cradle, and murmured to me:  “Don’t be afraid, my little one, you won’t dry up, you won’t disappear!”  At this moment, a deer with a beautiful neck and ears, careful and cautious in the daylight, with his horns lifted back, ran quickly, bent down over my clean water, 
+					drank, and quenched his thirst.  Then I, with my heart calmed, said:  “I will not dry up, I will not!”
+					</p>
+				</div>
+			</div>
+            <div class = "row">
+				<div class="col-lg-4 georgian col-lg-offset-2">
+					<p>
+					17</p>
+				</div>
+				<div class="col-lg-4 english">
+					<p>
+					17</p>
+				</div>
+			</div>
+		<?php
+	bottom();
+?>
