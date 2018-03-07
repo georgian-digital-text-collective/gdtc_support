@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Untitled</title>
+   <author>Lado_Asatiani, ლადო_ასათიანი</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Mary Childs, with Maka Janikashvili</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2011</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lado Asatiani Untitled</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">Winter, 2011</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">* * *</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>ვიდრე სიკვდილი გამახვევდეს ბნელს მოსასხამში</l>
+										<l>ვიდრე სიკვდილის ჭვალი გულზე დამესობოდეს,</l>
+										<l>უკანასკნელად დამაწვინეთ ჩემს ოდა სახლში,</l>
+										<l>უკანასკნელად, ვიდრე თვალნი დამევსებოდნენ.</l>
+										<l>უკანასკნელად პაპიჩემის გაჯორკილ ტახტზე</l>
+										<l>დამიგეთ მაგრად, დამახურეთ შავი ნაბადი,</l>
+										<l>უკანასკნელად უდრტვინველად მამყოფეთ ასე,</l>
+										<l>ვიდრე სიკვდილი შფოთიან სულს გამინაბავდეს.</l>
+									</lg>
+									<lg>
+										<l>1941</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">* * *</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>Before death wraps me in its dark shroud,</l>
+						<l>Before death's seal makes it mark on my heart,</l>
+						<l>For the last time let me visit in my ancestral home,</l>
+						<l>For the last time, before my eyes go dark on me,</l>
+						<l>For the last time on my grandfather's wooden plank bed</l>
+						<l>Make for me a firm surface, cover me with a black nabadi,</l>
+						<l>For the last time let me be like this, untouched,</l>
+						<l>Before death brings silence to my turbulent soul.</l>
+					</lg>
+					<lg>
+						<l>1941</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

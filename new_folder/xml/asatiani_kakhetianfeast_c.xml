@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Kakhetian_Feast, ლხინი_კახელებთან</title>
+   <author>Lado_Asatiani, ლადო_ასათიანი</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective (DTCG)</resp>
+    <name>Mary Childs, with Lia Shartava</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Copyright 2014 DTCG. All Rights Reserved.</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2014</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lado Asatiani  Kakhetian Feast</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">22 October 12</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">ლხინი კახებთან</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>მე ჩემი სახლი გამხსენებია,</l>
+										<l>გამხსენებია ყველა კეთილი...</l>
+										<l>თქვენთან ნადიმში დამთენებია,</l>
+										<l>არ დავრჩენილვარ გულდაწყვეტილი.</l>
+									</lg>
+									<lg>
+										<l>მე განმიცდია მთის იდილია</l>
+										<l>და საარაკო ლხინი მზიური,</l>
+										<l>მაგრამ ეს რაღაც უფრო ტკბილია,</l>
+										<l>უფრო ნაცნობი და მშობლიური.</l>
+									</lg>
+									<lg>
+										<l>ჩემს გვარს, უშიშარს და იმედიანს,</l>
+										<l>არ მოჰკლებია ყურძნის ნაწური,</l>
+										<l>მაგრამ ეს რაღაც უფრო მეტია,</l>
+										<l>უფრო სოფლური და ვაჟკაცური.</l>
+									</lg>
+									<lg>
+										<l>1938</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">Kakhetian Fest</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>I remember my house,</l>
+						<l>I remember every kindness and good deed...</l>
+						<l>I've met the dawn with you at parties,</l>
+						<l>And I live with no regrets.</l>
+					</lg>
+					<lg>
+						<l>I've experienced the idyll of the mountains</l>
+						<l>And the sunny, fabulous feasting,</l>
+						<l>But this is something sweeter,</l>
+						<l>More familiar, like family.</l>
+					</lg>
+					<lg>
+						<l>My name, fearless and giving hope</l>
+						<l>Has never been without the flow of grapes</l>
+						<l>But this is something even more,</l>
+						<l>More village-like, and more manly.</l>
+					</lg>
+					<lg>								
+						<l>1938</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

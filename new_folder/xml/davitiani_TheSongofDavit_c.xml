@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+
+<!--  [ TEI Header information ]  -->
+
+ <fileDesc>
+  <titleStmt>
+   <title>The_Song_of_Davit, სიმღერა_დავითისა:ზუბოვკა</title>
+   <author>Davit_Guramishvili, დავით_გურამიშვილი</author>
+		<respStmt>
+			<resp>Georgian Digital Text Collective (DTCG)</resp>
+			<name>Lyn Coffin, with Gia Jokhadze</name>
+		</respStmt>
+	</titleStmt>
+<publicationStmt>
+	<distributor>Newbook Digital Texts (NDT)</distributor>
+	<address>
+		<addrLine>newbook@uw.edu</addrLine>
+	</address>
+	<idno type="DTCG">1999</idno>
+<availability>
+<p>Copyright 2014 DTCG. All Rights Reserved.</p>
+<p>
+[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.
+</p>
+<p>
+[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.
+</p>
+   </availability>
+<date when="2012">2017</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>Davit Guramishvili (1705-1792) Davitiani, Zubovka, the Song of Davit</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>
+The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.
+</p>
+</projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+</encodingDesc>
+<revisionDesc>
+
+<list>
+	<item><date when="2012-10-22">February 17,2017</date> Last checked</item>
+	<item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+</list>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="work" xml:id="GT0000">
+<head type="work">Title</head>
+<div type="container1" xml:lang="ka">
+<head type="container1">სიმღერა დავითისა:ზუბოვკა</head>
+<head type="container1">
+<foreign>title</foreign>
+</head>
+<head type="dedication">dedication</head>
+<div type="chapter" n="1">
+<head type="chapter" n="1">chapter title</head>
+<div type="section" n="1">
+<head type="section" n="1">section title</head>
+<pb n="0001"/>
+<lg n="stanza_title">
+<lg>
+<l>1</l>
+</lg>
+<lg>
+<l>ზუბოვკიდამ მომავალმან ვნახე ერთი ქალი,</l>
+<l>მეტად ტურფა, შვენიერი, მაზე დამრჩა თვალი.</l>
+<l>შავ თვალ-წარბას, პირად თეთრსა ასხდა შავი ხალი,</l>
+<l>მისმან ეშხმან დაცამლეწა, შემიმუსრა ძვალი.</l>
+</lg>
+<lg>
+<l>2</l>
+</lg>
+<lg>
+<l>ვკითხე: მზეო, სიდამ მოხვალ, ხარ სად წამავალი?</l>
+<l>გეაჯები, მაცოდინე შენი გზა და კვალი;</l>
+<l>შენთვის გული ქვათ გარდმექცა, გახდა, ვით კლდე სალი.</l>
+<l>მასხი წყალი, დამიშრიტე, მე შენი მწვავს ალი.</l>
+</lg>
+<lg>
+<l>3</l>
+</lg>
+<lg>
+<l>ხმა გამომცა, გაგულისდა, სიტყვა მითხრა ავი:</l>
+<l>«ავო კაცო, ვით გაბედე, შენ მე მთხოვე თავი?</l>
+<l>ბულბულთ ნაცვლად ვარდ-კოკობმან რად დაგისვა ყვავი!»</l>
+<l>მით ავსტირდი, ცრემლი ვღვარე ზღვათა შესართავი.</l>
+</lg>
+<lg>
+<l>4</l>
+</lg>
+<lg>
+<l>ასე მითხრა: «ჩამომეხსენ, გამეცალე, მარი,</l>
+<l>არ მინდიხარ, არ მიყვარხარ, სხვა მყავს კარგი მყვარი, -</l>
+<l>შენგან თვალად უკეთესი, ვაჟი-კაცი, ქმარი».</l>
+<l>რა ეს მესმა, ჯავრით ცხვირსა წამედინა ძმარი.</l>
+</lg>
+<lg>
+<l>5</l>
+</lg>
+<lg>
+<l>მითხრა: «შენგნით ნუმცა მსმია სიტყვა მაგის მეტი».</l>
+<l>აიღო და დამიშინა თავში დიდი კეტი.</l>
+<l>დავრეცრეცდი, გარდავიქეც, დამეხვია რეტი;</l>
+<l>შავებრალდი, თავს დამადგა, ვით ბნელს, ნათლის სვეტი.</l>
+</lg>
+<lg>
+<l>6</l>
+</lg>
+<lg>
+<l>რა მოვბრუნდი, დაიხარა, ხელს მომკიდა ხელი;</l>
+<l>ამაყენა, ასე მითხრა: «რად შექნილხარ ხელი?»</l>
+<l>მე მიუთხარ: შენთვის გავხდი ასე ჭკვაზე თხელი,</l>
+<l>შენ რომ მწუნობ, მით მედების გულსა ცეცხლი ცხელი!</l>
+</lg>
+<lg>
+<l>7</l>
+</lg>
+<lg>
+<l>მერმე ტკბილად დამიყოვა, კიდეც გამიცინა;</l>
+<l>ასე მითხრა: «აქ ნუ ვსხედვართ, გვნახოს არავინა.</l>
+<l>ახლა ავდგეთ, ჩვენ წავიდეთ თავთავისთვის შინა;</l>
+<l>კულავ სადმე ამოივლი, მე დაგხვდები წინა»</l>
+</lg>
+<lg>
+<l>8</l>
+</lg>
+<lg>
+<l>სად წავიდა, ვერა ვნახე ჩემი საყვარელი,</l>
+<l>მან დამიგდო საიმედო სიტყვა სახარელი.</l>
+<l>მე მის მონას ნუმც ამხდია მისგან საფარველი!</l>
+<l>სად მიჭირდეს, მამეშველოს, სხვას აღარას ველი.</l>
+</lg>
+<lg>
+<l>9</l>
+</lg>
+<lg>
+<l>დამპირდა, თქვა: «კიდევ მოვალ», აწ მე იმას ველი:</l>
+<l>მისთვის ვსტირი, ცრემლითა მაქვს უბე, კალთა სველი.</l>
+<l>სიკვდილის დროს მე მის მეტი არავინ მყავს მშველი,</l>
+<l>მან გამიღოს სამყოფისა კარი შესასვლელი.</l>
+</lg>
+<lg>
+<l>10</l>
+</lg>
+<lg>
+<l>იმ ჩემისა საყვარლისა სამსახური მსურსა,</l>
+<l>აჰა, მისთვის გამიჯნურდა, გული მისთვის ხურსა.</l>
+<l>იმედი მაქვს, რასაცა ვსთხოვ, მომცემს, არა შურსა,</l>
+<l>უკვდავების წყალს მიბოძებს, ცხოვრებისა პურსა.</l>
+</lg>
+<lg>
+<l>11</l>
+</lg>
+<lg>
+<l>ღვთისგან ვითხოვ, არ გამყაროს მე მის სიყვარულსა,</l>
+<l>სხვას უკეთესს ვის ვიშოვნი სილამაზით სრულსა?</l>
+<l>ჩემის სიყვარულისათვის სცემეს ხელშეკრულსა,</l>
+<l>სახით ვხედავ ჩემთვის მკვდარსა სისხლით გაბასრულსა.</l>
+</lg>
+<lg>
+<l>12</l>
+</lg>
+<lg>
+<l>აწ შენ, ჩემო საყვარელო, იმყოფები სადა?</l>
+<l>ქვეყნად შენგან უკეთესი მე არავინ მყვანდა.</l>
+<l>ქვესკნელსა ვარ, ვერა გხედავ, მეგულვები ცადა;</l>
+<l>გეაჯები, ნუ გამწირავ, წამიყვანე მანდა!</l>
+<l>ქვესკნელსა ვარ, ვერა გხედავ, მეგულვები ცადა;</l>
+<l>გეაჯები, ნუ გამწირავ, წამიყვანე მანდა!</l>
+<l>გეაჯები, ნუ გამწირავ, წამიყვანე მანდა!</l>
+</lg>
+<lg>
+<l>date unknown</l>
+</lg>
+</lg>
+</div>
+</div>
+</div>
+<div type="container2" xml:lang="en">
+<head type="container2">Davitiani, Zubovka, the Song of Davit</head>
+<pb n="001"/>
+<note>
+<unclear>needs to be checked</unclear>
+</note>
+<lg n="stanza_title">
+<lg>
+<l>1</l>
+</lg>
+<lg>
+<l>As I was leaving Zubovka one ordinary morning</l>
+<l>I met the loveliest of women, met her without warning—</l>
+<l>Black eyes and brows, a beauty mark her ivory face adorning</l>
+<l>Her beauty laid me waste although she looked at me with scorning.</l>
+</lg>
+<lg>
+<l>2</l>
+</lg>
+<lg>
+<l>I asked “Where have you come from, like a Sun so brightly showing?</l>
+<l>And if I may, I’d like to know the way you think of going.</l>
+<l>Because of you, my heart has turned to stone—and even throwing</l>
+<l>water on me might not douse the fire that is growing.”</l>
+</lg>
+<lg>
+<l>3</l>
+</lg>
+<lg>
+<l>With angry words and angry voice, she quickly answered me—</l>
+<l>“How dare you speak to me like that, so disrespectfully?</l>
+<l>The rose who’s known a nightingale can’t love a crow, you see.”</l>
+<l>I wept a teary river then that rushed to join the sea.</l>
+</lg>
+<lg>
+<l>4</l>
+</lg>
+<lg>
+<l>She told me, “Please, just leave me alone, I want you to go away.</l>
+<l>I have a lover. I don’t want you. Yet you continue to stay.</l>
+<l>My husband’s handsomer than you and better in every way.”</l>
+<l>I was becoming completely distraught hearing what she had to say.</l>
+</lg>
+<lg>
+<l>5</l>
+</lg>
+<lg>
+<l>She said, “Stop talking at least until you’re out of my sight and hearing.”</l>
+<l>She grabbed a stick and struck my head: I was still unfearing.</l>
+<l>Lurching forward, I fell to the ground: unconsciousness was nearing.</l>
+<l>She pitied me then and in my dark, she became a clearing.</l>
+</lg>
+<lg>
+<l>6</l>
+</lg>
+<lg>
+<l>When I was fully conscious again, she bent and took my hand.</l>
+<l>“What drove you mad? What made you ill?” she said as she helped me stand.</l>
+<l>I said, “Dear lady, you’re the cause, the reason you demand.</l>
+<l>Your rejection torched my heart, and now the fire you’ve fanned.”</l>
+</lg>
+<lg>
+<l>7</l>
+</lg>
+<lg>
+<l>Then she soothed and quieted me as only she could do.</l>
+<l>She said: “It’s dangerous for us to talk—You know that’s true.</l>
+<l>So let us go our separate ways, let’s do the things we do.</l>
+<l>And sometime, somewhere, once again, I may appear to you.”</l>
+</lg>
+<lg>
+<l>8</l>
+</lg>
+<lg>
+<l>At that, my loved one disappeared—vanished without a trail,</l>
+<l>leaving a word of hope and joy to have beyond the pale.</l>
+<l>Her slave, I always want to be, protected by her veil.</l>
+<l>When I’m hurt, she’ll help me: no one else is of avail.</l>
+</lg>
+<lg>
+<l>9</l>
+</lg>
+<lg>
+<l>All I want is what she vowed—to see her face once more.</l>
+<l>My breast and hem are damp with tears: she’s who I’m crying for.</l>
+<l>When death draws close, my sufferings I know she won’t ignore.</l>
+<l>When I am summoned to that world, she will open the door.</l>
+</lg>
+<lg>
+<l>10</l>
+</lg>
+<lg>
+<l>I wish to be a slave to her, the one who’s gone ahead.</l>
+<l>My heart is burning still with love for her by whom I’m led.</l>
+<l>With all that is provided, I pray that I’ll be amply fed,</l>
+<l>drink the water of this life and eat immortal bread.</l>
+</lg>
+<lg>
+<l>11</l>
+</lg>
+<lg>
+<l>I pray to God that she may be forever at my side.</l>
+<l>There’s no one else so lovely, though the world is very wide.</l>
+<l>For loving me, they took her, they beat her when her hands were tied.</l>
+<l>I see her face the way it was—when she finally died.</l>
+</lg>
+<lg>
+<l>12</l>
+</lg>
+<lg>
+<l>Oh dear one most beloved, tell me — Where are you today?</l>
+<l>There’s no one else I know of who can help me on the way.</l>
+<l>Blind in darkness, still I trust that you in Heaven stay.</l>
+<l>Don’t doom me to forever dark — Lift me up, I pray!</l>
+<l>Blind in darkness, still I trust that you in Heaven stay.</l>
+<l>Don’t doom me to forever dark — Lift me up I pray!</l>
+<l>Don’t doom me to forever dark — Lift me up I pray!</l>
+</lg>
+<lg>
+<l>date unknown</l>
+</lg>
+</lg>
+</div>
+<div type="container3" xml:lang="ru">
+<head type="container3">title</head>
+<p>content</p>
+</div>
+<div type="footnotes">
+<note xml:id="n0001">note content</note>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Salaghobo, სალაღობო</title>
+   <author>Lado_Asatiani, ლადო_ასათიანი</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective (DTCG)</resp>
+    <name>Mary Childs, with Lia Shartava</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts(NDT)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Copyright 2014 DTCG. All Rights Reserved.</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2014</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lado Asatiani  A Festive Song</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <l>NO CORRECTIONS.</l>
+   </correction>
+   <normalization>
+    <l>Original spelling and typography is retained.</l>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">19 February 14</date> Last checked</item>
+   <item><date when="2013-04-24">19 February 14</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">A Festive Song სალაღობო</head>
+				<head type="container1"><foreign>სალაღობო</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+							<pb n="0001" />
+							<lg n="stanza_title">
+								<lg>
+									<l>ხომ ლამაზია ეს ჩემი ცოლი, მაგრამ მე უფრო ლამაზი მინდა,</l>
+									<l>ატმის ხესავით აფეთკებული და მოქნეული გავაზივითა.</l>
+									<l>ხომ ლამაზია ეს საქართველო, მაგრამ მე უფრო ლამაზი მინდა,</l>
+									<l>ფართოდ გაშლილი და მოხატული თამარ დედოფფლის დარბაზივითა.</l>
+								</lg>
+								
+								<lg>								
+									<l>"კაცის გული ისეთია,</l>
+									<l>ვით მორევი შავი ზღვისა:</l>
+									<l>რაგინდ კარგი ცოლი ჰყავდეს,</l>
+									<l>მაინც ენატრებას სხვისა!"</l>
+								</lg>
+								
+								<lg>								
+									<l>დაუკარით, რომ ძველ ხანჯალს ელდა ეცეს,</l>
+									<l>გაისარჯოს და ბრძოლაში დაიხარჯოს!</l>
+									<l>გაუმარჯოს საქართველოს მზეს და ზეცას,</l>
+									<l>საქართველოს ძლიერებას გაუმარჯოს!</l>
+								</lg>
+								
+								<lg>								
+									<l>დაუკარით! ჯერ ხომ სისხლი გვიდგას ძარღვში,</l>
+									<l>ჯერ ხომ საროს ფოთლები არ გასცვენია,</l>
+									<l>ჯერ ხომ მცხეთის სვეტიცხოვლის დიდ ტაძარში</l>
+									<l>საქართველოს ცხელი გული ასვენია!</l>
+								</lg>
+								
+								<lg>
+									<l>დაუკარით! და იმღერეთ ისე მაგრად,</l>
+									<l>რომ ფილტვები გვეტკინოს და დაგვებეროს!</l>
+									<l>დაუკარით, რომ ჭაბუკნი ვიყოთ მარად,</l>
+									<l>რომ ცხოვრებამ ვერასდროს ვერ დაგვაბეროს!</l>
+								</lg>
+								
+								<lg>								
+									<l>დაუკარით! და იმღერეთ შადიანი,* (შადიანი -- ძველებური მხიარული სიმღერა)</l>
+									<l>ფიცხელ ომში რომ მღეროდა მაჩაბელი.</l>
+									<l>დაუკარით ძველებური დარდიანი,</l>
+									<l>დაუკარით არწივების ასაფრენი!</l>
+								</lg>
+								
+								<lg>
+									<l>ცხრა ლახვარი რომ დამარტყათ ცხრაჯერ გულში,</l>
+									<l>მტრის ჯინაზე ცხრაჯერ მწარედ გავიცინებ,</l>
+									<l>დავიღლები საქართველოს სიყვარულში</l>
+									<l>სასთუმალზე ერთხელაც არ დავიძინებ!</l>
+								</lg>
+								
+								<lg>
+									<l>დაუკარით! მოასწარით, თორემ ჰერი...</l>
+									<l>და სიბერეც ძუ მგელივით მოგვიხტება.</l>
+									<l>დაუკარით ძველებური მოსალხენი:</l>
+									<l>-- შავგვრემანებს შავი ჩოხა მოგვიხდება!</l>
+								</lg>
+								
+								<lg>
+									<l>დაუკარით ძველებური ლოთიანი,</l>
+									<l>საათნოვა რომ მღეროდა შაითანთან,</l>
+									<l>დაუკარით! განა ყველა ლოთი არი?!</l>
+									<l>განა ყველა სიყვარულით დაიშანთა?!</l>
+								</lg>
+								
+								<lg>
+									<l>დაუკარით ძველებური ლოთიანი,</l>
+									<l>თორემ დარდი ღრუბელივით გასივდება,</l>								
+									<l>გაფრინდება სიყმაწვილე შფოთიანი,</l>
+									<l>წრფელი გული, ცხელი გული გაცივდება!</l>
+								</lg>
+								
+								<lg>
+									<l>"ვაჟკაცსა გული რკინისა,</l>
+									<l>აბჯარი თუნდა ხისანი,</l>
+									<l>თვალნი ქორებულ მხედავნი,</l>
+									<l>ზედ მუხლნი შავარდნისანი."</l>
+								</lg>
+																
+								<lg>
+									<l>ხომ ლამაზია ეს ჩემი ცოლი, მაგრამ მე უფრო ლამაზი მინდა,</l>
+									<l>ატმის ხესავით აფეთქებული და მოქნეული გავაზივითა.</l>
+									<l>ხომ ლამაზია ეს საქართველო, მაგრამ მე უფრო ლამაზია მინდა,</l>
+									<l>ფართოდ გაშლილი და მოხატული თამარ დედოფლის დარბაზივითა.</l>
+								</lg>
+								
+								<lg>								
+									<l>1940</l>					
+								</lg>
+							</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">title</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>Yes, my wife is beautiful, but I want her to be more beautiful,</l>
+						<l>Exploding in blossom like a peach tree, and swooping like a merlin.</l>
+						<l>Yes, Georgia is beautiful, but I want it to be more beautiful,</l>
+						<l>Wide open, and painted like a great hall of Queen Tamar.</l>
+					</lg>	
+					<lg>
+						<l>"A man's heart is like this,</l>
+						<l>Like a whirlpool in the Black Sea:</l>
+						<l>No matter how good a wife he has,</l>
+						<l>He still wishes for someone else's!"</l>
+					</lg>
+					<lg>
+						<l>Strike the drum, so the old kinjal* feels deep shock,</l>
+						<l>Comes alive, and spends itself in battle!</l>
+						<l>Cheers to the Georgian sun and sky,</l>
+						<l>Cheers to the strength of Georgia!</l>
+					</lg>
+					<lg>
+						<l>Strike the drum! For blood still flows in our veins,</l>
+						<l>The leaves of the cypress tree have not yet fallen,</l>
+						<l>In Mtskheta's grand temple, Svetitskhoveli, still</l>
+						<l>The hot heart of Georgia is resting!</l>
+					</lg>
+					<lg>
+						<l>Strike the drum! And sing so mightily,</l>
+						<l>That our lungs feel pain, and swell up inside of us!</l>
+						<l>Play, so that we may always be youthful,</l>
+						<l>And life will never make us old!</l>
+					</lg>
+					<lg>
+						<l>Play! And sing a shadiani*(an old-fashioned merry table song) </l>
+						<l>That Machabeli used to sing in savage battle.</l>
+						<l>Play, strike up a dardiani* (a traditional sorrowful song),</l>
+						<l>Play, strike up the eagles' taking flight!</l>
+					</lg>
+					<lg>
+						<l>If you strike me nine times in the heart with nine spears,</l>
+						<l>I will laugh nine times bitterly to spite my enemy,</l>
+						<l>I will exhaust myself in love for Georgia,</l>
+						<l>I will not sleep even once on a pillow!</l>
+					</lg>	
+					<lg>
+						<l>Play, and strike the drum!  Hurry up, or else, hey...!</l>
+						<l>Old age will jump on us like a she-wolf.</l>
+						<l>Play,and strike up a mosalkheni * (a traditional, joyous song:</l>
+						<l>"The black choka* (traditional Georgian men's jacket) suits swarthy skin like ours!"</l>
+					</lg>
+					<lg>
+						<l>Play, strike up a lotiani* (a traditional bold drinking song),</l>
+						<l>That Sayat Nova sang with Shaitani,</l>
+						<l>Play!  Do you really think everyone is a drunk?!</l>
+						<l>Do you really think everyone is branded by love?!</l>
+					</lg>				
+					<lg>
+						<l>Play, strike up a lotiani,</l>
+						<l>Or sorrow will swell up like a cloud,</l>
+						<l>Our turbulent youth will fly away,</l>
+						<l>Our honest heart, our hot heart, will grow cold!</l>
+					</lg>
+					<lg>
+						<l>"A warrior's heart is made of iron,</l>
+						<l>Even if his armour is made of wood,</l>
+						<l>His eyes can see like a hawk,</l>
+						<l>And his knees are swift as a peregrine falcon!"</l>
+					</lg>
+					<lg>
+						<l>Yes, my wife is beautiful, but I want her to be more beautiful,</l>
+						<l>Exploding in blossom like a peach tree, and swooping like a merlin.</l>
+						<l>Yes, Georgia is beautiful, but I want it to be more beautiful,</l>
+						<l>Wide open, and painted like the great hall of Queen Tamar.</l>
+					</lg>
+					
+					<lg>								
+						<l>1940</l>					
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<l>content</l>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

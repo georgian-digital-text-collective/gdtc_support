@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Memento_Mori, Memento_Mori</title>
+   <author>Terenti_Graneli, ლადო_ასათიანი</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Ed Raupp, Ketevan Chkheidze, Mari Manvelishvili</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">2009</idno>
+
+   <availability>
+    <p>Copyright© 2009 Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lado Asatiani  *TITLE*</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">October 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">Memento Mori</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>ახლა უფრო ხშირია შეცდომების დაშვება,</l>
+										<l>ახლა მოდის ივნისი, ირგვლივ მწვანე მოლია.</l>
+										<l>ჩემი წმინდა სახელი პოეზიას დარჩება, </l>
+										<l>ჩემი გული და სისხლი - ეს ~Memento mori~-ა.</l>
+									</lg>
+									<lg>
+										<l>დღეს სამია ივნისის, მინდა იყოს ცამეტი,</l>
+										<l>ჩემს გარშემო ციხეა _ მწუხარების სავანე.</l>
+										<l>რომ მდომოდა სიცოცხლე, სიკვდილს არ ვიწამებდი,</l>
+										<l>მიშა არ იქნებოდა ჩემთვის შავი სამარე.</l>
+									</lg>
+									<lg>
+										<l>სადღაც მთასთან იწვიმა, სადღაც მთასთან ბურია,</l>
+										<l>ამნაირი ღიმილი უწინ მე არ ვიცოდი.</l>
+										<l>ახლა მე ცას ვუცქერი, ცაზე ანთებულია</l>
+										<l>ვარსკვლავები - სიმბოლო თეთრი მარადისობის.</l>
+									</lg>
+									<lg>
+										<l>ახლა რა ვქნა არ ვიცი, მე როდესაც ასე ვარ,</l>
+										<l>როცა სულს ეპარება აჩრდილები სიბერის.</l>
+										<l>მე ძლიერი ტალანტი, ზეციური არსება,</l>
+										<l>ჩემი ნაზი სამშობლო - ლაჟვარდები ცისფერი.</l>
+									</lg>
+									<lg>
+										<l>რა ვქნა, შავი ღამეა, მძიმე და უსაშველო, </l>
+										<l>მახსოვს ჩემი სოფელი, მისი ყრუ ადგილები.</l>
+										<l>ახლა რაღაც სხვა მინდა, რაღაც სხვა, უსახელო,</l>
+										<l>რომ დაღუპვა მომელის, ვიცი დანამდვილებით</l>
+									</lg>
+									<lg>
+										<l>ნელა გადის დღეები და ძნელია გარჩევა,</l>
+										<l>მე, ძვირფასო, ვერ მოვალ, გზა შენამდე შორია.</l>
+										<l>ჩემი გვარი: გრანელი - პოეზიას დარჩება,</l>
+										<l>ჩემი გული და სისხლი - ეს ~Memento mori~-ა.</l>
+									</lg>
+									<lg>
+										<l>Date goes here</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">Memento Mori</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>Now I more often make mistakes</l>
+						<l>Now comes June and around is green grass.</l>
+						<l>My holy name will stay with poetry</l>
+						<l>My heart and blood is this "Memento mori."</l>
+					</lg>
+					<lg>
+						<l>Today is the third of June, I want it to be the 13th,</l>
+						<l>Around me is a prison, grief purgatory</l>
+						<l>If I wanted life I would not pray for death</l>
+						<l>The ground had not been for me the black grave.</l>
+					</lg>
+					<lg>
+						<l>Somewhere near the mountain it rained, somewhere on the mountain is mist</l>
+						<l>Such kind of laughter I did not know before.</l>
+						<l>Now I am looking at the sky and the sky is lit up</l>
+						<l>By the stars' symbols of white eternity.</l>
+					</lg>
+					<lg>
+						<l>Now I don't know what to do when I am in this situation,</l>
+						<l>When the ghost of age steals on my soul.</l>
+						<l>I am a strong talent, celestial creature,</l>
+						<l>my soft country is azure.</l>
+					</lg>
+					<lg>
+						<l>What can I do, the night is black, heavy and hopeless,</l>
+						<l>I remember my village and its deaf places</l>
+						<l>Now I want something different, something different, without a name,</l>
+						<l>I know surely that I will be lost, dead.</l>
+					</lg>
+					<lg>
+						<l>The days are passing very slowly, and it's difficult to analyze,</l>
+						<l>My dear! I cannot come, the road to you is very long</l>
+						<l>My surname, "Graneli" will stay with poetry,</l>
+						<l>My heart and blood this is "Memento mori."</l>
+					</lg>
+					<lg>
+						<l>Date goes here</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

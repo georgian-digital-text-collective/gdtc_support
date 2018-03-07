@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>To_Vano_Sarajishvili, ვანო_სარაჯიშვილს</title>
+   <author>Terenti_Graneli, ტერენტი_გრანელი</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Ed Raupp, Ketevan Chkheidze, Mari Manvelishvili</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>GUSS Press</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Copyright© 2009 Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Terenti Graneli White Thoughts</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">October 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">ვანო სარაჯიშვილს</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>დაეშვა ფარდა, დაბნელდა სცენა,</l>
+										<l>შეწყდა შრიალი და მისტერია.</l>
+										<l>ვანო! აღსრულდა შენი სიმღერა:</l>
+										<l>~თავო ჩემო, ბედი არ გიწერია!~</l>
+									</lg>
+									<lg>
+										<l>და ახლა ირგვლივ გლოვის წამია,</l>
+										<l>წამია გლოვის, ცრემლების გარდა.</l>
+										<l>ქართულ სცენაზე მძიმე ღამეა,</l>
+										<l>ქართული სცენა დამგლოვიარდა.</l>
+									</lg>
+									<lg>
+										<l>შენ გადაფრინდი სინათლის იქით,</l>
+										<l>რომ მხოლოდ ნისლი იყოს კარავი.</l>
+										<l>და გვირგვინების მწუხარე რიგი</l>
+										<l>ახლა შენს მაღალ კუბოს ფარავენ.</l>
+									</lg>
+									<lg>
+										<l>დღეს აღარა ხარ, ძვირფასო, მაგრამ</l>
+										<l>ჩვენთან ელვარებს შენი ნათელი.</l>
+										<l>სამწუხაროა, რომ ასე გაჰქრა</l>
+										<l>შენი ხმა: ცეცხლი და ჟრუანტელი.</l>
+									</lg>
+									<lg>
+										<l>დაეშვა ფარდა, დაბნელდა სცენა,</l>
+										<l>თვალები მაინც შენ გიცქერიან.</l>
+										<l>ვანო! აღსრულდა შენი სიმღერა:</l>
+										<l>~თავო ჩემო, ბედი არ გიწერია!~</l>
+									</lg>
+									<lg>
+										<l>NO DATE</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">To Vano Sarajishvili</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>The curtain now descends; the scene is dark.</l>
+						<l>The final curtain falls; the play is done.</l>
+						<l>Oh, Vano! Now we know your song is true.</l>
+						<l>"Alas, poor me! You do not have a fate."</l>
+					</lg>
+					<lg>
+						<l>And now are seconds grieving all around.</l>
+						<l>The ticking seconds grieve beside the tears.</l>
+						<l>The Georgian scene is dark, a heavy night;</l>
+						<l>The Georgian scene becomes a mournful place.</l>
+					</lg>
+					<lg>
+						<l>On you way you'll fly across the light,</l>
+						<l>For only mist will be the campground now.</l>
+						<l>And only sorrow will the garland be</l>
+						<l>That shields your upraised coffin from the glare.</l>
+					</lg>
+					<lg>
+						<l>You are no longer here today, and yet</l>
+						<l>You leave with us your brightly gleaming light.</l>
+						<l>How sad that all you were has disappeared,</l>
+						<l>Your voice: That fire that froze us in our skin.</l>
+					</lg>
+					<lg>
+						<l>The curtain now descends; the scene is dark.</l>
+						<l>The final curtain falls; the play is done.</l>
+						<l>Oh, Vano! Now we know your song is true.</l>
+						<l>"Alas, poor me! You do not have a fate."</l>
+					</lg>
+
+					<lg>
+						<l>NO DATE</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>White_Thoughts, თეთრი_ფიქრები</title>
+   <author>Terenti_Graneli, ტერენტი_გრანელი</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Ed Raupp, Ketevan Chkheidze, Mari Manvelishvili</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>GUSS Press</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Copyright© 2009 Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Terenti Graneli White Thoughts</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">October 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">თეთრი ფიქრები</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>თეთრი ფიქრები სადღაც მიდიან,</l>
+										<l>თითქოს ქარია ჩემი ცხოვრება.</l>
+										<l>რა ვქნა, რომ აწი არ შემიძლია</l>
+										<l>ამ შეცდომების გამოსწორება.</l>
+									</lg>
+									<lg>
+										<l>კარგია ასე ტაძარში შესვლა,</l>
+										<l>ამ ქვეყანაზე მე მარტო დავრჩი</l>
+										<l>აკადმყოფივით დავდივარ ეხლა,</l>
+										<l>ასე უდროოდ მოკლული ბავშვი</l>
+									</lg>
+									<lg>
+										<l>NO DATE</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">White Thoughts</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>White thought are going somewhere,</l>
+						<l>As if the wind is my life.</l>
+						<l>What I have to do, that now I cannot</l>
+						<l>to correct these mistakes.</l>
+					</lg>
+					<lg>
+						<l>It is good to walk into church like this,</l>
+						<l>I stay alone in the whole world.</l>
+						<l>Now like an ill person I go,</l>
+						<l>so untimely killed child.</l>
+					</lg>
+					<lg>
+						<l>NO DATE</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

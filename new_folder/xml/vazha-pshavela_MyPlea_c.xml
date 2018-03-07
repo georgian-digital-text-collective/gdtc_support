@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+
+<!--  [ TEI Header information ]  -->
+<fileDesc>
+<titleStmt>
+<title>My_Plea, ჩემი_ვედრება</title>
+<author>Vazha-Pshavela, ვაჟა-ფშაველა</author>
+<respStmt>
+<resp>Georgian Digital Text Collective (DTCG)</resp>
+<name>Mary Childs</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+<address>
+<addrLine>newbook@uw.edu</addrLine>
+</address>
+<idno type="DTCG">1999</idno>
+<availability>
+<p>Copyright 2014 DTCG. All Rights Reserved.</p>
+<p>
+[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.
+</p>
+<p>
+[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.
+</p>
+</availability>
+<date when="2012">2014</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>Vazha-Pshavela My Plea</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>
+The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.
+</p>
+</projectDesc>
+<!--
+
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+</encodingDesc>
+<revisionDesc>
+<list>
+<item>
+<date when="2012-10-22">8 September 2014</date>
+Last checked
+</item>
+<item>
+<date when="2013-04-24">24 April 13</date>
+Updated TEI Header
+</item>
+</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div type="work" xml:id="GT0000">
+<head type="work">Title</head>
+<div type="container1" xml:lang="ka">
+<head type="container1">ჩემი ვედრება</head>
+<head type="container1">
+<foreign>title</foreign>
+</head>
+<head type="dedication">dedication</head>
+<div type="chapter" n="1">
+<head type="chapter" n="1">chapter title</head>
+<div type="section" n="1">
+<head type="section" n="1">section title</head>
+<pb n="0001"/>
+<lg n="stanza_title">
+<lg>
+<l>ღმერთო, მიიღე ვედრება,</l>
+<l>ეს ჩემი სათხოვარია:</l>
+<l>არ დამეკარგოს გულიდან</l>
+<l>მე შენი სახსოვარია!</l>
+<l>გულს ნუ გამიტეხ ტანჯვაში,</l>
+<l>მამყოფე შეუდრკელადა</l>
+<l>ვფხიზლობდე, მუდამ მზად ვიყო</l>
+<l>დაჩაგრულების მცველადა</l>
+<l>ბალახი ვიყო სათიბი,</l>
+<l>არა მშადიან ცელობა</l>
+<l>არ წამიხდინო, მეუფევ,</l>
+<l>ეს ჩემი წმინდა ხელობა!</l>
+<l>მაშრომე საკეთილოდა,</l>
+<l>თუნდ არ მოვიმკო ნაყოფი,</l>
+<l>შვილთ საგმოდ არ გამიხადო</l>
+<l>ჩემი მუდმივი სამყოფი.</l>
+<l>გულს ნუ გამიქრობ ლამპარსა</l>
+<l>მნათობს ტრფობისა შეშითა,</l>
+<l>ნუ მავლევ ქვეყანაზედა</l>
+<l>გაცივებულის ლეშითა, -</l>
+<l>თვალებში მადლ-დაკარგულსა,</l>
+<l>შუბლზე გაკრულის მეშითა.</l>
+<l>ნუ დაუკარგავ ჩემს სატრფოს</l>
+<l>მადლს, გულზე ცეცხლის მდებელსა,</l>
+<l>ნუ დაუძვერებ ოცნებას,</l>
+<l>შენს ხმას, სხივ-გამომღებელსა:</l>
+<l>სიცოცხლედ უღირს ბეჩავსა,</l>
+<l>ეძახის თავის მხლებელსა.</l>
+<l>გულს დარდი გამიდიადე</l>
+<l>იმ სანეტარო საგანზე,</l>
+<l>დაწერე ფიქრი, ღრმა, მწვავე</l>
+<l>ჩემის გუნების საბანზე!...</l>
+<l>გონებას ფიქრი სტანჯავდეს,</l>
+<l>გულს ცეცხლი სწვავდეს ძლიერი,</l>
+<l>მშიოდ-მწყუროდეს კეთილი,</l>
+<l>ვერ გავძღე, მოვკვდე მშიერი...</l>
+<l>ნუ დამასვენებ ნურა დროს,</l>
+<l>მამყოფე შეძრწუნებული,</l>
+<l>მხოლოდ მაშინ ვარ ბედნიერ,</l>
+<l>როცა ვარ შეწუხებული</l>
+<l>როცა გულს ცეცხლი მედება,</l>
+<l>გონება მსჯელობს საღადა, -</l>
+<l>მაშენ ვარ თავისუფალი,</l>
+<l>თავს მაშინა ვგრძნობ ლაღადა.</l>
+<l>მფარავდეს შენი მარჯვენა,</l>
+<l>კალთა სამოსლის შენისა,</l>
+<l>სანამ არ მოვა დრო-ჟამი</l>
+<l>სულ ბოლოს ამოქშენისა.</l>
+<l>სული - შენი, ლეში - მიწასა, -</l>
+<l>აღარა ვგლოვობ ამასა</l>
+<l>თევზი - წყალს, ცასა - ვარსკვლავი,</l>
+<l>შვილი - დედას და მამასა.</l>
+</lg>
+<lg>
+<l>September, 1893</l>
+</lg>
+</lg>
+</div>
+</div>
+</div>
+<div type="container2" xml:lang="en">
+<head type="container2">My Plea</head>
+<pb n="001"/>
+<note>
+<unclear>needs to be checked</unclear>
+</note>
+<lg n="stanza_title">
+<lg>
+<l>Oh Lord, hear my plea,</l>
+<l>This is my request: </l>
+<l>Do not let me lose from my heart</l>
+<l>My memory of you!</l>
+<l>Do not break my heart in suffering,</l>
+<l>Let me live, unflinching, constantly ready,</l>
+<l>A defender of the oppressed.</l>
+<l>Let me be like grass to be mown,</l>
+<l>I don't care to be the scythe;</l>
+<l>Let me be just like a sheep,</l>
+<l>Let being a wolf pass me by;</l>
+<l>Do not ruin me, oh Lord,</l>
+<l>This is my sacred calling!</l>
+<l>Make me work for kind deeds,</l>
+<l>Even if I do not garner fruit,</l>
+<l>Let my children not curse</l>
+<l>My eternal resting place.</l>
+<l>Do not extinguish the lamp of my heart,</l>
+<l>It kindles my heart with love,</l>
+<l>Let me not walk this earth</l>
+<l>Like a chilled corpse, - </l>
+<l>Let the goodness of my eyes not be lost,</l>
+<l>On my brow, crumpled like a tanned hide.</l>
+<l>Let not my beloved lose her blessedness,</l>
+<l>She who calls forth fire in my heart,</l>
+<l>Do not make her dreams impossible,</l>
+<l>Your voice, giving up rays of light:</l>
+<l>Is as important as life to her, poor thing,</l>
+<l>"She calls out to your retinue."</l>
+<l>Make my heart's sorrow great</l>
+<l>On that blissful topic,</l>
+<l>Write down a thought, acute, burning,</l>
+<l>On the covering of my consciousness!...</l>
+<l>Let this thought torment my consciousness,</l>
+<l>So that a strong fire may burn my heart,</l>
+<l>Let me hungry, thirsty for goodness,</l>
+<l>So I cannot be sated, so I may die hungry...</l>
+<l>Do not let me rest, ever,</l>
+<l>Let me always be troubled,</l>
+<l>Only then am I happy,</l>
+<l>When I am tormented;</l>
+<l>When my heart is caching fire,</l>
+<l>Then my consciousness thinks straight, -</l>
+<l>Then, I am free,</l>
+<l>Then, I feel unrestrained.</l>
+<l>Protect me with your right hand,</l>
+<l>And the hem of your robes,</l>
+<l>Until that time arrives</l>
+<l>Of my last sigh.</l>
+<l>My soul - is yours, my corpse -- belongs to the earth, -</l>
+<l>I no longer feel sorrow,</l>
+<l>The fish belongs to the water, to the sky - the stars,</l>
+<l>A child - to its mother and father</l>
+</lg>
+<lg>
+<l>September, 1893</l>
+</lg>
+</lg>
+</div>
+<div type="container3" xml:lang="ru">
+<head type="container3">title</head>
+<p>content</p>
+</div>
+<div type="footnotes">
+<note xml:id="n0001">note content</note>
+</div>
+</div>
+</body>
+</text>
+</TEI>

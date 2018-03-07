@@ -1,0 +1,23 @@
+Enter these commands to the Linux bash shell
+mkdir ~/src
+wget http://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
+tar -zxvf Python-3.6.0.tgz
+cd Python-3.6.0
+mkdir ~/.localpython
+./configure --prefix=$HOME/.localpython
+make
+make install
+~/.localpython/bin/python setup.py install
+
+
+next you need to setup the virtual environment by referencing pyenv which is in bin and where you want the virtual environment to be
+/path/to/pyvenv /path/to/new/virtual/environment
+
+almost done!
+now you need to enter these commands to make sure it is working, first go to where the new virtenv folder is and type:
+
+source virtenv/bin/activate
+
+Now you should have (virtenv) server$ in your bash command line. Now try executing the file and it should work!
+
+python your/file/path/and/Name.py

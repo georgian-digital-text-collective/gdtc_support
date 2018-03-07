@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+
+<!--  [ TEI Header information ]  -->
+<fileDesc>
+<titleStmt>
+<title>In_Georgia, საქართველოში</title>
+<author>Lado_Asatiani, ლადო_ასათიანი</author>
+<respStmt>
+<resp>Georgian Digital Text Collective (DTCG)</resp>
+<name>Mary Childs, with Maka Janikashvili</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+<address>
+<addrLine>newbook@uw.edu</addrLine>
+</address>
+<idno type="DTCG">1999</idno>
+<availability>
+<p>Copyright 2014 DTCG. All Rights Reserved.</p>
+<p>
+[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.
+</p>
+<p>
+[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.
+</p>
+</availability>
+<date when="2012">2014</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>Lado Asatiani In Georgia</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>
+The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.
+</p>
+</projectDesc>
+<!--
+
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+</encodingDesc>
+<revisionDesc>
+<list>
+<item>
+<date when="2012-10-22">Winter, 2011</date>
+Last checked
+</item>
+<item>
+<date when="2013-04-24">24 April 13</date>
+Updated TEI Header
+</item>
+</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div type="work" xml:id="GT0000">
+<head type="work">Title</head>
+<div type="container1" xml:lang="ka">
+<head type="container1">საქართველოში</head>
+<head type="container1">
+<foreign>title</foreign>
+</head>
+<head type="dedication">dedication</head>
+<div type="chapter" n="1">
+<head type="chapter" n="1">chapter title</head>
+<div type="section" n="1">
+<head type="section" n="1">section title</head>
+<pb n="0001"/>
+<lg n="stanza_title">
+<lg>
+<l>საქართველოში იბადებოდნენ</l>
+<l>და შემდეგ მუდამ წუხდნენ ამაზე</l>
+<l>ეჰ...წუთით მაინც დაბრუნდებოდეს</l>
+<l>ჩვენი ბავშვობა და სილამაზე.</l>
+</lg>
+<lg>
+<l>თავს არ მოიკლავს ქართველი, არა,</l>
+<l>ის შეიძლება, ბრძოლაში მოკვდეს</l>
+<l>ერთი იმედით: სიცოცხლე მარად</l>
+<l>გაგრძელდეს ქვეყნად და განმეორდეს.</l>
+</lg>
+<lg>
+<l>საქართველოში როცა კვდებოდნენ,</l>
+<l>უფრო და უფრო წუხდნენ ამაზე:</l>
+<l>ეჰ, წუთით მაინც დაბრუნდებოდეს</l>
+<l>ჩვენი ბავშვობა და სილამაზე.</l>
+</lg>
+<lg>
+<l>ჩვენი ვაჟკაცობა ძველთაგან მოგვდევს,</l>
+<l>ყველამ გაიგოს, ყველამ იცოდეს!</l>
+<l>ჩვენ, შეიძლება, ბრძოლაში მოვკვდეთ,</l>
+<l>მაგრამ არც მაშინ ვტოვებთ სიცოცხლეს.</l>
+</lg>
+<lg>
+<l>რადგან სიცოცხლე ასე ნავარდობს,</l>
+<l>სიკვდილის ყველა კარი დარაზეთ</l>
+<l>და იმ ბედნიერ დღეს გაუმარჯოს,</l>
+<l>როცა ჩვენ გავჩნდით ამ ქვეყანაზე!</l>
+</lg>
+<lg>
+<l>1939</l>
+</lg>
+</lg>
+</div>
+</div>
+</div>
+<div type="container2" xml:lang="en">
+<head type="container2">In Sakartvelo/In Georgia</head>
+<pb n="001"/>
+<note>
+<unclear>needs to be checked</unclear>
+</note>
+<lg n="stanza_title">
+<lg>
+<l>They were born in Georgia</l>
+<l>And then they worried about this always</l>
+<l>Eh...at least for a minute, let return to us</l>
+<l>Our childhood, and our beauty.</l>
+</lg>
+<lg>
+<l>A Georgian will not commit suicide, no,</l>
+<l>It's possible he will die in battle</l>
+<l>With one hope: let my life forever</l>
+<l>Continue in this country, and repeat itself.</l>
+</lg>
+<lg>
+<l>When people die in Georgia</l>
+<l>More and more they worry about this:</l>
+<l>Eh, at least for a minute let return to us</l>
+<l>Our childhood, and our beauty.</l>
+</lg>
+<lg>
+<l>Our courage accompanies us from olden times,</l>
+<l>Every one understands, everyone knows!</l>
+<l>It's possible, we may die in battle</l>
+<l>But not even then will we forsake life.</l>
+</lg>
+<lg>
+<l>Because life blossoms like this,</l>
+<l>Shut every door of death</l>
+<l>And toast that happy day,</l>
+<l>When we appeared on this earth!</l>
+</lg>
+<lg>
+<l>1939</l>
+</lg>
+</lg>
+</div>
+<div type="container3" xml:lang="ru">
+<head type="container3">title</head>
+<p>content</p>
+</div>
+<div type="footnotes">
+<note xml:id="n0001">note content</note>
+</div>
+</div>
+</body>
+</text>
+</TEI>

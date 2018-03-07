@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>I_Don't_Know_Why_I've_Fallen_so_in_Love!, არ_ვიცი_ასე_რამ_შემაყვარა!</title>
+   <author>Lado_Asatiani, ლადო_ასათიანი</author>
+
+   <respStmt>
+    <resp>Georgian in Seattle</resp>
+    <name>Mary Childs, with Maka Janikashvili</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts in the Humanities (NDTH)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Georgian in Seattle. Non-commercial Use Permitted, With Attribution</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+   </availability>
+   <date when="2011">Winter, 2011</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Lado Asatiani I Don't Know Why I've Fallen so in Love!</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2011">Winter, 2011</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">არ ვიცი, ასე რამ შემაყვარა!</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">chapter title</head>
+						<div type="section" n="1">
+							<head type="section" n="1">section title</head>
+								<pb n="0001" />
+								<lg n="stanza_title">
+									<lg>
+										<l>ყველა ხევსური და ყველა სვანი,</l>
+										<l>ქართველი ქალი თვალებმაყვალა,</l>
+										<l>ჩემი თბილისი და ფიროსმანი,</l>
+										<l>არ ვიცი, ასე რამ შემაყვარა!</l>
+									</lg>
+									<lg>
+										<l>მოკვდა თუ არა, ყველამ აცხონა,</l>
+										<l>ცოცხალი არვინ არ მიიკარა,</l>
+										<l>მე ფიროსმანის ქუჩაზე ვცხოვრობ</l>
+										<l>და ყოველ დილით ვხვდები ნიკოლას.</l>
+									</lg>
+									<lg>
+										<l>ძილგატეხილი და არეული</l>
+										<l>ჭიქა არაყით გაიხსნის მადას</l>
+										<l>მერე შეკრთება, ვით მთვარეული</l>
+										<l>და ორთაჭალის ლამაზებს ხატავს.</l>
+									</lg>
+									<lg>
+										<l>ქართული ზეცა, ქართული ზვარი,</l>
+										<l>მტკვარი მღვრიე და მტკვარი ანკარა...</l>
+										<l>ჩემი თბილისი და ფიროსმანი,</l>
+										<l>არ ვიცი, ასე რამ შემაყვარა!</l>
+									</lg>
+									<lg>
+										<l>1939</l>
+									</lg>
+								</lg>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">I Don't Know, Why I've Fallen so in Love!</head>
+				<pb n="001" />
+				<note><unclear>needs to be checked</unclear></note>
+				<lg n="stanza_title">
+					<lg>
+						<l>Every Khevsur, every Svan,</l>
+						<l>Blackberry-eyed Georgian woman,</l>
+						<l>My Tbilisi, and Pirosmani,</l>
+						<l>I don't know, why I've fallen so in love!</l>
+					</lg>
+					<lg>
+						<l>As soon as he died, everyone worshipped him,</l>
+						<l>While alive, no one went near him,</l>
+						<l>I live on Pirosmani's street</l>
+						<l>And every morning I meet Nikolas.</l>
+					</lg>
+					<lg>
+						<l>With his sleep broken and disturbed</l>
+						<l>He whets his appetite with a glass of vodka,</l>
+						<l>Then stumbles, as if struck by moonlight</l>
+						<l>And paints the beauties of Ortachali.</l>
+					</lg>
+					<lg>
+						<l>The Georgian sky, the Georgian land,</l>
+						<l>The Mtkvari, both turbulent and clear...</l>
+						<l>My Tbilisi and Pirosmani,</l>
+						<l>I don't know, why I've fallen so in love!</l>
+					</lg>
+					<lg>
+						<l>1939</l>
+					</lg>
+				</lg>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">NA</head>
+				<p>NA</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">NA</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

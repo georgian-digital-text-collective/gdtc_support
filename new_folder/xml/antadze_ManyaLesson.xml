@@ -1,0 +1,3557 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE TEI PUBLIC "-//OTAP//DTD TEI Transitional//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<!-- <?xml-stylesheet type="text/xsl" href="month.xsl"?>-->
+<TEI> 
+<teiHeader>
+		<!-- [ TEI Header information ] -->
+ <fileDesc>
+  <titleStmt>
+   <title>Many_a_Lesson_from_15_Best_Georgian_Stories_2005, რამდენიმე_ერთი_გაკვეთილი</title>
+   <author>Nikusha_Antadze, ნიკუშა_ანთაძე</author>
+
+   <respStmt>
+    <resp>Georgian Digital Text Collective (DTCG)</resp>
+    <name>Mary Childs</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor>Newbook Digital Texts (NDT)</distributor>
+   <address>
+    <addrLine>newbook@uw.edu</addrLine>
+   </address>
+   <idno type="DTCG">1999</idno>
+
+   <availability>
+    <p>Permission granted from Inteleki Press, Tbilisi, Georgia, to publish in password protected form, for University of Washington, February 9, 2015.</p>
+	<p>[FOR PRINT: Get standard wording] DTCG grants non-profit academic users a limited, non-exclusive right to copy and print this work with attribution. This right does not include use of this material in derivative works.</p>
+	<p>[NOT FOR PRINT: Get standard wording]This work is not yet available for print-on-demand.</p>
+   </availability>
+   <date when="2012">2009</date>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Nikusha Antadze Many a Lesson, from 15 Best Georgian Stories, 2005</bibl>
+   <bibl>Publisher: Bakur sulakauris gamomcemloba</bibl>
+   <bibl>City of Origin: Tbilisi, 2006</bibl>
+   <bibl>Editor: NA</bibl>
+   <bibl>Translator: Mary Childs, with Maka Janikashvili</bibl>
+   <bibl>ISBN # (if not appplicable, NA): 99940 30 81 7</bibl>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The purpose of DTCG is to make available, on the internet, dual language presentations of Georgian literary and scholarly works.</p>
+  </projectDesc>
+<!--
+  <editorialDecl>
+   <correction>
+    <p>NO CORRECTIONS.</p>
+   </correction>
+   <normalization>
+    <p>Original spelling and typography is retained.</p>
+   </normalization>
+  </editorialDecl>
+-->
+ </encodingDesc>
+ <revisionDesc>
+
+  <list>
+   <item><date when="2012-10-22">October 2009</date> Last checked</item>
+   <item><date when="2013-04-24">24 April 13</date> Updated TEI Header</item>
+  </list>
+ </revisionDesc>
+</teiHeader>
+
+<text>
+	<body>
+		<div type="work" xml:id="GT0000">
+			<head type="work">Title</head>
+			<div type="container1" xml:lang="ka">
+				<head type="container1">რამდენიმე ერთი გაკვეთილი</head>
+				<head type="container1"><foreign>title</foreign></head>
+				<head type="dedication">dedication</head>
+				<div type="chapter" n="1">
+					<head type="chapter" n="1">თავი 1 ერთი გაკვეთილი</head>
+						<div type="section" n="1">
+							<head type="section" n="1">საკლასო ოთახი #42</head>
+								<pb n="0001" />
+								<p>ქალბატონი მარინა ამაოდ
+								ცდილობს ბავშვების დაწყნარებას და ფიზიკის შესახებ
+								საუბარს. არაფერი გამოსდის. ბოლოს და ბოლოს, რაღაცას აღწევს, ოღონდ
+								ფიზიკისთვის თავის დანებება უხდება.</p>
+								<p>ბავშვებს უთხრა, ილაპარაკეთ, ოღონდ დასხედით და ცოტა ჩუმადო. თვითონაც
+								მაგიდასთან ჯდება და მობილურზე თამაშს იწყებს.</p>
+
+							<head type="section" n="2">საკლასო ოთახი #55</head>
+								<p>გოგონები გამალებით ჭორაობენ. ერთი ლიზუნა ზის თავისთვის... ფიქრობს და ფიქრობს... რთული საკითხი აქვს გადასაწყვეტი... ბიჭები ფეხბურთის სათამაშოდ გავიდნენ გარეთ, სტადიონი ცარიელი იყო.</p>
+							<head type="section" n="3">საჭირო ოთახი მე-3 სართულზე</head>
+								<p>ბექა და კობახიძე გაკვეთილზე არ შევიდნენ. ფიზიკაზე. დგანან ტუალეტში, არც ისე სასიამოვნო სუნში და ეწევიან. სხვა რა გზა აქვთ... თან საინტერესო ამბებს იხსენებენ უბნის ცხოვრებიდან..  </p>
+							<p class="page">05</p>
+
+
+
+<div class="get">
+<h3>საკლასო ოთახი # 37</h3>
+
+<p>ცარიელია.</p>
+
+
+<h3>საკლასო ოთახი # 49 </h3>
+
+<p>ოცდახუთი
+ბავშვი ზის კლასში. სიჩუმეა და მოწყენილობა. რამდენიმე ყმა&#4332;ვილს
+მერხზე სძინავს. აბა რა იქნება, ქართულის მასწავლებელი გაკვეთილს
+ხსნის... გაბელამ აღარ იცის, რა ქნას უსაქმურობისაგან. ფურცელს და
+კალამს იღებს. რამდენიმე წამს ფიქრობს, მერე კი
+წერას იწყებს:</p>
+<p>~ოცდახუთი
+ბავშვი ზის კლასში. სიჩუმეა და მოწყენილობა. რამდენიმე ყმა&#4332;ვილს
+მერხზე სძინავს. აბა რა იქნება...~  </p>
+
+<h3>დირექტორის კაბინეტი</h3>
+
+<p>რაღაც
+საეჭვო ხმები
+გამოდის.
+არც მდივანი ზის თავის ადგილზე... მგონი, ჯობია, ამათ თავი დავანებოთ და
+მარტო დარტოვოთ.</p>
+
+<h3>
+საჭირო
+ოთახი მე-3
+სართულზე</h3>
+
+<p>
+...ხოდა ბიჭო, აზზე ხარ,
+რას ეუბნება? 
+</p>
+<p>
+_ რაო? 
+</p>
+<p>შენ
+წადი რა, ჯერ ქოლგეით ტოტალ 12
+იყიდე და კბილები გამოიხეხეო. 
+
+</p>
+<p>&ndash;
+აუ ჩემი, მართლა? ჰეჰეჰეჰე...
+
+</p>
+<p>&ndash;
+აბაა, ტო... და მაგარი
+დაიგრუზა გოგო და ეს კიდე აგრძელებს, გინდა ეხლა ჩამოგითვალო დღეს რა
+გაქ ნაჭამიო, კბილებზე გაწერია მთელი მენიუო. 
+</p>
+<p>
+_ აუ ჩემი, მართლა?
+ჰეჰეჰეჰე... 
+</p>
+<p>
+_ აბაა, ტო...  
+</p>
+
+
+<h3>საკლასო
+ოთახი #
+42</h3>
+
+<p>
+ირაკლი უკვე მესამე
+სნიკერსს უგებს ტვიქსას. ნიკუშა და  შელო
+იქვე სხედან და უცქერენ. &#4314;ევანი
+ არ არის... ბექა
+
+და
+კობახიძე არ
+შემოვიდნენ
+გაკვეთილზე. &#4306;ოგონები
+ რაღაც მიყუჩებულები  არიან,
+ზოგი რაღაცას კითხულობს,
+ზოგი შეყვარებულს ემესიჯება... მასწავლებელს
+უკმაყოფილო სახე აქვს... ახალი ტელეფონი  
+
+</p>
+
+</div>
+<div class="en">
+<h3>Classroom # 37</h3>
+
+<p>It's empty.</p>
+
+<h3>Classroom # 49</h3>
+
+<p>Twenty five children
+are sitting in the class.  It&rsquo;s quiet and boring.  Several of
+the guys are dozing with their heads on their desks.  But what do you
+expect -- the teacher is giving a Georgian language
+lesson&hellip; from boredom, Gabela no longer knows what to do.  He
+takes up a piece of paper and a pen.  He thinks for a several
+seconds, and then begins to write:</p>
+
+<p>"Twenty five
+children are sitting in class.  It's quiet and boring.  Several
+of the guys are dozing with their heads on their desks.  But what do
+you expect..."</p>
+
+<h3>Principal's
+Office</h3>
+
+<p>Some suspicious sounds
+are emerging.  And the secretary is not sitting at her  place&hellip;I
+think, it&rsquo;s better to give up and leave them alone.</p>
+
+<h3>Restroom on the 3<sup>rd</sup>Floor</h3>
+
+<p>"...Hey, dude, y&rsquo; know, what's he saying?"</p>
+<p>"What's up?"</p>
+
+<p>"First of all, you need to go buy some Colgate Total 12, and brush
+your teeth."</p>
+<p>"Oh yeah, really? Hehehehe..."</p>
+<p>"But, huh&hellip; and the girl got really pissed and
+he continues, do you want me to tell you what all you have eaten
+today? The entire menu is written on your teeth."</p>
+<p>"Oh yeah, really?  Hehehehe..."</p>
+<p>"But, huh..."</p>
+
+<h3>Classroom # 42</h3>
+
+
+<p>Irakli
+has already won a third Snickers bar from Tviksa.  Nikusha and Shelo
+are sitting near by and watching.  Levani is not there&hellip;Beka
+and Kobakhidze did not go to the lesson.  The girls are somewhat
+calm, some of them are reading something or another, and some are
+texting their boyfriends&hellip;the teacher looks
+dissatisfied&hellip;she has bought a new telephone </p>
+</div>
+
+<p class="page">06</p>
+
+<!--<table class="pnav">
+<tr>
+<td class="text">06</td>
+<td class="text"><a href="index.html" target="_blank">[index]</a>
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+<div class="get">
+<p>შეიძინა და თამაშები ჯერ არ დაუმუღამებია კარგად...</p>
+<h3>საკლასო ოთახი #49</h3>
+
+<p>გაბელამ ჩანაწერი დაასრულა
+და ფიქრებს მიეცა. ლიზუნა უყვარს... უეჭველად... ნახავს თუ არა, მაშინვე
+აუხსნის სიყვარულს. ნეტა ის რას ეტყვის... დათანხმდება? ამ მასწავლებელს
+რაღა ალაპარაკებს? არ მეზრდება მაინც...</p>
+
+<h3>საკლასო ოთახი #37 </h3>
+<p>ისევ ცარიელია.</p>
+
+<h3>საკლასო ოთახი #55</h3>
+<p>~ტვიქსა თუ გაბელა? გაბელა თუ ტვიქსა? გაბელა? არა, არა, ტვიქსა... ტვიქსა? არა,
+არა, გაბელა...~_ ლიზუნა ვერაფრით აკეთებს
+არჩევანს... ორივე ბიჭის მიმართ გააჩნია რაღაც სიმპათიები, მაგრამ ჯერ
+არაფერი იცის ზუსტად... ალბათ, რომელიც პირველი
+გამოუტყდება სიყვარულში, იმას დათანხმდება...</p>
+
+<h3>საჭირო ოთახი მე-3 სართულზე</h3>
+
+<p>...აუ ბიჭო, მოდი გაკაიფო, ეს ანეკდოტი აზზე ხარ?</p>
+<p>_ რომელი?</p>
+<p>_ მოიცა გეტყვი ეხლა, ჰეჰეჰეჰე...</p>
+<p>_ მიდი, მიდი...</p>
+<p>_კაროჩე, ტიპი მიდის მარკეტში,
+რა, და დირექტორს ეუბნება, მაგარი გამყიდველი ვარო, რა, და უნდა
+მამუშავოთო   თქვენთანო, არ ინანებთო, რა, და კაიო, ხვალიდან დაიწყებო.</p>
+<p>მეორე დღეს მოდის ეს დირექტორი მარკეტში და ხედავს ამ ტიპს კლიენტი ყავს და ებაზრება. კაროჩე, ეგო, ყველაზე მაგარი ანკესიაო რა, ყველაფერს დაიჭერო
+და მიაყიდა. მერე ეხაო,   ჭიები და რაღაცეები ხო გინდაო, და ეგენიც
+მიყიდა, მერე კიდე   სათევზაოდ ერთი დღით ხო არ წახვალო რა, სამი დღე ხო
+მაინც  უნდა დარჩეო და ამანაც მართალი ხარო.  ჰოდა, აი
+საკაიფო   სპალნი მეშოკები გვაქო, ესეც მიაყიდა, რა. და სამი დღით თუ 
+მიდიხარ საჭმელიც ხო დაგჭირდებაო, რა, და ჩაულაგა ერთ დიდ  პარკში
+კონსერვები და რაღაცეები. იმანაც აიღო ყველაფერი.</p>
+
+</div>
+<div class="en">
+<p>and doesn't yet know how to work the games very well.</p>
+
+<h3>Classroom #49</h3>
+
+<p>Gabela has finished writing everything, and is lost in thought.
+He loves Lizuna&hellip;without a doubt...As soon as he sees her, right away he&rsquo;ll confess his love to her. I wonder what she'll
+say...will she accept me? What is this teacher talking
+about? Isn't she bored yet?</p>
+
+
+<h3>Classroom # 37</h3>
+
+<p>It's still empty.</p>
+
+
+<h3>Classroom # 55</h3>
+
+<p>"Tviksa or Gabela?  Gabela or Tviksa? Gabela? No, no, Tviksa...Tviksa?  No, no, Gabela..."    Lizuna just can't make
+up her mind... She feels some affection for both of the boys, but she
+doesn&rsquo;t know yet exactly... Maybe she'll accept the
+first one who confesses his love...</p>
+
+<h3>Restroom on the 3<sup>rd</sup> Floor</h3>
+
+<p>"...Hey, dude, come on, let me tell you something funny - do you know this joke?" </p>
+
+<p>"Which one?"</p>
+
+<p>"Come on,
+I'll tell you a new one, hehehehe..."</p>
+<p>"Go on,
+tell me..."</p>
+
+<p>"And so, this guy goes into a store, y' know, and
+says to the director, I'm a really great salesman, y'know, and you should let me work for you, and he says to him, y'know, ok, start tomorrow."</p>
+
+<p>"The next day the director comes into the store and
+sees that this guy has a client and is talking. And so, he&rsquo;s
+says, this is the best fishing rod, you'll be able to catch
+everything, and he buys it. Then the guy says, don't
+you want worms and other things too, and he sold that, too, and then
+he says, you really don't want to go fishing for a single day
+-- you need to go for at least three days, and he said, you're
+right. So, here we have a fabulous sleeping bag. And he
+sold that. And then he says, if you are going for three days
+you&rsquo;re going to need food, too, and he put cans of food and
+other things into a large packet. And the other guy bought
+everything."</p>
+</div>
+<p class="page">07</p>
+
+<!--<table class="pnav">
+<tr><td class="text">07</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+
+</td></tr>
+</table>-->
+
+
+
+
+<div class="get">
+<p>ეხა
+ეუბნება, სამი დღით თუ მიდიხარო, მარტო ხო არ წახვალო, რა, მეგობარი
+წაიყვანეო, ვააა, მართალი ხარო, ხოდა ეხა ზუსტად კიდე ერთ ესეთ
+კომპლექტს გაგიკეთებო, რა, და გაუკეთა. მერე ეუბნება კაროჩე იქ მიწაზე
+ხო არ დაწვებითო, რა, და აგერო, უძლიერესი კარავი გვაქო, რა, და ესეც
+აიღეო. ამანაც აიღო. ჰოდა, ეხა ამ ყველაფერს როგორ წაიღებო, ერთი დიდი
+მანქანა არ გინდაო? და კაროჩე მანქანაც მიყიდა და გაუშვა. ეს დირექტორი
+დაშტერებული უყურებს და ეუბნება, რო საღოლო ძმაოო, მართლა მაგარი ვაჭარი
+ყოფილხარო, რა, და ეს ეკითხება, შენ რა დროს მოხვედიო? ამან უთხრა, აი,
+მაშინო რა, ანკესი რო მიყიდეო. ეე, გვიან მოსულხარო, ეგ ანკესზე კი არ
+იყო შემოსულიო, ოლვეის ულტრა უნდოდაო რა, და მე ვკითხე რად გინდა-თქო,
+და ცოლს თვიური აქო, რა, ხოდა მეთქი, თუ ცოლს თვიური აქ, რა უნდა აკეთო,
+წადი ითევზავე-თქო... ჰე-ჰე-ჰე-ჰე... 
+</p>
+<p>
+--ჰე-ჰე-ჰე-ჰე...  
+</p>
+
+<h3>საკლასო
+ოთახი #42</h3>
+
+<p>საბოლოოდ
+ტვიქსამ რვა სნიკერსი წააგო და ადგა. არა, იმ დღეს კარტზე ნამდვილად ვერ
+ფიქრობდა... მისი ფიქრები უფრო ლიზუნას კაბის ქვეშ დაფრინავდნენ... რა
+ხანია, მაგ გოგოს
+დაადგათვალი...თანეჭვობდა,
+მგონი
+მაგასაც
+მოვწონვარო... კაროჩე, უნდა დავებაზრო, რა... მიიღო გადაწყვეტილება. 
+</p>
+
+<h3>დერეფანი მე-4 სართულზე</h3>
+
+<p>ლიზუნა კლასიდან გამოდის.
+კვლავ იმ ორი ბიჭის სახელი უტრიალებს გონებაში... ქვემოთ აპირებს
+ჩასვლას წყლის დასალევად... იქამდე კი, მესამე სართული უნდა გაიაროს,
+სადაც...</p>
+
+<h3>დერეფანი მე-3 სართულზე</h3>
+
+<p>გაბელა
+საჭირო ოთახისაკენ მიემართება, ტვიქსა
+კი სნიკერსების საყიდლად... ზუსტად სამი წამის მერე, მას შემდეგ, რაც გაბელა საჭირო
+ოთახში შედის, ლიზუნა უახლოვდება მესამე სართულის დერეფანს...
+გადაწყვიტა, წყალზე ჩასვლამდე ამ დერეფანს დაარტყას ერთი წრე... მისი
+გულის ორივე მპყრობელის კლასები ხომ ამ სართულზეა...
+</p>
+</div>
+
+<div class="en">
+<p>"And the
+first guy says, if you're going for three days, you won't
+go alone, huh, but you'll have a friend; yeah, you're
+right, I'll make you up another bundle, just like the first,
+and he did. Then the first one says, and so, you're not going
+to sleep on the ground there, huh, and here, we have the coolest
+tent, huh, and he bought that, too.  So, the first one says, how are
+you going to take all of this &ndash; don&rsquo;t you want a big car?
+And so, he sold a car, too, and let him go.  The director is
+watching, with his jaws dropped, and says, good job, you are a really
+fabulous salesman, huh, and he asked him, what time did you come in? 
+And the other one says, about then, when, you sold him the fishing
+rod.  Hey, you were late, that guy didn&rsquo;t come for a fishing
+rod, he needed some &ldquo;Always Ultra Pads&rdquo;,  and I asked him
+why he wanted that, and he said that his wife was having her period,
+so, I said, if your wife is having her period, y'know what
+should you do,  you should go fishing, I said...hehehehehe..."</p>
+<p>"Hehehehe..."</p>
+
+
+<h3>Classroom #42</h3>
+
+<p>In the end, Tviksa lost eight Snickers Bars, and he got up.   No, that day he really
+wasn&rsquo;t able to think about cards&hellip; his thoughts flew more
+readily under Lizuna's dress...for a long time now, he'd
+had his eye fixed on that girl...At the same time, he had a
+suspicion...I think she likes me too...and so, I need to have
+a talk with her... well, he made up his mind.</p>
+
+
+<h3>Hallway on the 4<sup>th</sup> Floor</h3>
+
+<p>Lizuna is coming out of the classroom.  Again, the names of those two boys
+are revolving in her mind...she's thinking of going
+downstairs for a drink of water...but before then, she needs to
+pass through the third floor, where...</p>
+
+<h3>Hallway on the 3<sup>rd</sup> Floor</h3>
+
+<p>Gabela is heading towards the restroom, and Tviksa is going to buy Snickers
+Bars&hellip;exactly three seconds later, after Gabela goes into the
+restroom, Lizuna approaches the third floor hallway...she
+decides that before she gets a drink of water she&rsquo;ll walk all
+around this corridor&hellip;after all, the two guys who've
+captured  her heart have classes on this floor...</p>
+
+</div>
+<p class="page">08</p>
+<!--<table class="pnav">
+<tr><td class="text">08</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>
+-->
+
+
+
+<div class="get">
+
+
+<h3>საჭირო
+ოთახი მე-3 სართულზე 
+</h3>
+
+<p>_
+ბიჭო, ამას ის გოგო არ უყვარს, ტვიქსას რო ევასება? 
+</p>
+<p>_
+ხო, მგონი ეგაა... 
+</p>
+<p>_
+ეე, შეხედე ამ ახვარს... 
+</p>
+<p>_
+ვცემოთ? 
+</p>
+<p>
+_ ბაზარი არაა. 
+</p>
+<p>
+_ ე, ბიჭო, ერთი აქეთ
+მოიწიე რა... ჰო, ჰო, შენ...  
+</p>
+
+<h3>დერეფანი
+მ&#4308;-3
+სართულზე 
+</h3>
+
+<p>სანამ
+ბექა და კობახიძე გაბელას ურჩევენ საქმეს, ლიზუნა ტვიქსას შეხვდა...
+ტვიქსა სიყვარულს უხსნის და ლიზუნაც მცირე ყოყმანის შემდეგ მეც
+მიყვარხარო, ეუბნება... 
+</p>
+<p>_
+შეიძლება გაკოცო?  _ ეკითხება ტვიქსა. 
+</p>
+<p>_
+აუ, აქ ტეხავს რა... მორცხვობს ლიზუნა. 
+</p>
+<p>_
+კაი, წამო, _ ტვიქსას ერთ-ერთი საკლასო ოთახისკენ მიჰყავს... 
+</p>
+
+
+<h3>საჭირო
+ოთახი მე-3
+სართულზე</h3>
+
+<p>_
+ვის დაარტყი ბიჭო! 
+</p>
+<p>
+_ ეე, შენ ვის უყვირიხარ,
+ჩემი დედა... 
+</p>
+<p>
+
+_ მოდი აქ, შე ახვარო! 
+</p>
+<p>_
+ სახის ძვლებს დაგილეწავ! 
+</p>
+<p>
+_ ვისა, ბიჭო?! 
+</p>
+<p>
+_ ვახ, ჩემი... 
+</p>
+<p>
+
+_ ურტყი, ამის დედა...  
+</p>
+<h3>დერეფანი
+მე-3
+სართულზე</h3>
+
+<p>ჩხუბისა
+და გინების ხმაზე დირექტორი მიემართება მესამე სართულისაკენ. შარვლის
+ღილები შეხსნილი დარჩენია და არც საროჩკა აქვს შეკრული ბოლომდე...
+ლოყებზე პომადის ნაკვალევი ემჩნევა წითლად... ძლივძლივობით ახერხებს
+მოჩხუბრების დაშოშმინებას...  
+</p>
+
+<h3>საკლასო
+ოთახი #37</h3>
+
+<p>ტვიქსა ლიზუნას კოცნის... მგონი, ცოტა უხერხულია ეხლა  ამათი ყურება...
+გავედით, გავედით...</p>
+
+
+</div>
+<div class="en">
+<h3>Restroom
+on the 3<sup>rd</sup> Floor</h3>
+
+
+
+	<p>"Hey dude, isn't
+	that the guy who likes the girl that Tviksa has a crush on?"</p>
+	<p>"Yeah, I think
+	that&rsquo;s him..."</p>
+	<p>"Hey, look at that
+	asshole."</p>
+	<p>"Shall we beat him
+	up?"</p>
+
+
+<p>"You bet."</p>
+
+	<p>"Hey, dude, come
+	here for a second, yeah, yeah, you..."</p>
+
+
+<h3>Hallway on the 3<sup>rd</sup>
+Floor</h3>
+
+<p>While Beka and
+Kobakhidze were dealing with Gabela, Lizuna met Tviksa...Tviksa
+is confessing his love and Lizuna, after a short hesitation says, I
+love you, too...</p>
+
+<p>"Can I give you a
+	kiss?" asks Tviksa.</p>
+<p>"Oh, here's
+	not the right place...,"  Lizuna is being shy.</p>
+<p>"Ok, let's
+	go," Tviksa takes her into one of the classrooms...</p>
+
+
+
+<h3>Restroom on the 3<sup>rd</sup>
+Floor</h3>
+
+
+<p>"Who did you beat
+	up, dude!"</p>
+
+<p>"Hey, who are you
+	shouting at, mother..."</p>
+
+<p>"Come here, you
+	asshole!"</p>
+<p>"I'll smash
+	the bones in your face!"</p>
+<p>"Whose face, boy?!" 
+	</p>
+	<p>"Ouch,..you mother..."</p>
+	<p>"Beat him, the
+	mother..."</p>
+
+
+
+<h3>Hallway on the 3<sup>rd</sup>
+Floor</h3>
+
+<p>	At the sound of
+fighting and swearing the principal heads towards the third
+floor.  The buttons of his pants were still undone, and his shirt
+wasn't buttoned all the way to the bottom...you could see
+a trace of reddish lipstick on his cheeks... he was barely able
+to calm down boys who were fighting.</p>
+
+
+<h3>Classroom # 37</h3>
+
+<p>Tviksa is kissing
+Lizuna...I think it's a bit embarassing to watch them
+now...let's go, let's get out of here...</p>
+
+
+
+
+</div>
+<p class="page">09</p>
+<!--<table class="pnav">
+<tr><td class="text">09</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+
+
+<div class="get">
+<h3>პირველი
+სართული</h3>
+
+<p>გასისხლიანებული
+გაბელა ექიმთან შეყავთ... წარბი აქვს   გახეთქილი... 
+</p>
+
+<p>ამ
+დროს ზარიც ირეკება...  
+</p>
+
+<h2>თავი
+IIერთი გაცდენილი გაკვეთილი</h2>
+
+<h3>დირექყორის კაბინეტი</h3>
+
+<p>ლევანა,
+ბექა, კობახიძე, შელი
+და ტვიქსა სიცილს ძლივს  იკავებენ. გაალმასებული დირექტორი რაღაცეებს
+ყვირის,  თავის ჭკუით, ყმაწვილებს
+გამოსწორებისაკენ მიუთითებს.  ისინი კი ჯერჯერობით გაღიმებული სახეებით,
+თავჩაღუნულები
+დგანან...  
+</p>
+
+<h3>დერეფანი
+მე-2
+სართულზე
+
+
+</h3>
+
+<p>ბექა
+ფანჯრის რაფაზე მოკალათებულა, ზუსტად სამასწავლებლოს
+წინ. ხელში ~ფლეიბოის~ ბოლო ნომერი ეჭირა და  აქეთ-იქეთ ფურცლავდა.
+კობახიძე მიუახლოვდა. სიგარეტი  გაუწოდა, მოუკიდა, მერე კი მის გვერდით
+ჩამოჯდა და ერთად  განაგრძეს ჟურნალის თვალიერება...</p>
+
+<h3>საკლასო
+ოთახი #55</h3>
+
+<p>
+ყმაწვილმა კარები შეაღო. 
+</p>
+<p>
+_ უკაცრავად, ლიზუნა
+შეიძლება ერთი წუთით? 
+</p>
+<p>მასწავლებელმა
+უკმაყოფილო სახით გახედა სტუმარს და შეყოყმანდა,
+თითქოს სულ ფეხებზე არ
+ეკიდა,
+იჯდებოდა თუ არა მის გაკვეთილზე ლიზუნა. მალე შემოდიო, მიაძახა და
+გაუშვა.</p>
+<h3>საკლასო ოთახი #49</h3>
+
+<p>საკონტროლოს
+წერენ. მათემატიკაში. მგონი, ყველა იწერს... გაბელას გარდა.
+მასწავლებელმა უკვე ორი შპარგალკა
+ჩამოართვა და დაპირდა, ერთხელაც დაგინახავ, რო იწერ და გაკვეთილიდან
+გაგაგდებო. 
+</p>
+</div>
+<div class="en">
+
+<h3>The First Floor</h3>
+
+<p>	They are taking
+Gabela, covered in blood, to the doctor's... his eyebrow
+is gashed open...</p>
+
+<p>	At the same time, the
+bell is ringing...</p>
+
+<h2>Chapter
+IIA Missed Lesson</h2>
+
+<h3>Principal's Office</h3>
+
+<p>Levana, Beka,
+Kobakhidze, Shelo and Tviksa can barely keep from laughing.  The
+enraged principal is shouting various things, and he thinks he's
+pointing out to the kids how they can mend their ways.  They are standing with their
+heads bowed, but with smiles still on their faces.</p>
+
+<h3>Hallway on the 2<sup>nd</sup>
+Floor</h3>
+
+<p>Beka was seated
+comfortably on a wide window sill, right in front of the teachers'
+lounge.  He was holding the latest issue of "Playboy" in
+his hands, and was leafing through it. Kobakhidze came up to him.  He
+offered him a cigarette, lit it, and then sat down beside him, and
+together they continued to look through the magazine...</p>
+
+<h3>Classroom # 55</h3>
+
+<p>A young person cracked
+open the door.</p>
+
+<p>"Excuse me, may I see
+Lizuna for a minute?"</p>
+
+<p>Displeased, the teacher looked at the guest, and hesitated, as if she actually cared
+whether or not Lizuna was at her lesson. "Come back soon,"
+she shouted to her, and let her go.</p>
+
+<h3>Classroom # 49</h3>
+
+<p>	They are taking
+a test.  In math.  I think that every one is cheating...except
+Gabela.  The teacher has already confiscated two cheat-sheets, and has threatened that if she sees them cheating one more time,
+she will kick them out of the lesson.</p>
+</div>
+<p class="page">10</p>
+<!--<table class="pnav">
+<tr><td class="text">10</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+<div class="get">
+<h3>
+დერეფანი
+მე-3 სართულზე 
+</h3>
+
+<p>
+ყველანი ერთად შეიკრიბნენ:
+ ტვიქსა, მისი ოთხი ძმაკაცი და ლიზუნა. 
+</p>
+<p>_
+ირაკლის წითელა აქვს, _ აღნიშნა შელომ.
+</p>
+
+<p>_
+აბა, ტო, საწყალი,  _ ხელი ჩაიქნია კობახიძემ. 
+</p>
+
+<p>_
+ე, ესე
+ტყუილა ხო არ ვიქნებით. ამას ჯობდა
+ნიკუშასნაირად ჩვენც სახლებში წავსულიყავით! რამე ვქნათ რა, _
+განაცხადა ლევანამ. 
+</p>
+
+<p>_
+ვქნათ, _ დათანხმდნენ სხვებიც და ჩაფიქრდნენ.</p>
+
+<h3>საკლასო
+ოთახი #42</h3>
+
+<p>_
+ჩიგოგიძე! 
+</p>
+<p>_
+ვარ მასწავლებელო! 
+</p>
+<p>_
+ კალანდაძე! 
+</p>
+<p>_
+ ვარ მასწავლებელო!
+</p>
+<p>_
+სიხარულიძე! 
+</p>
+<p>_ავად გახდა სამწავლებელო და ჭყონიამ, ცენტერაძემ,
+ბურჭულაზემ, ქორიძემ, ნინიძემ და ღლობტმა გააცილეს სახლში.
+ </p>
+<p>მთელი
+კლასი ვერ გაყევით? _ იკითხა გულჩვილმა მასწავლებელმა.
+</p>
+<p>ხელის
+მოსაკიდებელი ადგილი აღარ დარჩა, თორემ გავყვებოდით...~ 
+</p>
+<p>_
+ისე მართლა სად არიან დღეს ბიჭები? _ გააწყვეტინა   ქალბატონმა
+ლიანამ გაკვეთილის, ~მე, ბებია, ილიკო და ილარიონის~ მოყოლა ხათუნას, _
+დილით, მგონი, ლევანს და კობახიძეს მოვკარი თვალი... 
+
+</p>
+
+<h3>საკლასო
+ოთახი #55</h3>
+
+<p>
+ეთერი
+მასწავლებელმა
+გთხოვათ, თუ შეუძლია ჟურნალი
+
+ მათხოვოს წოტა ხნითო,
+_ დაიწყო
+ლიზუნამ, ქიმიის კაბინეტის კარის შეღებისთანავე. 
+</p>
+<p>
+წაიღე გენაცვალე, ოღონდ
+მალე დამიბრუნე, _ გაუღიმა მასწავლებელმა და თან გულში გაუხარდა, 
+ რომ ჟურნალის
+უქონლობის გამო, ბავშვების გამოძახებას
+აარიდებდა თავს... 
+</p>
+
+</div>
+
+<div class="en">
+<h3>Hallway on the
+3<sup>rd</sup> Floor 
+</h3>
+
+<p>Everyone has
+gathered together:   Tviksa, his four best friends, and Lizuna.</p>
+
+<p>"Irakle has the
+measles,"  noted Shelo.</p>
+<p>"Oh, the poor guy,"
+Kobakhidze waved him away with his hand.</p>
+<p>"Hey, are we going to
+sit here and waste our time?  We should have gone home, like Nikusha!
+ Let&rsquo;s do something,"  announced Levana.</p>
+<p>"Let&rsquo;s," agreed
+the others, and they fell into thought.</p>
+
+<h3>Classroom # 42</h3>
+
+	<p>"Chigogidze!"</p>
+	<p>"Present, teacher!"</p>
+	<p>"Kalandadze!"</p>
+	<p>"Present, teacher!"</p>
+	<p>"Sikharulidze!"</p>
+
+	<p>"He got sick,
+	teacher, and Chkhonia, Tsenteradze, Burchuladze, Koridze, Ninidze
+	and Ghlonti went home with him."</p>
+	<p>"And why couldn't
+	the whole class go with him?" asked the poor teacher.</p>
+	<p>"There was no space
+	to hold on to his hand, or we would have followed him..."</p>
+	<p>"Seriously, where
+	are the boys today?"  Ms. Liana interrupted Khatuna&rsquo;s
+	discussion of  <i>Me, Granny, Iliko, and Ilarion</i>.  "In the
+	morning, I thought I caught a glimpse of Levana and Kobakhidze out
+	of the corner of my eye..."</p>
+
+
+
+<h3>Classroom #55</h3>
+
+<p>"Teacher Eteri
+is asking if she could borrow your attendance notebook for a bit," 
+ asked Lizuna as soon as she opened the door of the Chemistry office.</p>
+<p>"Here you go, dear,
+but get it back to me soon," the teacher smiled at her, and at the
+same time felt happy, because without the attendance notebook, she
+doesn't have to call the children up to the board...</p>
+
+</div>
+<p class="page">11</p>
+
+<!--<table class="pnav">
+<tr><td class="text">11</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+<div class="get">
+<h3>სკოლის ეზო</h3>
+
+<p>ჯერ
+მესამე გაკვეთილიც არ იყო დამთავრებული, ნიკუშა  კი უკვე შატალოზე
+გახლდათ და სახლისაკენ მიემართებოდა.  არც მისი კლასელები შევიდნენ
+გაკვეთილზე, თუმცა ისინი  სკოლაში დარჩნენ დერეფნებში სახეტიალოდ. 
+</p>
+
+<h3>დერეფანი მე-4 სართულზე</h3>
+
+<p>_ეგ ქიმიკოსი ნანულა მაინც სომეხია და მოდი, ნაომი  კემბელის სურათი
+ჩავუკრათ, _ შემოიტანა წინადადება  შელომ.</p>
+<p>თქმა
+და ასრულება ერთი იყო. ქიმიის ნიშნების ფურცელი,  ნაომი კემბელის
+შიშველმა სხეულმა დაიკავა. ~ფლეიბოიდან~ ამოხიეს.</p>
+
+<h3>დირექტორის
+კაბინეტი 
+</h3>
+
+<p>_ესეთი რაღაცების გაკეთებას როგორ ბედავთ! გაკვეთილზე არ შედიხართ,
+სკოლის შენობაში ეწევით, ჩხუბობთ!.. მიპასუხეთ, რა ქვია თქვენ
+საქციელს?! სად გგონიათ თქვენ თავი?! მიპასუხეთ!..  
+</p>
+
+<h3>საკლასო
+ოთახი #51</h3>
+
+
+<p>ლიზუნამ
+ჟურნალი დააბრუნა. 
+</p>
+
+<h3>კიბეები
+მე-3-დან
+მე-2-ზე
+
+</h3>
+
+<p>
+_ დილით არ მისაუზმია,
+წამო ბუფეტში, _ ტვიქსამ ლიზუნას ხელი გადახვია. 
+</p>
+<p>_
+წამო, _ დათანხმდა ლიზუნა, თვალებში ჩახედა და აკოცა.  
+</p>
+
+<h3>დერეფანი
+მე-3 სართულზე
+</h3>
+
+<p>გაბელა
+გამოვიდა თავისი საკლასო ოთახიდან. უფრო სწორად, კი არ გამოვიდა,
+გამოაგდეს. წარბი ჯერ კიდევ არ ჰქონდა მორჩენილი... ვერც ის გოგო
+დაევიწყებინა ბოლომდე, ვის გამოც წარბი გაუსკდა... სწორედ ამ დროს
+შენიშნა, ლიზუნა ტვიქსასთან ერთად მოდიოდა ხელგადახვეული... შურით
+გააყოლა თვალი და თავი ჩაღუნა...  
+</p>
+</div>
+<div class="en">
+
+<h3>The School Yard</h3>
+
+<p>The third lesson
+hadn&rsquo;t ended yet, and Nikusha was already skipping class and
+heading towards home. His fellow students weren't going to
+class either, although they were staying at school to roam around the
+hallways.</p>
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+<p>"It's bad enough
+that the chemistry teacher's an Armenian -- here, let's
+put in a picture of Naomi Campbell," Shelo suggested.  The word and
+the deed were one.  The page of chemistry grades was replaced by the
+naked body of Naomi Campbell, ripped from the "Playboy."</p>
+
+<h3>Principal's
+Office</h3>
+
+
+<p>"How can you dare to do
+such things?  You don't go to your lessons, you smoke in the
+school building, you fight!...Answer me, what do you call your
+behavior?!  Where do you think you are?  Answer me!"</p>
+
+<h3>Classroom #51</h3>
+
+<p>	Lizuna returned the
+attendance notebook.</p>
+
+
+<h3>Stairs from
+the 3<sup>rd</sup> to the 2<sup>nd</sup>
+Floor</h3>
+
+
+<p>"I didn't eat
+	breakfast this morning, let's go to the lunchroom," Tviksa
+	put his arm around Lizuna's shoulder.</p>
+
+	<p>"Let's go,"
+	agreed Lizuna, and she looked in his eyes and kissed him.</p>
+
+
+<h3>Hallway on the 3<sup>rd</sup>
+Floor</h3>
+
+<p>	Gabela came out of his
+classroom.  More precisely, it's not that he came out, but he'd
+been kicked out.  His eyebrow still hadn't healed...he
+wasn't able to completely forget that girl for whose sake his
+eyebrow was gashed...exactly at that moment he noticed Lizuna
+and Tviksa were walking together, with their arms around each
+other...in envy, he followed them with his eyes, and lowered his
+head.</p>
+
+</div>
+
+<p class="page">12</p>
+
+
+
+<!--<table class="pnav">
+<tr><td class="text">12</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+<div class="get">
+
+<h3>რომელიღაც
+მაღაზია 
+</h3>
+
+<p>საღეჭი
+რეზინის ყიდვისას ნიკუშამ უეცრად აღმოაჩინა, რომ მაისური უკუღმა ჩაეცვა.
+ნეტავ რას უნდა ნიშნავდესო, გაიფიქრა... 
+</p>
+
+<h3>დერეფანი
+მე-3 სართულზე 
+</h3>
+
+<p>გაბელასთვის
+საბედისწეროდ, მისი შურიანი მზერა არ გამოჰპარვიათ ბექას და კობახიძეს,
+რომლებიც იქვე იდგნენ შორიახლოს. 
+</p>
+<p>
+_ ე, ამ ახვარს შეხედე,
+რა, ცემა მოენატრა? 
+</p>
+<p>--
+მოდი, აბა, ვკითხოთ. 
+</p>
+<p>--
+ე, ბიჭო.. ჰო, ჰო, შენ... რა სახით უყურებ ტვიქსას?! შეუტიეს
+ერთად. 
+</p>
+<p>_
+რა ტვიქსას? _ დაიბნა გაბელა. 
+</p>
+
+<p>_
+რა ტვიქსა კი არა, ვინ ტვიქსა, ბიჭო! 
+</p>
+<p>-
+რა, შენა ხარ? 
+</p>
+<p>_
+მოიწიე აბა ერთი აქეთ... 
+</p>
+<p>მთელი
+დერეფანი ხოხიალ-ხოხიალით მოაწმენდინეს საცოდავს... ბოლოს ერთ-ერთ
+კუთხეში მიაგდეს მტვრის ნახმარი ჩვარივით...  
+</p>
+<h3>ბუფეტი</h3>
+
+
+<p>ტვიქსას
+და ლიზუნას ბუფეტში შელო და ლევანა დახვდნენ.  რამდენიმე წუთში ამ
+მშვენიერ სასტავს ბექა და კობახიძეც შეუერთდნენ. ყველამ მიირთვა, რაც
+სურდა. ტვიქსამ და ლიზუნამ  ერთი ბოთლიდან დალიეს ~კოკა-კოლა~ (თითქოს
+ორის ფული არ  ჰქონდათ). ზარის დარეკვამდე ცოტაღა რჩებოდა. უეცრად
+ენერგიული ნაბიჯების ხმა შემოესმათ. დაახლოებით მიხვდნენ, ვინც  უნდა
+ყოფილიყო და თავქუდმოგლეჯილებმა მოკურცხლეს...  
+</p>
+<h3>რომელიღაც ქუჩა</h3>
+<p>ნიკუშას
+შეყვარებულმა დაურეკა მობილურზე. შევხვდეთო. რა თქმა უნდა, დათანხმდა და
+სახლში წასვლის ნაცვლად  პაემანზე წავიდა. იქვე ახლოს უნდა შეხვედროდა
+შეყვარებულს _ ქუჩის გადაღმა და მერე ცოტა მარცხნივ. ახლო-მახ-</p>
+</div>
+
+<div class="en">
+
+<h3>A Random Store</h3>
+
+<p>While he was buying
+chewing gum, Nikusha accidentally discovered that his tee-shirt was
+inside out.  I wonder what that could mean, he started to think...</p>
+
+
+<h3>Hallway on the 3<sup>rd</sup>
+Floor</h3>
+
+<p>Unfortunately for
+Gabela, his jealous glance did not go unnoticed by Beka and
+Kobakhidze, who were standing nearby.</p>
+<p>"Hey, do you see that
+asshole, d'ya think he misses being beaten up?"</p>
+
+<p>"Come here, we're
+asking you a question."</p>
+<p>"Hey...yeah, yeah,
+you...what are you looking at Tviksa like that for?!"  they
+attacked him together.</p>
+<p>"What Tviksa?" asked
+Gebela in a daze.</p>
+<p>"Not what Tviksa, but
+who Tviksa, boy!"</p>
+<p>"What, is that you?"</p>
+
+<p>"Just come a bit
+closer..."</p>
+
+<p>They dragged him along
+the whole length of the hallway...finally, they dumped him in
+one of the corners like an old dust rag.</p>
+
+<h3>The Lunchroom</h3>
+
+<p>	Shelo and
+Levana were there to meet Tviksa and Lizuna in the lunchroom. In a
+few minutes Beka and Kobakhidze joined this wonderful group. 
+Everyone had what they wanted.  Tviksa and Lizuna were drinking from
+a single bottle of Coca-Cola, (as if they didn't have money for
+two.)  There was a bit of time before the bell rang.  Suddenly, they
+heard the sound of energetic footsteps.  They could almost guess who
+it had to be, and they took off at breakneck speed.</p>
+
+
+<h3>A Random Street</h3>
+
+<p>Nikusha's
+girlfriend had called him on the cell phone.  Let's meet.  So
+of course, he agreed, and instead of going home he set off for the
+date.  He was supposed to meet his girlfriend somewhere nearby &ndash;
+across the street, and then a little bit to the left.  
+</p>
+</div>
+
+<p class="page">13</p>
+
+<!--<table class="pnav">
+<tr><td class="text">13</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+<div class="get">
+
+<p>ლო მიწისქვეშა გადასასვლელს ვერსად მოჰკრა თვალი, არადა  ეჩქარებოდა...  
+</p>
+
+<h3>საჭირო
+ოთახი მე-3
+სართულზე
+</h3>
+
+<p>
+_ ფუ, რა საზიზღარი სუნია,
+ - ლიზუნას სახეზე გულისრევის შეგრძნება გამოეხატა. 
+</p>
+
+<p>_
+გაივლის ის კვერცხი კაცი და გავალთ, _ დაამშვიდა  ტვიქსამ და ცხვირზე
+ხელი ააფარა. 
+</p>
+
+<p>_
+ეჰ, რაც ჩვენ აქ დრო გვიტარებია, _ ჩაილაპარაკა  ბექამ. 
+</p>
+
+<p>_
+აბაა ტო, უკვე შევეჩვიეთ ამ სუნს, _ დაუმატა კობახიძემ. 
+</p>
+
+<p>შელომ
+და ლევანამ მოფსეს. 
+</p>
+
+<!--<p class="get" align="center">**</p>-->
+
+
+<p>სწორედ
+მათ დაეძებდა ის ..კვერცხი  კაცი~, ანუ დირექტორი.</p>
+
+<p>უკვე
+შეეტყო, გაკვეთილზე რომ არ შესულიყვნენ და სხვა  საგმირო საქმეების
+შესახებაც... ძალიან გაბრაზებული ჩანდა,  სასწავლო ნაწილი და ყველა
+მასწავლებელი გააფრთხილა, ხუთივე ბიჭი ჩემს კაბინეტში იყოს, ზარი
+დაირეკება თუ არა, მაშინვეო.  
+</p>
+
+
+<h3>საკლასო ოთახი #42</h3>
+
+<p>გამოვიდა თუ არა საკლასო ოთახიდან ქართულის მასწავლებელი, ბიჭები შევიდნენ.
+თანაკლასელებმა და დამრიგებელმა დაახვედრეს საშინელი ამბავი იმის
+შესახებ, რომ დირექტორს სასწრაფოდ სურდა მათი ნახვა. სხვა რა გზა
+ჰქონდათ, ვაჟკაცურად გასწიეს მისი კაბინეტისაკენ. იქ კი, როგორც
+მოგეხსენებათ, დირექტორმა ღრიალსა და მათთვის რჩევადარიგებების მიცემას
+მიჰყო ხელი...</p>
+
+<p class="gsect">ქალაქის ერთ&ndash;ერთი
+საავადმყოფო</p>
+
+<p>ნიკუშა უმძიმეს მდგომარეობაში მიიყვანეს საავადმყოფოში.</p>
+<p>17 ნომერი მარშუტკა დაეჯახა...</p>
+
+</div>
+<div class="en">
+
+<p>He couldn't see
+an underground crossing anywhere near by, but he was in a hurry...</p>
+
+<h3>Restroom on the 3<sup>rd</sup>
+Floor</h3>
+
+<p>"Phew, what a disgusting smell," a look of nausea appeared on Lizuna's face.</p>
+
+<p>"This jerk will pass by, and then we'll go," Tviksa calmed her
+down, and covered her nose with his hand.</p>
+
+<p>"Hey, what a great time we've had here," mumbled Beka.</p>
+
+<p>"Yeah,  we're already used to this smell," added Kobakhidze.</p>
+
+<p>Shelo
+and Levana peed.</p>
+
+
+<p class="en">***</p>
+
+
+<p>They
+were precisely the ones this "jerk", the principal, was
+looking for.</p>
+
+<p>He already knows
+they've missed their lesson, and about their other heroic
+deeds...he seemed very angry, and he warned the vice principal
+and all of the teachers that the five boys should be in his office,
+as soon as the bell rang, immediately.</p>
+
+
+<h3>Classroom
+# 42</h3>
+
+<p>As
+soon as the Georgian language teacher came out of the classroom, the
+boys went in.  Their classmates and the head teacher told them the
+terrible news, namely, that the principal wanted to see them right
+away.  What else could they do, but bravely go to his office.  But
+there, as you already know, the principal started to roar, and to
+lecture them.</p>
+
+<h3>One of the City Hospitals</h3>
+
+<p>They brought Nikusha to the hospital in critical condition. </p> 
+
+<p>The # 17 minibus had run into him.</p>
+</div>
+
+
+
+<p class="page">14</p>
+
+<!--<table class="pnav">
+<tr><td class="text">14</td><td class="text">
+		   <a href="index.html" target="_blank">[index]</a>
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+
+
+<div class="get">
+<h3>საკლასო
+ოთახი #55
+</h3>
+
+<p>ლიზუნასაც
+მოხვდა ცოტა დამრიგებლისაგან, მაგრამ ეგ არაფერი... ვის არ
+გაჯავრებიან... ნამდვილად ღირდა, მაგარი დრო გაატარა ტვიქსასთან 
+და მის ძმაკაცებთან ერთად...</p>
+
+<h3>დირეკტორის კაბინეტი</h3>
+
+<p>უკვე ძალიან რომ მობეზრდათ ბიჭებს დირექტორის ყვირილი, მისცვივდნენ. შელომ
+პირზე ააფარა რაღაც, ლევანამ და ბექამ ხელები დაუჭირეს, კობახიძემ და
+ტვიქსამ კი შარვალი გახადეს, თავზე ჩამოაცვეს და სასწრაფოდ გაეცალნენ
+იქაურობას...</p>
+
+<h2>თავი III</h2>
+
+<h3>ერთი გაკვეთილი ახალ სკოლაში  
+</h3>
+
+<p>
+კარგა ხანმა განვლო მას
+შემდეგ, რაც დირექტორი საკუთარ კაბინეტში იპოვეს, საკუთარი შარვლით
+თავზე. ტვიქსა, შელო, ლევანა, ბექა და კობახიძე, რა თქმა უნდა,
+გარიცხეს. ირაკლი, ნიკუშა და ლიზუნა კი საკუთარი სურვილით გადავიდნენ
+მათთან ერთად ახალ სკოლაში.  
+</p>
+
+<h3>ახალი სკოლა</h3>
+
+<p>
+ახალი სკოლა ძველისაგან
+ბევრით არაფრით განსხვავდებოდა. აქაც ისეთივე ~ძალიან კარგი~
+მასწავლებელები, ~სწავლაზე თავგადაკლული~ ბავშვები და თითქმის ისეთივე
+კვერცხი დირექტორი იყო (ისევ კაცი). ამ უკანასკნელს, სხვათა შორის, დიდი
+რიდი ჰქონდა ახლადგადმოსული ყმაწვილებისა. როგორც ჩანს, გაეგონა იმ
+ინციდენტის შესახებ, რაც წინა სკოლაში მოხდა დირექტორთან დაკავშირებით.
+ბიჭები ერთ კლასში მოხვდნენ, ლიზუნა კი _ სხვაში. ის ხომ ერთი წლით
+პატარა იყო.  
+</p>
+
+<h3>საკლასო ოთახი #41</h3>
+
+<p>_დგებუაძეს მოტანილი აქ... ძალიან კარგი. სახვაძე, შენ? </p>
+</div>
+
+<div class="en">
+
+<h3>Classroom
+# 55</h3>
+
+<p>The
+head teacher has also scolded Lizuna a bit, but that's nothing...  they scold everyone...It was really worth it,
+she'd had such a great time together with Tviksa and his
+buddies...</p>
+
+<h3>Principal's Office</h3>
+
+<p>When
+the boys got sick and tired of the principal&rsquo;s yelling, they
+rushed him.  Shelo put something over his face, Levana and Beka
+grabbed his hands, Kobakhidze and Tviksa pulled down his pants, put
+them on his head, and they took off post-haste&hellip;</p>
+
+
+<h2>Chapter
+III</h2>
+<h3>A Lesson in the New School</h3>
+
+<p>A
+fair amount of time passed after the principal was found in his own
+office, with his own pants on his head.  Tviksa, Shelo, Levana, Beka,
+and Kobakhidze, of course, were expelled.  Irakli, Nikusha, and
+Lizuna voluntarily moved to the new school with them.</p>
+
+<h3>The New School</h3>
+
+
+<p>The
+new school was not much different from the old one.  Here, too,
+were the same "very good" teachers, the kids who "cracked
+their heads over studying," and the principal was almost the
+very same jerk (also a male).  The latter, by the way, had a great
+respect for the newly transferred youth.  As is seems, he'd
+heard about the incident that had happened with the principal at the
+previous school.  The boys turned out to be in one class, but Lizuna,
+in another.  As we know, she was a year younger.</p>
+
+<h3>Classroom
+# 41</h3>
+
+<p>"Gdebuadze has delivered...very good.  Sakhvadze, how about you?"</p>
+</div>
+
+<p class="page">15</p>
+<!--<table class="pnav">
+<tr><td class="text">15</td><td class="text">
+	
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+<div class="get">
+
+<p>
+_ მეც მოტანილი მაქ. 
+</p>
+<p>_
+კარგი ბიჭი ხარ. გამოდის, მარტო ჭედიას და ნიკურაძეს დარჩათ მოსატანი და
+თუ უახლოეს ნახევარ საათში არ მოიტანენ, მაგათ გავუხევ დებილ თავებს, _
+ზუმბიკა გაბრაზებული სახით იყურება აქეთ-იქეთ. მერე ახლადაგროვებულ ფულს
+ჯიბეში იდებს და ლომისას თვალს უკრავს. 
+</p>
+<p>_
+ეს კლასი რომ არ გვყავდეს, რა ეშველებოდა უბანს, სად ავაგდებდით ამდენ
+ფულს... _ ამბობს ლომისა თავისთვის.  
+</p>
+
+<h3>საკლასო
+ოთახი #30
+</h3>
+
+<p>ტვიქსა,
+ბექა, კობახიძე, შელო,
+ირაკლი და ლევანა ერთ რიგში სხედან. ნიკუშა უკვე თითქმის სრულიად
+გამოკეთდა ავარიის შემდეგ. სკოლაშიც დადის ხოლმე ხანდახან. 
+</p>
+
+<p>ახლა
+ფეხზე
+თაბაშირის
+გამოსაცვლელადაა წასული. კლასში უმრავლესობა გოგონები არიან. ბიჭების
+უმრავლესობაც გოგონები არიან. ყოველ შემთხვევაში, ჩვენს ბიჭებს
+თავიდანვე ასეთი შეხედულება შეექმნათ მათზე და მაინცდამაინც არც ერთს არ
+ემეგობრებიან.  
+</p>
+
+<h3>საკლასო
+ოთახი #36
+</h3>
+
+<p>ლიზუნა
+კარგად მიიღეს ახალ კლასში. უკვე რამდენიმე დაქალიც კი გაიჩინა. არც
+თაყვანისმცემლები აკლია...  
+</p>
+
+<h3>საკლასო
+ოთახი #30</h3>
+
+<p>_
+ირაკლი, იცი გაკვეთილი? _
+მკაცრი ტონით
+ეკითხება ბიოლოგიის მასწავლებელი. 
+</p>
+
+<p>
+ირაკლი ფეხზე დგება, თავს
+დაბლა ხრის და ხმას არ იღებს. 
+</p>
+
+<p>_
+უკვე იცი მერამდენე შემთხვევაა, რომ მოუმზადებელი მობრძანდები სკოლაში? 
+  განაგრძობს ქალბატონი ქეთინო. 
+</p>
+
+<p>ირაკლი კვლავ დუმს.</p>
+<p>_დაჯექი, ორიანი, _ მასწავლებელი კალამს იღებს და ნიშნის ჩაწერას
+აპირებს. კლასში სამარისებული სიჩუმეა.</p>
+<p>შეიძლება, რაღაც გკითხოთ? _ არღვევს სიჩუმეს ირაკლი და მას შემდეგ, რაც
+მასწავლებლის თავის მოძრაობით თან&ndash;</p>
+</div>
+
+<div class="en">
+<p>"I've got it with me, too."</p>
+<p>"You're a good boy. It turns out, only Chedia and Nikuradze are
+left to deliver, and if they don't do so within the next half
+an hour, I'll bash their stupid heads," Zumbika is looking
+around with an angry face.  Then he puts the newly gathered money in
+his pockets, and winks at Lomis.</p>
+<p>"If we didn't have this class, what would happen to this
+neighborhood, how would we gather so much money..." Lomis says
+to himself.</p>
+
+<h3>Classroom # 30</h3>
+
+<p>Tviksa,
+Beka, Kobakhidze, Shelo, Irakli and Levana are sitting in one row. 
+Nikusha has already almost completely recovered after his accident. 
+He&rsquo;s even going to school from time to time.</p>
+
+<p>Now he's gone to get a new cast put on his leg. Girls make up the
+majority of the class.  Most of the boys are girls, too. In any
+event, that's the first impression they made on our boys, and
+that's why they haven't made friends with any of them.</p>
+
+<h3>Classroom
+# 36</h3>
+
+<p>Lizuna
+has been well received in the new class.  She's already made
+several girl friends.  And there's also no lack of suitors.</p>
+
+
+<h3>Classroom
+# 30</h3>
+
+<p>"Irakli,  do you know the lesson?"  the biology teacher asked him sternly.</p>
+
+<p>Irakli stood up, hung his head, and didn't utter a sound.</p>
+
+<p>"Do you know how many times this has happened, that you have come to school unprepared?" continued Miss Ketino.</p>
+
+<p>Irakli remained silent.</p>
+
+<p>"Sit down.  A 'D'."  The teacher picks up her pen and is about to write down the grade.  It's still as a graveyard in the classroom.</p>
+<p>"May I ask you something?" Irakli interrupts the silence, and
+after the teacher nods in agreement,</p>
+
+</div>
+
+<p class="page">16</p>
+<!--<table class="pnav">
+<tr><td class="text">16</td><td class="text">
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>
+-->
+
+<div class="get">
+<p>ხმობას იღებს, განაგრძობს, თქვენ იცით, რას უშვრებით ჩემს ტვინს?</p>
+<p>_არა,  _ მოულოდნელი გულუბრყვილობით პასუხობს ქალბატონი ქეთინო.</p>
+<p>_და იცით, უკვე მერამდენე შემთხვევაა, რომ თქვენ ამას უმვრებით ჩემ
+საცოდავ ტვინს? _ არ ჩერდება ირაკლი.</p>
+<p>ახლა კი ხვდება მასწავლებელი, რაშიცაა საქმე და მთელი ხმით ყვირის.</p>
+<p>_გაეთრიე კლასიდან!</p>
+<p>_
+იეს!  - უხარია ირაკლის. კარგა ხანია ამ სიტყვებს ელოდა. დერეფნისკენ
+მიეშურება ღიმილით და გასვლის წინ შუა თითს აჩვენებს მასწავლებელს,
+დამშვიდობების ნიშნად.  
+
+</p>
+
+<h3>საკლასო
+ოთახი #41</h3>
+
+<p>_
+ბიჭო, ლომის, იცი, ვინ მევასებაა? _ დანას ხსნის
+ზუმბიკა, _ ახალი გადმოსული გოგო როა. 
+</p>
+
+<p>_
+ ლიზიკო თუ რაღაცა? მეცხრე
+კლასელი? 
+</p>
+
+<p>_
+ ჰო, ლიზუნა. მაგარი ნაშაა
+არა? 
+</p>
+
+<p>_
+კი, ტო, მეც შევნიშნე. 
+</p>
+
+<p>_
+უნდა დავითრიო. 
+</p>
+<p>_
+მიდი, მიაწექი... ოღონდ შეყვარებული
+ყავს, ხო იცი? 
+</p>
+<p>_
+გავკარი მაგის შეყვარებულს...  
+
+</p>
+
+<h3>ახალი
+სკოლის შესასვლელი
+</h3>
+
+<p>სკოლის
+კარს ყმაწვილი უახლოვდება. დაკაკუნებას აპირებს. წარბზე დიდი შრამი
+აქვს. შარვლის
+ერთ ჯიბეში ვიქტორინოქსი უდევს, მეორეში _
+ოპინელი.
+ირგვლივ იყურება, შენობას
+ათვალიერებს. ბოლოს აკაკუნებს.  
+</p>
+
+<h3>დერეფანი
+მე-3 სართულზე
+</h3>
+
+
+<p>დერეფნებში
+მოსაწყენი ხეტიალის შემდეგ ირაკლი ტვიქსას და ლევანას ხვდება. 
+</p>
+<p>_
+ვაა, თქვენც გამოხვედით? 
+</p>
+<p>_
+აბა რა, _ პასუხობს ტვიქსა და თან ხელში რაღაც უცნაურ მოწყობილობას
+ატრიალებს.  
+</p>
+</div>
+<div class="en">
+<p>he continues, "Do you know what you are doing to my brain?"</p>
+
+<p>"No," answers Miss Ketino with unexpected innocence.</p>
+<p>"And do you know, how many times it has already happened, that you
+have done this to my poor brain?" Irakli does not stop.</p>
+
+<p>But now the teacher's realized what's going on, and yells at the top
+of her voice.</p>
+<p>"Get the hell out of the classroom!"</p>
+
+<p>"Yes!" Irakli is happy.  He had been waiting for these words for a long time.  He heads quickly for the hallway, with a smile, and before leaving he shows the teacher his middle finger, as a gesture
+of farewell.</p>
+
+<h3>Classroom
+#41</h3>
+
+<p>"Dude, Lomis, do you know who I have a crush on?" Zumbika is opening
+a knife, "that new girl who's just transferred in."</p>
+<p>"Liziko or something like that?  A 9<sup>th</sup> grader?"</p>
+
+<p>"Yeah,
+Lizuna.  A hot chick, huh?"</p>
+
+<p>"Yeah,
+I noticed her too."</p>
+
+<p>"I
+should get her."</p>
+
+<p>"Go,
+go for it...but she has a boyfriend, ya' know?"</p>
+
+<p>"Screw
+her boyfriend..."</p>
+
+<h3>
+Entrance of the New School</h3>
+
+<p>A
+young man is approaching the door of the school.  He's about to
+knock.  He has a big scar on his eyebrow.  He puts a Viktorinox in
+one of his pants' pockets, in the other,  an Opineli.  He's
+looking around, eyeing the building.  Finally, he knocks.</p>
+
+<h3>Hallway of the
+3<sup>rd</sup> Floor</h3>
+
+<p>After a boring tour of
+the halls, Irakli meets up with Tviksa and Levana.</p>
+
+<p>"Hey,
+you've also come out?"</p>
+
+<p>"Sure, why not,"
+Tviksa answers, and he's twirling some kind of strange
+tool in his hand.</p>
+</div>
+<p class="page">17</p>
+<!--<table class="pnav">
+<tr><td class="text">17</td><td class="text">
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+<div class="get">
+<p>_
+ეგ რა არი? _ ინტერესდება ირაკლი. 
+</p>
+<p>_
+ოო, ეს მაგარი რაღაცაა, დარაჯის კაბინეტში ჩამოვხსენით. 
+</p>
+<p>_
+მგონი, ამით ზარს რეკავდნენ ხოლმე... უხსნის ლევანა. 
+</p>
+
+<h3>საკლასო
+ოთახი #30</h3>
+
+<p>_
+მასწ, ვინ იყო ის ბიჭი, ჯიპით რო მოგაკითხათ? მიმართავს ბიოლოგიის
+მასწავლებელს ერთ-ერთი გოგონა, _ მასთან ერთად დაგინახეს გუშინ ღამის
+კლუბში?
+</p>
+
+<p>_
+აუ, ჩემი, ეს ვინაა, _
+იცინის ბექა,
+სპრაიტი ხო არა აქ დალეული? 
+</p>
+<p>_
+ჰეჰეჰეჰე... _ იცინის კობახიძეც. 
+</p>
+
+<h3>დერეფანი მე-4 სართულზე</h3>
+
+<p>მობილურზე
+სალაპარაკოდ გამოსულ ლიზუნას ზუმბიკა აჩერებს. 
+</p>
+
+<p>_
+აუ, მაგრა მევასები რა და მინდა, რომ ჩემი შეყვარებული
+გახდე,  _
+ეუბნება პირდაპირ. 
+</p>
+<p>მე
+შეყვარებული
+მყავს და... _ იბნევა ლიზუნა. 
+</p>
+<p>_
+მკიდია შენი შეყვარებული, _ ზუმბიკა გოგონას კედელთან იმწყვდევს და
+კოცნას უპირებს...  
+</p>
+
+
+<h3>კიბეები მე-2-დან მე-3-ზე
+</h3>
+
+<p>შრამიანი
+ყმაწვილი ამოდის.  
+</p>
+
+<h3>დერეფანი
+მე-4
+სართულზე
+</h3>
+
+<p>_
+მე კიდე დედაშენი მკიდია, _ ზუმბიკას და ლიზუნას ტვიქსა წამოადგა თავს,
+ირაკლისთან და ლევანასთან ერთად, _ გამიგე ბიჭო?! 
+</p>
+<p>ზუმბიკას
+ცხვირიდან სისხლი ასხამს ტვიქსას ძლიერი დარტყმის შედეგად. ლიზუნას
+თეთრი მაისური წითლად იღებება. 
+</p>
+
+<p>_
+სად ხართ, ძმებო?! _
+ღრიალებს
+ზუმბიკა, _ ახალგადმოსული კვერცხები ბლატაობენ. 
+</p>
+<p>ახლა
+უკვე ტუჩიდანაც მოსდის სისხლი. ლევანამაც ხია. 
+</p>
+<p>პირველი
+ლომისა მორბის საშველად, მერე კი _ ზუმბიკას სხვა ძმაკაცებიც.3  
+</p>
+</div>
+
+
+<div class="en">
+<p>"What's
+that?" Irakli takes an interest.</p>
+<p>"Ohh, this is something very cool, I took it from the guard's office."</p>
+<p>"I think they used to ring the bell with it...;" Levana
+explains.</p>
+
+<h3>Classroom
+#30</h3>
+
+<p>"Teach, who's
+that guy who came to see you in the Jeep?" one of the girls
+asked the biology teacher,  "You were spotted with him at a
+club last night."</p>
+
+<p>"Oh gosh, who's
+this talking," laughs Beka, "Were you drinking Sprite
+there?"</p>
+
+<p>"Hehehehe..."
+ Kobakhidze also laughs.</p>
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+<p>Zumbika stops Lizuna,
+who has stepped out into the hallway to talk on her cell phone. 
+</p>
+<p>"Oh, I have a
+big crush on you, and I want you to be my girlfriend," he says
+openly.</p>
+<p>"I already have
+a boyfriend and..." Lizuna is at a loss for words.</p>
+
+<p>"I don't
+give a damn about your boyfriend,"  Zumbika pins the girl to
+the wall and is about to kiss her...</p>
+
+
+<h3>The Stairs from the
+2<sup>nd</sup> to the 3<sup>rd</sup>
+Floor</h3>
+
+<p>The young man with the
+scar is coming up.</p>
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+<p>"And I don"t
+give a damn about your mother,"  Tviksa comes up to Zumbika and
+Lizuna, together with Irakli and Levana, "D'ya get it,
+dude?!"</p>
+
+<p>Blood is gushing from
+Zumbika's nose after Tvikhsa's strong blow.  Lizuna's
+white tee-shirt is dyed red.</p>
+<p>"Where are you,
+bro's?!" howls Zumbika, "The newly arrived jerks
+are taking over!"</p>
+<p>Now blood is also
+flowing from his lip.  Levana hit him too.</p>
+
+<p>Lomis is the first to
+run up to help, and then - Zumbika's other buddies.</p>
+</div>
+<p class="page">18</p>
+
+<!--<table class="pnav">
+<tr><td class="text">18</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+<div class="get">
+
+<h3>კიბეები
+მე-3-დან მე-4-ზე 
+</h3>
+
+<p>ისევ
+ამოდის.  
+</p>
+
+<h3>დერეფანი
+მე-4 სართულზე</h3>
+
+<p>ჩვენ
+ბიჭებს მაგრა ხვდებათ. სიტუაცია უკვე უკონტროლოა. 
+</p>
+
+<p>ამათ
+შველას ვერც ხმაურზე კლასიდან გამოცვენილი ბექა, კობახიძე და შელო
+ახერხებენ. მაგრად კი ურტყამენ მოწინააღმდეგეს, მაგრამ მათგან უფრო
+მაგრად ხვდებათ. ბექას ჭრიან კიდევაც. ფეხში. ლომისა და ზუმბიკა,
+რომელიც გასისხლიანებულ სახეს შიგადაშიგ ცხვირსახოცით იწმენდს, ლიზუნას
+კიბეებისაკენ მიათრევენ. 
+</p>
+
+<h3>დირექტორის
+კაბინეტი 
+</h3>
+
+<p>_
+ბატონო დირექტორო, საშინელი ჩხუბია მეოთხეზე, _ატყობინებს მდივანი. 
+</p>
+<p>_
+მოვდივარ ეხლავე, _ ფეხზე დგება დირექტორი,  _ ვინ ჩხუბობს, თუ იცი? 
+</p>
+<p>_
+ახალ ბიჭებს დაერიენ ჩვენი მეათეკლასელები. 
+</p>
+<p>_
+ახალ ბიჭეებს? 
+</p>
+<p>_
+დიახ. 
+</p>
+<p>_
+იცი რაა, ეხლა გამახსენდა, რომ სასწრაფოდ უნდა დავრეკო. გადაუდებელი
+საქმეა. იქნებ უჩემოდ დაარეგულიროთ  რა, სიტუაცია... 
+</p>
+
+<h3>კიბეებისა
+და მე-4 სართულის გასაყარი</h3>
+
+<p>
+ამოვიდა. უცბად ერკვევა
+შექმნილ სიტუაციაში და სასწრაფოდ ჯიბეში იყოფს ხელს...  
+</p>
+
+<h3>
+დერეფანი
+მე-4 სართულზე 
+</h3>
+
+<p>
+ლომისას მოულოდნელად დანა
+ხვდება ზურგში. ეცემა.  გაოგნებულ ზუმბიკას ვერაფერი გაუგია და ამ დროს
+კიდევ  ერთი მუშტი ხვდება სახეში. ამჯერად უკვე შრამიანი ყმაწვილისაგან.
+</p>
+</div>				
+
+<div class="en">
+
+<h3>The Stairs from the
+3<sup>rd</sup> to the 4<sup>th</sup>
+Floor 
+</h3>
+
+<p>The same young man is
+coming up.</p>
+
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+<p>Our boys are heavily
+hit.  The situation is already out of control.</p>
+
+<p>Even Beka, Kobakhidze
+and Shelo, coming out of the classroom at the racket, are not able to
+help them.  Although they strike their opponents with force, they are
+hit back even harder.  They even cut Beka.  On his leg.  Lomisa and
+Zumbika, wiping their bloody faces from time to time with a
+handkerchief, are dragging Lizuna towards the stairs.</p>
+
+
+<h3>Principal's
+Office</h3>
+
+<p>"Sir, there's
+a horrible fight on the 4<sup>th</sup> floor," the secretary
+informs him.  
+</p>
+
+<p>"I'm
+coming, right away,"  the principal stands up,  "Who's
+fighting, do you know?"</p>
+
+<p>"Our 10<sup>th</sup>
+graders are attacking the new boys."</p>
+
+<p>"The new boys?"</p>
+
+<p>"Yes."</p>
+<p>"You know what,
+I just remembered, I have to make a phone call right now.  Urgent
+business.  Maybe the situation can be regulated without me..."</p>
+
+<h3>Landing of the Stairs and the
+4<sup>th</sup> Floor</h3>
+
+<p>He came up.  He
+immediately got a sense of what's happening, and right away
+slides his hand into his pocket....</p>
+
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+<p>Lomisa,  unexpectedly,
+is struck with a knife in the back.  He hits the ground.   Zumbika,
+dumbfounded, understands nothing, and at that moment a fist hits him
+in the face.  This time, from the young man with the scarred face.</p>
+</div>
+<p class="page">19</p>
+<!--<table class="pnav">
+<tr><td class="text">19</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>
+-->
+<div class="get">
+
+<p class="get">***</p>
+                       
+<p>_
+გაბელა?! კივის ლიზუნა, _ შენ მე გადამარჩინე! -- ეხუტება და კოცნის.
+თანაც ტუჩებში. მერე უკანმოუხედავად ჩარბიან კიბეებზე, კარს აღებენ,
+გარეთ გადიან და იქ კიდევ ერთხელ ეხუტებიან ერთმანეთს... 
+</p>
+
+<p>წესით, ამ დროს ზარი უნდა დარეკილიყო...</p>
+
+
+<h2>თავი
+IV 
+</h2>
+<h3>ერთი
+გაკვეტილი ძველ სკოლაში 
+</h3>
+
+<p>მეთერთმეტე
+კლასი... ეს ის დროა, როცა ყველაზე მეტად გწყდება გული სკოლაში გასულ
+წლებზე და შენ თავზე ბრაზდები  _ რატომ გეშინოდა ბავშვობაში დირექტორის
+და რატომ ოფრო თამამად არ დადიოდი შატალოებზე. სწორედ მეთერთმეტე კლასში
+გადავიდნენ ჩვენი მოთხრობის გმირი ყმაწვილები. თანაც, საშუალება მიეცათ,
+სწავლის უკანასკნელი წელი თავიანთ ძველ სკოლაში გაეტარებინათ (ახალში
+მაინც აღარ დაედგომებოდათ). დირექტორს, რომელთანაც ამათ ერთი უსიამოვნო
+ამბავი შეემთხვათ, დაეტოვებინა ამ სკოლის დირექტორის თანამდებობა და
+სხვაგან გადასულიყო. ახალი დირექტორი ქალი გახლდათ... ახალგაზრდა...
+პამელა და ჯენიფერი, ორი ერთში _ ასე ეძახდნენ მას მოსწავლეები... კარგი
+ ქალი იყო... სწორედ მან შეიწყალა ერთ დროს ამ სკოლიდან  გაყრილი ბიჭები
+და უკან დააბრუნა...  
+</p>
+
+<h3>საკლასო ოთახი #42</h3>
+
+<p>_
+არც კი მჯერა, რომ ჩვენს მშობლიურ სკოლას დავუბრუნდით, _ კობახიძე
+სიგარეტის კვამლით რგოლებს უშვებს, _  ძალიან მენატრებოდა აქაურობა. 
+</p>
+<p>_
+აბაა, ტო, _ უერთდება ბექაც, _ მეც მაგრად მენატრებოდა. 
+</p>
+<p>_
+ბიჭო, ჩვენი ტუალეტი არ მოვინახულოთ? 
+</p>
+<p>_
+ჰეჰეჰეჰე... აბა რა, წამო...  
+</p>
+</div>
+
+<div class="en">
+
+<p class="en">***</p>
+
+<p>"Gabela?!"
+cries Lizuna, "You've saved me!"  She hugs him and
+kisses him.  Right on the lips. Then without looking back they run
+down the stairs, open the doors, go outside and there, once again
+embrace each other.</p>
+
+<p>By the rules, the bell
+should have rung right then...</p>
+
+
+<h2>Chapter
+IV</h2>
+<h3>A Lesson at the Old School</h3>
+
+<p>The 11<sup>th</sup> grade.  This is the time when you regret most of all
+the years spent in school, and you get mad at yourself &ndash; why
+were you afraid of the principal in your childhood? Why didn't
+you play hooky more boldly?  It was precisely the 11<sup>th</sup>
+grade the young heroes of our story had reached.  At the same time,
+they were given the chance to spend the last year at their old school
+(in any case, they were no longer welcome at the new one).  The
+principal, with whom they'd had that unpleasant incident, had
+left the position of principal of this school, and had moved to
+another.  The new principal turned out to be a woman...a young
+one...Pamela and Jennifer, two in one - that's what
+the students called her...she was a nice woman...namely,
+she was the one who forgave the boys who had been expelled from this
+school at one time, and brought them back.</p>
+
+<h3>Classroom # 42</h3>
+
+
+<p>"But I can't
+even believe that we are coming back to our old familiar
+school,"  Kobaxidze is blowing smoke rings from a cigarette, "
+I really missed this place."</p>
+
+<p>"Yeah, me too,"
+joined in Beka, "I missed it a lot too."</p>
+
+<p>"Dude, shouldn't
+we go have a look at our toilet?"</p>
+
+<p>"Hehehehe...yeah,
+let's go..."</p>
+</div>
+<p class ="page">20</p>
+<!--<table class="pnav">
+<tr><td class="text">05</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+
+</td></tr>
+</table>
+-->
+<div class="get">
+<h3>საკლასო ოთახი #60</h3>
+
+<p>მარინა მასწ,
+დავიტოვებ რა ჩვენთან ამ ლამაზ გოგოს ერთი გაკვეთილით, _
+ეუბნება ლაშა მასწავლებელს. 
+</p>
+<p>_
+კი, ლაშიკო, დაიტოვე, უღიმის ქალბატონი მარინა. 
+</p>
+<p>მადლობთ
+მასწ, _
+ლაშა
+და ლიზუნა ერთად სხდებიან შუა რიგის ბოლო მერხზე. 
+</p>
+<p class="get">***</p>
+<p>ლიზუნა
+შარშანვე დაბრუნდა ამ სკოლაში, გაბელას გამო.  
+</p>
+
+<h3>საკლასო ოთახი #49</h3>
+
+<p>ვერ არი კარგ ხასიათზე გაბელა. ვერ ახერხებს იმ ამბის დავიწყებას... ბიჭი
+შემოაკვდა კინაღამ... თან უკვე რამდენიმე დღეა, ლიზუნაც დაშორდა...
+ვიღაც ლაშა შეუყვარდა... ფუ მაგის ბოზი დედაცო, _ ფიქრობს ხოლმე
+თავისთვის, _ მაგის გულისთვის ლამის კაცი დავბრიდე, მაგან კიდე ვიღაც
+მანქანიან პიდარასტზე გამცვალაო...</p>
+
+<h3>დირეკტორის კაბინეტი</h3>
+
+<p>რაღაც საეჭვო ხმები გამოდის. არც მდივანი ზის თავის ადგილზე... მგონი, ჯობია
+ამათ თავი დავანებოთ და მარტო დავტოვოთ.</p>
+
+<h3>რომილიღაც ქუჩა</h3>
+
+<p>ნიკუშა,
+როგორც ყოველთვის, შატალოზეა. ამჯერად შელოსთან ერთად. ქუჩაში
+დაიარებიან.  
+</p>
+
+<h3>საკლასო
+ოთახი #42</h3>
+
+<p>_
+ლიზუნას ახალ შეყვარებულს იცნობ? _ ირაკლი ტვიქსას გვერდით ჯდება. 
+</p>
+<p>_
+ისე რა, ვიცი ვინცაა, _ თვალებს ხუჭავს ტვიქსა, _ მე მაგარი მკიდია ეგეც
+და ლიზუნაც. 
+</p>
+<p>_
+ლა&#4328;ა
+ქვია, ამბობენ მასწავლებლებს ევასებათ ძაანო. 
+</p>
+<p>_
+ჰო, ევასებათ, აბა რა, მაყუთაა და ფულს აძლევს უეჭველად. 
+</p>
+<p>_
+ალბათ ლიზუნასაც აძლევს.  
+</p>
+</div>
+<div class="en">
+
+<h3>Classroom # 60</h3>
+
+<p>"Teach, Marina,
+may I reserve a lesson together with this beautiful girl?" 
+Lasha said to the teacher.</p>
+
+<p>"Yes, Lashiko,
+you may," Miss Marina smiles at him.</p>
+
+<p>"Thank you,
+teach," Lasha and Lizuna are sitting together on the last bench
+of the middle row.</p>
+
+<p class="en" >***</p>
+
+<p>Lizuna had already
+returned to this school last year, because of Gabela.</p>
+
+
+<h3>Classroom # 49</h3>
+
+<p>Gabela is not in a
+good mood.  He is not able to forget this incident...he almost
+killed a boy...on top of that, it's several days, and Lizuna
+has broken up with him...she's in love with some Lasha..."the
+hell with that whore," he thinks to himself from time to time,
+"for her sake I almost bumped off a man, but she's
+already replaced me with some pederast with a car"</p>
+
+<h3>Principal's Office</h3>
+
+<p>Some sort of
+questionable sounds are emerging.  The secretary isn't in her
+place, either...I think it's better to forget them, and
+leave them alone.</p>
+
+
+<h3>A Random Street</h3>
+
+<p>Nikusha, as
+always, is playing hooky.  This time, together with Shelo.  They are
+strolling along the street.</p>
+
+<h3>Classroom #42</h3>
+
+
+<p>"Do you know
+Lizuna's new boyfriend?"  Irakli sits down next to
+Tviksa.</p>
+<p>"Oh yeah, I know
+who he is,"  Tviksa screws up his eyes, "I don't
+give a damn about either him or Lizuna."</p>
+
+<p>"His name's
+Lasha, they say that the teachers really adore him."</p>
+
+<p>"Yeah, they
+adore him, of course, he's wealthy and he undoubtedly gives
+them money."</p>
+<p>"He probably
+gives money to Lizuna, too."</p>
+</div>
+<p class="page">21</p>
+<!--<table class="pnav">
+<tr><td class="text">21</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+<div class="get">
+<p>_
+მარტო ფულს? _ ორივეს ეცინებათ.  
+</p>
+
+<h3>საკლასო
+ოთახი #55</h3>
+
+<p>_
+ლიზუნა არ არის დღეს? 
+</p>
+<p>_
+არა მასწ, გლანდების შესამოწმებლადაა წასული.  
+
+</p>
+
+<h3>საკლასო
+ოთახი #49</h3>
+
+<p>რაღაც
+ნიტო პონტშია, რა. მტრები გაიჩინა, შეყვარებული დაკარგა... ცოტა კიდევ
+გაუმართლა, ის ბიჭი რომ არ მოკვდა... იმ შემთხვევის მერე, დანას აღარ
+გაჰკარებია... რა ქნას? როგორ მოიქცეს? ამ შეკითხვაზე ჯერჯერობით მხოლოდ
+ერთი პასუხი უტრიალებს თავში...  
+</p>
+
+<h3>საკლასო ოთახი #42</h3>
+<p>_
+ლაურა მასწ, _ მიმართავს მათემატიკის მასწავლებელს
+ირაკლი, _ თქვენ ლაურა კოლტის ნათესავი ხომ არა ხართ? 
+</p>
+<p>-
+რა გინდა, ირაკლი?!
+&ndash;&ndash; მასწავლებლის
+ყმაში
+გაბრაზება
+შეიმჩნევა. 
+</p>
+
+<p>_
+მინდა ფული, მინდა ხუთები, მინდა დანა, მინდა კუნთები, მინდა
+ტანსაცმელი, მინდა საჭმელი, მინდა ფეხსაცმელი, მინდა სანთელი, მინდა
+ბასეინი, მინდა
+ლოგინი, მინდა ~ფავორიტი~, ბევრი ~ფავორიტი~, მინდა კივილი... 
+</p>
+<p>
+_ გაეთრიე კლასიდან!  _
+კივის ლაურა მასწავლებელი. 
+</p>
+<p>
+_ კარგით რა, მასწ, არ
+გააგდოთ, ტვიქსას თან ეცინება. 
+</p>
+<p>
+_ შენ რაღა გინდა? _ ახლა
+მას უტევს მასწავლებელი. 
+</p>
+<p>_ მინდა ქალები, ერთი
+ტრაილერი, მინდა ბრიტნი სპირსი  და ლივ ტაილერი, მინდა კროუფორდი, მინდა
+კურნიკოვა, მინდა კლაუდია, მინდა შარაპოვა, მინდა პამელასი, ორივე,
+მინდა  ჯენიფერის, დიდი, მინდა მათთან ერთად... ცხოვრება ~მშვიდი~...
+ანჯელინა ჯოლი მინდა! 
+</p>
+<p>_
+გაეთრიეეეთ!!!  
+</p>
+
+<h3>მარშუტკა
+#17
+</h3>
+
+<p>ერთ-ერთი
+ქალბატონისათვის ხურდის დაბრუნებისას  მძღოლმა აღმოაჩინა, რომ მაისური
+უკუღმა ჩაეცვა...  
+</p>
+</div>
+
+<div class="en">
+
+<p>"Only money?"
+both of them laugh.</p>
+
+<h3>Classroom # 55 
+</h3>
+
+<p>"Isn't
+Lizuna here today?"</p>
+
+<p>"No teach, she's
+gone to have her glands checked out."</p>
+
+<h3>Classroom # 49</h3>
+
+<p>Something's not
+quite right.  He has made enemies, he's lost his girlfriend...he
+was a bit more fortunate, though, that he didn't kill that
+boy...after that incident he hasn't touched a knife...what
+can he do? How should he behave?  For the time being, he's
+considering only one answer to this question...</p>
+
+
+<h3>Classroom #42</h3>
+
+<p>"Laura, teach,"
+Irakli addresses the math teacher, "You aren't a relative
+of Laura Koltis, are you?"</p>
+
+<p>"What do you
+want, Irakli?!" you could notice anger in the teacher's
+voice.</p>
+
+<p>"I want money, I
+want A's, I want a knife, I want muscles, I want clothes, I
+want food, I want shoes, I want a candle, I want a pool, I want a
+bed, I want a 'Favorite,' many 'Favorites,' I
+want to shout..."</p>
+
+<p>"Get out of the
+class!"  cries the teacher, Laura.</p>
+
+<p>"Please, teach,
+don't kick him out," Tviksa says and smiles at the same
+time.</p>
+
+<p>"And what do you
+want?"  the teacher now attacks him.</p>
+
+<p>"I want women, a
+big car, I want Brittany Spears and Liz Taylor, I want Crawford, I
+want Kournikova, I want Claudia, I want Sharapova, I want Pamela, and
+Jennifer, both of them, I want to live with them, a peaceful life, I
+want Angelina Joli!"</p>
+
+<p>"Get out of this
+classroom!!!"</p>
+
+<h3>Mini-Bus # 17</h3>
+
+<p>While the driver is
+giving change back to one of the woman, he notices that he's
+put his shirt on inside out.</p>
+</div>
+<p class="page">22</p>
+<!--<table class="pnav">
+<tr><td class="text">22</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+
+</td></tr>
+</table>
+-->
+<div class="get">
+
+<h3>დერეფანი
+მე-3 სართულზე
+</h3>
+
+<p>გაბელა
+ბუფეტისკენ მიმავალ ტვიქსას და ირაკლის ხვდება,  რომლებიც როგორც
+ყოველთვის, ~ნი ვიჟუს~ ურტყამენ. თუმცა ამჯერად გაბელა აჩერებს მათ და
+საუბარს უწყებს. ბოლო-ბოლო რამდენიმეწუთიან საქმის გარჩევას ხელის
+ჩამორთმევით ასრულებენ. არ ვიცი, რა უთხრა ასეთი გაბელამ, მაგრამ როგორც
+ჩანს, შერიგდნენ და დამეგობრება გადაწყვიტეს. 
+</p>
+
+<h3>საკლასო
+ოთახი #60</h3>
+
+<p>_
+ლაშიკო, ხელს ხო არ გიშლით ჩვენ? აწყვეტინებს
+მასწავლებელი შეყვარებულის ~გლანდების შემოწმებას~. 
+</p>
+
+<p>_
+ არა მასწ, ძლივს ითქვამს სულს ლა&#4328;ა,
+_ როგორ გეკადრებათ. 
+</p>
+
+<p>_
+კარგით, კარგით, განაგრძეთ მაშინ...  
+</p>
+
+<p class="gsect">დერეფანი
+მე-4 სართულზე
+</p>
+
+<p>ბიჭებს,
+რომლებმაც უკვე მოინახულეს საჭირო ოთახი და ახლა მ&#4328;ობლიური
+დერეფნების დათვალიერება გადაუწყვეტიათ, უეცრად კიბეებზე ამომავალი
+ყმაწვილი ხვდებათ თვალში. 
+</p>
+<p>_
+აუ, ამას შეხედე,
+რა სიფათით დადის, _ კობახიძე გაბელასკენ იშვერს ხელს. 
+</p>
+<p>
+_ არ გავუჩალიჩოთ სახის
+რეკონსტრუქცია?  _ ხუმრობს ბექა. 
+</p>
+<p>_
+ჰე-ჰე-ჰე-ჰე... კიი, ტო, მარა რო აგვჩეხოს ამ ჩემისამ? 
+</p>
+<p>_
+არა, რა უნდა აგვჩეხოს, ამბობენ იმ ამბის მერე დანას აღარ ეკარებაო. 
+</p>
+<p>_
+კაი მაშინ... ე, ბიჭო, მოდი აბა აქ... 
+</p>
+
+<h3>დირეკტორის
+კაბინეტთან
+</h3>
+
+<p>ბუფეტში
+შესვლამდე ტვიქსა და ირაკლი დირექტორის კაბინეტს უახლოვდებიან. 
+</p>
+<p>
+_ როგორც ჩანს, აქ
+ყველაფერი ძველებურადაა, _ ირაკლი ყურს ადებს კარებს. 
+</p>
+<p>
+_ კი მარა, ლეზბიანკაა ეგ
+ჩემისა? _ გაოცებულია ტვიქსა. 
+</p>
+
+<p>არა
+	ბიჭო, კაცი ყავს მდივანი...  
+	</p>
+</div>
+<div class="en">
+
+<h3>Hallway on the 3<sup>rd</sup>Floor</h3>
+
+<p>Gabela, setting out
+towards the lunchroom, met Tviksa and Irakli, who, as always, were
+pretending not to see him.  However, this time Gabela stops them and
+starts up a conversation.  Finally, they conclude the several minute
+discussion by shaking hands.  I don't know what in the world
+Gabela said, but as it seems, they were reconciled, and they decided
+to be friends.</p>
+
+<h3>Classroom # 60</h3>
+
+<p>"Lashiko, we're
+not interrupting you, are we?"  the teacher distracts Lasha
+from "checking-up" on his girlfriend's glands.</p>
+
+<p>"No, teach,"
+Lasha is breathing with difficulty, "Of course not."</p>
+<p>"OK, ok, then,
+continue on..."</p>
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+
+<p>The boys, who
+had already made a visit to the restroom, and now decided to take a
+look at their familiar hallway, caught sight of a young man who had
+unexpectedly come up the stairs.    
+</p>
+<p>"Oh, look at
+that guy, at the expression on his face," Kobakhidze points to
+Gabela.</p>
+<p>"Shouldn't
+we try to arrange a reconstruction for his face?" jokes Beka.</p>
+<p>"Hehehehe...yeah, dude, but what if we get messed up?"</p>
+<p>"No, how could
+he manage to mess us up?  They say that after that incident, he
+doesn't even touch a knife."</p>
+
+<p>"Ok  then, hey
+dude, come over here..."</p>
+
+<h3>Near the Principal's
+Office</h3>
+
+<p>Before going into the
+lunchroom, Tviksa and Irakli approach the principal's office.</p>
+
+<p>"It seems,
+everything in there is just like it was before," Irakli
+puts his ear to the door.</p>
+
+<p>"Yeah, but, is
+she a lesbian?"  Tviksa is amazed.</p>
+
+<p>"No way, dude,
+she has a male secretary..."</p>
+</div>
+<p class="page">23</p>
+<!--<table class="pnav">
+<tr><td class="text">23</td><td class="text">
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>
+-->
+
+<div class="get">
+
+<h3>მარშუტკა
+#17
+</h3>
+
+<p>_
+გაიწიე, მე შენი!! _ აპიპინებს მძღოლი. 
+</p>
+
+<h3>დერეფანი
+მე-4
+სართულზე
+</h3>
+
+<p>კიდევ ერთხელ გაილახა გაბელა. როგორც ბექა იტყოდა, სახის რეკონსტრუქცია ჩაუტარდა. არადა რატომ? ტვიქსასთან ხომ შერიგებული
+იყო უკვე... ძლივსძლივობით დგება ფეხზე და ბარბაც-ბარბაცით მიდის... სად? ... 
+</p>
+
+<h3>
+გადასასველი
+როელიღაც
+ქუჩაზე
+</h3>
+
+<p>
+სამი წამის შემდეგ 17
+ნომერი მარშუტკა
+ჩაიქროლებს იმ  ადგილას, სადაც ახლა ნიკუშა დგას... 
+</p>
+<p>_
+ნიკუუუუუშ, _ შელო
+მთელი ძალით ეჯახება ნიკუშას  და გვერდით აგდებს.  
+</p>
+
+
+<h3>ბუფეტი
+</h3>
+
+<p>ტვიქსა
+და ირაკლი ბექას და კობაქიძეს ხვდებიან.
+მას შემდეგ,  რაც ტვიქსა ყვება, თუ როგორ შერიგდნენ
+გაბელასთან, ბექა და  კობახიძე ძალიან ნანობენ, რომ ეს უკანასკნელი
+ცემეს... 
+</p>
+
+<p>_
+მერე ვერ თქვა მაგ კაი კაცმა? _ თითქოს თავს იმართლებს კობახიძე. 
+</p>
+
+<p>_
+თქვენი ამბავი რომ ვიცი, ხმის ამოღებას არ დააცლიდით, _ კარგად იცნობს
+ამათ ტვიქსა. 
+</p>
+
+<p>_
+რო ვნახავთ, ბოდიშს მოვუხდით რა, _ წყვეტს ბექა. 
+</p>
+
+<p>_
+ჰო, ეგრე ქენით, _ ეთანხმება ირაკლი. 
+</p>
+
+<p>_
+კაი, ეგ რაც იყო, იყო, ეხლა რატომღაც სურვილი მაქვს, ის მაყუთა ლაშა
+გავხიო ცემაში... _ ამას ტვიქსა ამბობს. 
+</p>
+
+<p>_
+მოიცა, ჯერ ფული ავახიოთ იქნებ... _ კობახიძის წინადადებაა. 
+</p>
+
+<p>_
+ფული კაია, მარა მე ჩხუბი მინდა... 
+</p>
+
+<p>_
+ვნახოთ, ვნახოთ... 
+</p>
+
+<p>_
+თუ ჩხუბი გინდა, მოდი ერთმანეთში
+ვიჩხუბოთ, _ მხარზე ხელს ურტყამს ტვიქსას ბექა. 
+</p>
+<p>_
+მოდი... _ თანხმდება ტვიქსა
+ღიმილით. 
+</p>
+<p>არადა
+ამათ რომ იცოდნენ, რარიგად საჭიროა ახლა ყოველ-</p>
+</div>
+
+<div class="en">
+
+<h3>Mini-Bus #17</h3>
+
+<p>"Move out of the
+way, you ..."  the driver honks.</p>
+
+<h3>Hallway on the 4<sup>th</sup>
+Floor</h3>
+
+
+<p>Once again, Gabela was
+beaten up.  As Beka would say, a facial reconstruction had been
+performed.  But why?  Wasn't he already reconciled with
+Tviksa...he can barely stand up and is stumbling...where...?</p>
+
+<h3>A Random Street
+Crossing</h3>
+
+<p>In three seconds the
+mini-bus #17 will rush past this place where Nikusha is now standing...</p>
+
+<p>"Nikuuuuush..."
+Shelo knocks against Nikusha with full force, and pushes him to
+the side.</p>
+
+<h3>The Lunchroom</h3>
+
+<p>Tviksa and
+Irakli meet up with Beka and Kobakhidze.  After Tviksa tells them how
+they'd were reconciled with Gabela, Beka and Kobakhidze feel
+a great deal of regret that the latter had gotten beaten up...</p>
+
+<p>"Then couldn't
+he have let us know?" said Kobakhidze, as if justifying
+himself.</p>
+
+<p>"If I know you
+guys, you didn't let him utter a word." Tviksa knows them
+well.</p>
+
+<p>"How about, when
+we see him, let's apologize," interrupts Beka.</p>
+
+<p>"Yeah, let's,"
+agrees Irakli.</p>
+
+<p>"OK, what's
+happened, happened, now for some reason or another, I feel like
+beating up this rich guy, Lasha, in a free-for-all..." 
+That's what Tviksa says to him.</p>
+
+<p>"Wait, let's
+get some money out of him first&hellip;" Kobakhidze suggests.</p>
+
+<p>"Money is good,
+but I'm dying for a fight&hellip;"</p>
+
+<p>"We'll
+see, we'll see&hellip;"</p>
+
+<p>"If you're
+dying for a fight, let's us fight each another," Beka
+pats Tviksa on the shoulder.</p>
+
+<p>"Let's..." Tviksa agrees with a smile.</p>
+
+<p>If they only knew, how
+important it is to forget all kinds of foolishness 
+</p>
+</div>
+<p class="page">24</p>
+<!--<table class="pnav">
+<tr><td class="text">24</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+
+</td></tr>
+</table>-->
+<div class="get">
+
+<p>გვარი
+სისულელეების, კონფლიქტების დავიწყება და გაერთიანება... ზუმბიკა და
+ლომისა ხომ შურისძიებისათვის ემზადებიან... 
+</p>
+<p>ამ
+დროს ზარიც ირეკება...  
+</p>
+
+<h2>თავი Vჩემი ერთი გაკვეთილი</h2>
+
+<h3>საკლასო ოთახი #42</h3>
+
+<p>_
+დღეს რაღაც ცოტანი ვართ,  _აღნიშნავს ტვიქსა. 
+</p>
+<p>_ნიკუშა არ ვიცი სადაა და
+ლევანა უეჭველად მოვა, _ მერხთან ჩაცუცქული ირაკლი ვიღაც გოგოს თმის
+სამაგრს ათამაშებს
+ხელში.</p>
+<p>_რა იცი? ეკითხება შელო.</p>
+<p>გუშინ დამირეკა და მთხოვა, ხვალ შატალოზე
+არავინ დააწვეთ, მესამე-მეოთხე
+გაკვეთილზე მოვალ და საბაზრო მაქო.</p>
+<p>_კაია, მარა ბექა და კობახიძე
+ხო არ წავიდნენ უკვე?</p>
+<p>_
+ არა, ეგინი გაფრთხილებული
+გვყავს. 
+</p>
+<p>_
+ახლა ალბათ სადმე დერეფანში ან ტუალეტში იქნებიან, _ ტვიქსაც
+გადის.  
+</p>
+
+<h3>საკლასო
+ოთახი #55</h3>
+<p>~ლუკა
+თუ სანდრო თუ დათო თუ ვაჟიკო თუ იკა თუ ლუკა თუ გიო თუ მიშკა თუ ნიკი თუ
+მერაბი თუ რა ქვია იმას...~ -- ლიზუნა უკვე იბნევა. ყველას მიმართ აქვს
+რაღაც სიმპატიები, მაგრამ ჯერ არაფერი იცის ზუსტად... ალბათ იმ პირველ
+სამს დათანხმდება, რომლებიც ყველაზე ადრე გამოუტყდებიან სიყვარულში...  
+</p>
+
+<h3>დერეფანი
+მე-3
+სართულზე</h3>
+
+<p>ტვიქსა
+ლაშას უყურებს, რომელიც ვიღაც გოგოსთან ერთად მოდის ხელგადახვეული.
+როგორც ჩანს, ლიზუნა ამასაც დაშორდა უკვე... 
+</p>
+<p>_
+პირდაპირ ვცემოთ, თუ ჯერ ფული ავახიოთ? _ ბექა ხვდება, რაზეც ფიქრობს
+ტვიქსა.  
+</p>
+</div>
+<div class="en">
+
+<p>and conflicts and to
+stand together...But we all know,
+Zumbika and Lomisa are preparing to take revenge.</p>
+
+<p>At this time, the bell
+is ringing...</p>
+
+<h2>Chapter V
+One of My Lessons</h2>
+
+<h3>Classroom #42</h3>
+
+<p>"There aren't very many of us here today," notes Tviksa.</p>
+<p>"I don't know where Nikusha is, and Levana undoubtedly will come," 
+crouching beside a desk, Irakli is toying with some girl's hair
+barrette.</p>
+
+<p>"How do you know?" asks Shelo.</p>
+<p>"Yesterday he called me and told me that tomorrow, no one should play hooky, that
+he'll come around the third and forth class, and he has something
+to discuss with us."</p>
+<p>"OK, but Beka and Kobakhidze  haven't already left, have they?"</p>
+<p>"No, they've already been warned."</p>
+<p>"I bet they're somewhere in the hallways or the restroom now,"  Tviksa also
+takes off.</p>
+
+<h3>Classroom #55</h3>
+
+<p>"Luka or Sandro,
+or Dato or Vazhiko or Ika or Luka or Gio, or Mishka or Niki or
+Merabi, or what&rsquo;s his name&hellip;" Lizuna is confused. 
+She feels some sympathy towards each one of them, but she doesn't
+know anything precisely&hellip;maybe she will go with the first three
+who declare their love earliest&hellip;</p>
+
+
+<h3>Hallway on the 3<sup>rd</sup> Floor 
+</h3>
+
+<p>Tviksa is watching
+Lasha, who's walking with some girl, with his arm over her shoulder.
+As it seems, Lizuna has already broken up with him, too&hellip;</p>
+<p>"Should we beat him
+up right away, or should we get some money first?" Beka guesses
+what Tviksa is thinking.</p>
+</div>
+<p class="page">25</p>
+<!--<table class="pnav">
+<tr><td class="text">25</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+<div class="get">
+
+<p>_
+მე რო ეხლა ამას მივდგე, ალბათ სანამ არ მოვკლავ, ვერ  გავჩერდები და არ
+ვიცი რა ვქნა... _ ჭოჭმანობს ტვიქსა. 
+</p>
+<p>_
+მაშინ ჩვენ მივხედავთ, _ თვალს უკრავს კობახიძე, _ ე,  ბიჭო, ერთ წამს
+მოდი რა აქ. 
+</p>
+<p>_
+არა, არა, გოგო დატოვე, _ უხეშად ელაპარაკება ბექაც,  _ ანდა თუ გინდა
+წამოიყვანე, მარა ისეთ ადგილას მივდივართ რომ... 
+</p>
+<p>ბექას
+და კობახიძეს ლაშა საჭირო ოთახში შეჰყავთ. 
+</p>
+
+<h3>მარშუტკა
+#17</h3>
+<p>
+ნიკუშა
+ბებიასთან მიდის, რომელიც ავად გამხდარა. თან  დედის გამომცხვარი
+ნაზუქები მიაქვს კალათით... 
+</p>
+
+<h3>დირეკტორის
+კაბინეტი</h3>
+
+<p>სრული
+სიჩუმეა.  
+</p>
+
+<h3>საჭირო
+ოთახი მე-3 სართულზე 
+</h3>
+
+<p>_
+ მოიტან ას ლარს? _ თვალებში უყურებს ბექა. 
+</p>
+
+<p>ლაშა
+ხმას არ იღებს. 
+</p>
+<p>_
+ასი ლარი ერთი, _ იწყებს კობახიძე, _ ასი ლარი ორი. 
+</p>
+<p>_
+  დაა, ასი ლარი სამი, _
+ამთავრებს ბექა. 
+</p>
+
+<p>--აი ახლა კი დაგენძრა,  _ ერთხმად ეუბნებიან.</p>
+
+<h3>საკლასო ოთახი #41 (ახალი სკოლა)</h3>
+
+<p>
+_ ოცდათხუთმეტი დანა,
+თერთმეტი სასროლი, შვიდი ნაჯახი და სამი ლიმონკა, _ ლომისა სიამაყით
+უცქერს იმ არსენალს, რომლითაც თავის ძმაკაცებთან ერთად ამათ სკოლაში
+აპირებს წამოსვლას. 
+</p>
+
+<h3>ძველი სკოლის შესასვლელი</h3>
+
+<p>
+კარს ორი კაცი უახლოვდება.
+შავებში არიან გამოწყობილები. შავი
+კოსტუმი, შავი
+ჰალსტუხი, შავი
+ფეხსაცმელი და შავი
+სათვალე. ერთ-ერთი მათგანი ზანგია, მეორე, ცოტათი უფრო ხნიერი _
+თეთრკანიანი.  
+</p>
+
+<h3>საჭირო ოთახი მე-3 სართულზე
+</h3>
+<p>ბექა
+და კობახიძე ლაშას სცემენ.  
+</p>
+</div>
+
+<div class="en">
+
+<p>"If I get started
+now, I might not be able to stop until I kill him, so I don't
+know what I should do..." Tviksa hesitates.</p>
+<p>"Then we'll
+take care of him," Kobaxidze winks, "Hey, boy, come here for a
+second."</p>
+
+<p>"No, no, leave the
+girl," Beka speaks to him rudely, "or if you want you can
+take her with you, but we are going to a place..."</p>
+
+<p>Beka and Kobakhidze
+drag Lasha into the restroom.</p>
+
+<h3>Mini-bus #17 
+</h3>
+
+<p>Nikusha is going to
+see his grandmother, who has become ill. He's
+carrying some of his mother's baked pies in a basket...</p>
+
+<h3>Principal's
+Office</h3>
+
+<p>It's completely
+silent.</p>
+
+<h3>Restroom on the 3<sup> rd</sup> Floor</h3>
+
+<p>"Did you bring the 100 lari?"  Beka looks into his eyes.</p>
+
+<p>Lasha doesn't utter a word.</p>
+<p>"100 lari, counting one," Kobaxidze begins,"100 lari, two."</p>
+
+<p>"Yeah, 100 lari, three times,"  finishes Beka.</p>
+
+<p>"But now, you're in trouble," they say together.</p>
+
+<h3>Classroom #41 (The New School)</h3>
+
+<p>"Thirty-five
+knives, eleven guns, seven axes, three grenades," Lomisa
+proudly observes this arsenal, with which, together with his buddies,
+he is planning to attack this school.</p>
+
+<h3>Entrance of the Old School</h3>
+
+<p>Two men approach the doors.  They are dressed in black.  Black suits, black ties, black shoes, and dark glasses.  One of them is black, the other, slightly older, is white skinned.</p>
+
+<h3>Restroom on the 3<sup>rd</sup> Floor</h3>
+
+
+<p>Beka
+and Kobakhidze are beating up Lasha.</p>
+</div>
+<p class="page">26</p>
+
+
+<!--<table class="pnav">
+<tr><td class="text">26</td><td class="text">
+<a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>
+-->
+<div class="get">
+<h3>მარშუტკა #17</h3>
+
+<p>_
+ახალგაზრდავ, _ მიმართავს მძღოლი ნიკუშას, _
+ მგონი მაისური
+უკუღმა გაცვიათ, _
+ რატომღაც ამ
+ბოლო დროს ყველას ტანსაცმელზე აკვირდება. 
+</p>
+
+<p>_
+თქვენც,  _ ღიმილით პასუხობს ნიკუშა.  
+</p>
+
+<h3>პირველი
+სართული</h3>
+
+<p>ახლადმოსულები
+შედიან სკოლაში, სათვალეებს გულის ჯიბეებში ინახავენ და კარებთან ახლოს
+ჩერდებიან... 
+</p>
+
+<h3>საკლასო
+ოთახი #49</h3>
+
+<p>მასწავლებელი
+გოგონებს ეჭორავება. მათ საუბარს შემთხვევით გაბელამაც მოჰკრა ყური. 
+</p>
+<p>_
+გუშინ გაპარულან, მგონი ბულგარეთში წავიდნენ, _ ყვება მასწავლებელი, _
+ნეტავ ახლა რა მოხდება, ახალ დირექტორს დაგვინიშნავენ თუ ამათ ჩამოსვლას
+დაელოდებიან...  
+</p>
+
+<h3>საჭირო
+ოთახი მე-3
+სართულზე</h3>
+<p>
+ისევ სცემენ.  
+</p>
+
+<h3>საკლასო ოთახი #41 (ახალი სკოლა)</h3>
+
+<p>_კაროჩე, გავდივართ მე და ზუმბიკა და ზუსტად სამ წუთში გამოდიხართ
+თქვენც. ოღონდ, სამ-სამი წამოდით
+თორემ ხომ იცით, რამე საეჭვო დვიჟენია და ეგრევე პატრული გაეძრობა.</p>
+<p>_ბაზარი არაა, _ პასუხობს ვიღაც, _ ფრთხილად ვიქნებით.</p>
+
+<h3>დერეფანი მე-3 სართულზე</h3>
+
+<p>_გაბელას და ლიზუნას უკვე ვუთხარით, _ ეუბნება შელო. 
+</p>
+<p>_ეს ლაშაც წამოათრიეთ რა, _
+ვინმე ხო არ მავიწყდებაო, ფიქრობს ლევანა, _ ჩვენ კლასში შევიკრიბოთ. 
+</p>
+<p>ყველანი
+იქეთ მიდიან. ბექა და კობახიძე ლაშას მიათრევენ, რომელიც ისეა ნაცემი,
+სახის ძვლები ხელში უჭირავს.  
+</p>
+
+<h3>საკლასო
+ოთახი #42
+</h3>
+
+<p>ლევანას
+მონაყოლის შემდეგ ბავშვები ჯერ კიდევ პირდაღებულები სხედან.</p>
+</div>
+
+<div class="en">
+
+<h3>Mini-Bus #17</h3>
+
+<p>"Young man," the driver addresses Nikusha, "I think you have
+your shirt on inside out."  For some reason or another,
+recently he's been paying attention to everyone's
+clothes.</p>
+
+<p>"You, too,"
+Nikusha answers him with a smile.</p>
+
+<h3>First Floor</h3>
+
+<p>The men who'd recently arrived enter a classroom, put their glasses in their chest pockets, and stop near the doors.</p>
+
+<h3>Classroom #49</h3>
+
+<p>The teacher is gossiping with the girls.  Gabela accidentally overhears their conversation.</p>
+
+<p>"Yesterday they eloped, I think they went to Bulgaria," said the teacher, "I wonder what will happen now, if they'll appoint a new principal for us, or if they'll wait for them to return..."</p>
+
+
+<h3>Restroom on the 3<sup>rd</sup> Floor</h3>
+
+<p>They are still beating him up.</p>
+
+<h3>Classroom #41 (The New School)</h3>
+
+<p>"So, Zumbika and I will go, and in exactly three minutes you, too, will follow us.  But, come three at a time, or else they'll know something's up, and the police'll show up right away.</p>
+
+<p>"No doubt," someone answers, "we'll be careful."</p>
+
+<h3>Hallway on the 3<sup>rd</sup> Floor</h3>
+
+
+<p>"We've already talked to Gabela and Lizuna," Shelo tells him.</p>
+
+<p>"Drag this Lasho in as well...am I forgetting anyone?" Levana thinks, "Let's gather in the classroom."</p>
+
+<p>They all go in.  Beka
+and Kobakhidze are dragging Lasha, who is so beaten up he's
+holding the bones of his face in his hands.</p>
+
+<h3>Classroom
+#42</h3>
+
+<p>After
+Levana's story, the kids are sitting again with their jaws dropped.</p>
+</div>
+
+<p class="page">27</p>
+<!--<table class="pnav">
+<tr><td class="text">27</td><td class="text">
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+<div class="get">
+
+<p>_ ესე
+იგი, გამოდის, რომ ვიღაც როჟა ჩვენზე მოთხრობებს  წერს?
+_ ტვიქსა
+გაბრაზებულია. 
+</p>
+<p>
+_ ეგრე გამოდის,  -
+უმოწმებს ლევანა, _ ვიღაც ნიკუშა  ანთაძე. 
+</p>
+<p>_და ამ მოთხრობებს, რომლებშიც ჩვენი ყოველდღიური  ცხოვრებაა აღწერილი, ხალხი კითხულობს?! _ შელო
+პასუხის  გარეშეც ხვდება, რომ ასეა.</p>
+<p>_
+ აუ ჩემი, მაგრად ტეხავს, _
+სიგარეტს უკიდებს ბექა.</p>
+<p>_
+ აბაა, ტო, _ კობახიძეც უკიდებს. 
+</p>
+<p>_
+ ვაიმეე, ჩემზეც წერენ? _
+კივის ლიზუნა და თავისი  ბოლო თხუთმეტი შეყვარებული ახსენდება... 
+</p>
+
+
+<h3>მარშუტკა #17</h3>
+
+<p>უეცრად ქალები კივიან. 
+</p>
+
+<p>მძღოლი ვეღარ ასწრებს დამუხრუჭებას და... 
+</p>
+
+<h3>საკლასო
+ოთახი #42</h3>
+
+<p>_
+ წამო ვნახოთ და
+დაველაპარაკოთ რა, _ სთავაზობს დანარჩენებს ირაკლი. 
+
+</p>
+<p>&ndash;
+დაველაპარაკოთ კი არა, სახის
+ძვლებს დავულეწავ, _ გაბრაზებულია ტვიქსა. 
+</p>
+<p>სხვები ლაშას უცქერენ. 
+</p>
+<p>_წამო, წამო რა, გავიდეთ, _
+ფეხზე დგება გაბელა. 
+</p>
+
+<p>დანარჩენებიც დგებიან.  
+</p>
+
+<h3>რომელიღაც
+ქუჩა
+</h3>
+
+<p>გზაზე
+ორი ბიჭი აგდია. უგონოდ არიან. მოძრაობა გადაკეტილია. იქვე 17
+ნომერი მარშუტკა დგას. სწორედ ის დაეჯახა ბიჭებს, რომლებშიც ადვილად
+ამოიცნობდით ზუმბიკას და ლომისას...  
+</p>
+
+<h3>პირველი
+სართული 
+</h3>
+
+<p>_
+ახალგაზრდებო, ერთი წუთით, თუ შეიძლება, _ აჩერებს ბიჭებს და ლიზუნას
+ზანგი, _ რაღაც საქმე გვაქვს თქვენთან. შეიძლება
+დავილაპარაკოთ?  
+</p>
+</div>
+<div class="en">
+<p>"So it turns out
+that some guy is writing stories about us?" Tviksa is angry.</p>
+
+<p>"That's how it is," confirms Levana, "Some Nikusha Antadze."</p>
+
+<p>"And these stories, which describe our everyday life -- people are reading them?!"  Even without an answer, Shelo guesses that's the case.</p>
+
+<p>"Oh, screw
+that," Beka lights a cigarette.</p>
+
+<p>"Yeah, that's screwed." Kobakhidze lights up, too.</p>
+
+<p>"Oh my god, they're writing about me, too? Lizuna screams, and remembers her last fifteen boyfriends...</p>
+
+<h3>Mini-bus #17</h3>
+
+<p>Suddenly the women scream.</p>
+
+<p>The driver is not able
+to put on the brakes, and...</p>
+
+<h3>Classroom #42</h3>
+
+<p>"Let's go and talk with him," Irakli suggests to the others.</p>
+
+<p>"I'm not going to talk with him, I'll smash the bones in his face," Tviksa is angry.</p>
+
+<p>The others stare at Lasha.</p>
+
+<p>"Let's go, let's go," Gabela stands up.</p>
+
+<p>The others also get up.</p>
+
+<h3>A Random Street</h3>
+
+<p>Two boys are thrown on to the street. They are unconscious.  Traffic is stopped.  The mini-bus #17 is standing there.  It's precisely this one that's struck the boys, in whom you'd easily recognize Zumbika and Lomisa...</p>
+
+
+<h3>First Floor</h3>
+
+<p>"Hey kids, just
+a minute, please," the black man stops the boys and
+Lizuna, "We have something to discuss with you.  Can we talk?"</p>
+</div>
+<p class="page">28</p>
+<!--<table class="pnav">
+<tr><td class="text">28</td><td class="text">
+
+                   <a href="page05.html" target="_blank">[05]</a><a href="page06.html" target="_blank">[06]</a><a href="page07.html" target="_blank">[07]</a>
+                   <a href="page08.html" target="_blank">[08]</a><a href="page09.html" target="_blank">[09]</a><a href="page10.html" target="_blank">[10]</a>
+                   <a href="page11.html" target="_blank">[11]</a><a href="page12.html" target="_blank">[12]</a><a href="page13.html" target="_blank">[13]</a>
+
+                   <a href="page14.html" target="_blank">[14]</a><a href="page15.html" target="_blank">[15]</a><a href="page16.html" target="_blank">[16]</a>
+                   <a href="page17.html" target="_blank">[17]</a><a href="page18.html" target="_blank">[18]</a><a href="page19.html" target="_blank">[19]</a>
+                   <a href="page20.html" target="_blank">[20]</a><a href="page21.html" target="_blank">[21]</a><a href="page22.html" target="_blank">[22]</a>
+                   <a href="page23.html" target="_blank">[23]</a><a href="page24.html" target="_blank">[24]</a><a href="page25.html" target="_blank">[25]</a>
+
+                   <a href="page26.html" target="_blank">[26]</a><a href="page27.html" target="_blank">[27]</a><a href="page28.html" target="_blank">[28]</a>
+                   <a href="page29.html" target="_blank">[29]</a>
+</td></tr>
+</table>-->
+
+
+
+<div class="get">
+<p>_
+კი ბატონო, _ პასუხობს ტვიქსა დაუფიქრებლად, _ ოღონდ გვეჩქარება ცოტა.
+</p>
+<p>_
+თქვენ მართლა შეიტყვეთ იმის შესახებ, რომ ვინმე ნიკუშა ანთაძე თქვენზე
+მოთხრობას წერს? _ განაგრძობს ზანგი. 
+</p>
+<p>_
+დიახ, _ ბავშვები გაოცებულები უცქერენ, ახლაღა გააცნობიერეს, რომ ზანგი
+ქართულად ლაპარაკობს. თანხმობის ნიშნად თავს უკრავენ. 
+</p>
+<p>_
+დაახლოებით როდის მოხდა ეს? _ საუბარში ერთვება ცოტათი უფრო ხნიერი
+თეთრკანიანი. 
+</p>
+<p>_
+ამ დილით, _ ტვიქსას ეტყობა, რომ ვერაფერი გაუგია. 
+</p>
+<p>_ გასაგებია.
+თორმეტსაათიანზე დავაყენოთ, თეთრკანიანი ახლა უკვე ზანგს მიმართავს. 
+</p>
+<p>_
+კარგი, პასუხობს ის, მერე კი პატარა, ვერცხლისფერ მოწყობილობას იღებს.
+მოწყობილობა წვრილ ფანარს წააგავს. 
+</p>
+<p>ლითონისაა.
+ზანგი რაღაც ციფრებს კრეფს და ბავშვებისკენ ბრუნდება, _ რამდენიმე
+წამში მე, აი, ამ ღილაკს დავაჭერ... დავაჭერ თუ არა, მაშინვე ყველაფერი
+დაგავიწყდებათ, რაც თქვენს ცხოვრებაში მოხდა უკანასკნელი თორმეტი საათის
+განმავლობაში. შეიძლება ვერც ჩვენ ვეღარ გვნახოთ, ასე რომ, მშვიდობით, 
+_ ზანგიც და თეთრკანიანიც შავ სათვალეებს იკეთებენ. ზანგი ღილაკს
+აჭერს... 
+</p>
+<p>გონს
+მოსული ბავშვები გაოგნებულები იყურებიან აქეთ-იქით. ზანგი აღარსად ჩანს.
+ცოტათი უფრო ხნიერი თეთრკანიანი ისევ იქაა. 
+</p>
+<p>_
+რა ხდება?  _ პირველი შელო გამოერკვა. 
+</p>
+<p>_
+ექსკურსია გადაიდო, _ იღებს პასუხს თეთრკანიანისაგან, _ გთხოვთ ყველანი
+თქვენ-თქვენ კლასებში დაბრუნდეთ. 
+</p>
+<p>დაბნეული
+ბავმვები უსიტყვოდ მიემართებიან კლასებისაკენ. 
+</p>
+<p class="get">***</p>
+<p>ამ დროს ზარიც დაირეკა... 
+</p>
+
+<p>გამოეღვიძა.
+</p>
+<p>ნიკუშა
+ანთაძეს გაკვეთილზე ჩასძინებოდა...  
+</p>
+</div>
+
+<div class="en">
+
+<p>"Yes, of course,"
+answers Tviksa without thinking, "but we're in a bit of a hurry."</p>
+
+<p>"Did you really say that some Nikusha Antadze is writing a story about you?" continues the black man.</p>
+
+<p>"Yeah," the kids look at him in amazement, just now realizing that the black man is speaking Georgian.  They nod their heads in agreement.</p>
+
+<p>"Approximately
+when did this happen?" the slightly older man joins in the
+conversation.</p>
+
+<p>"This morning," Tviksa seems to understand nothing.</p>
+
+<p>"It's clear, let's put him on a 12 hour shift," the white man now addresses the black man.</p>
+
+<p>"OK," he answers, but then he opens up a small, silver-colored piece of equipment. It looks a bit like a thin flashlight.</p>
+
+<p>It's made of metal.  The black man is dialing up some numbers, and returns to the children.  "In a few minutes, here, I'll push this control button, and as soon as I push it, you'll immediately forget everything that's happened in your life in the course of the last 12 hours.  It's possible that you won't be able to see us, and so, farewell."  Both the black man and the white man put on their dark glasses.  The black man pushes the button...</p>
+
+<p>Returning to consciousness, the children, dumb-founded, are looking all around. The black man is no where.  The slightly older white man is still there.</p>
+
+<p>"What happened?" Shelo is the first to come to his senses.</p>
+
+<p>"The field-trip has been postponed,"  the answer comes from the white man. 
+"Please, all of you return to your classrooms."</p>
+
+<p>Without a word, the
+children, confused, head off to their classrooms.</p>
+
+
+<p class="en">***</p>
+
+<p>At this time, the bell also rang...</p>
+<p>He woke up.</p>
+<p>Nikusha Antadze had
+fallen asleep during the lesson...</p>
+</div>
+								
+								<p>NO DATE</p>
+						</div>
+				</div>
+			</div>
+			<div type="container2" xml:lang="en">
+				<head type="container2">Many a Lesson</head>
+				<pb n="001" />
+					<head type="chapter" n="1">Chapter 1 One Lesson</head>
+						<head type="section" n="1">Classroom # 42</head>
+							<note><unclear>needs to be checked</unclear></note>
+							<p>Miss Marina is trying in vain to calm down the children and is talking about physics. Nothing is working.  Finally, she decides on something, but she has to give up on physics.</p>
+							<p>She says to the children, go ahead and talk, but sit down, and be a little quiet/stay in your seats, and quite down a bit. And she herself sits by the table and starts playing a game on her cell phone.</p>
+						<head type="section" n="2">Classroom # 55</head>
+							<p>The girls are very involved with their gossiping/ with passion. Lizuna is sitting alone by herself&hellip;she is thinking and thinking&hellip;she has a difficult question to decide&hellip;the boys have gone outside to play soccer, the stadium was empty.</p>
+						<head type="section" n="3">Restroom on the 3</head>
+							<p>Beka and Kobaxidze did not go to the lesson. About physics. They are standing in the bathroom, and are smoking in the rather unpleasant odor. What else is there for them to do&hellip;and at the same time they are recounting interesting stories from life in their neighborhood.</p>
+				<p>NO DATE</p>
+			</div>
+			<div type="container3" xml:lang="ru">
+				<head type="container3">title</head>
+				<p>content</p>
+			</div>
+			<div type="footnotes">
+				<note xml:id="n0001">note content</note>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>
