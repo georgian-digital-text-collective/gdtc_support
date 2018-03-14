@@ -605,6 +605,7 @@ html{
 	width: 100%;
 }
 article{
+	background: rgba(142, 169, 199, 0.44);
 }
 @media (max-height: 600px) {
 	.footer{
