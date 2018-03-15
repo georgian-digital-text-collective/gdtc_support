@@ -26,7 +26,7 @@ iframe:nth-child(2) {
     margin-bottom: 70px;    
 }
 body {
-	line-height: 1;
+	line-height: 1.5;
 	color: black;
     padding-top:20px;
 }
@@ -578,10 +578,10 @@ article{
 }
 
 .georgian {
-	color: red;
+	color: black;
 }
 .english {
-	color: blue;
+	color: black;
 }
 
 
@@ -605,6 +605,7 @@ html{
 	width: 100%;
 }
 article{
+	background: rgba(142, 169, 199, 0.44);
 }
 @media (max-height: 600px) {
 	.footer{
