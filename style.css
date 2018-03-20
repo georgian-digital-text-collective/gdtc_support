@@ -604,7 +604,7 @@ html{
 	bottom: 0;
 	width: 100%;
 }
-#other article{
+#other > article{
 	background: rgba(142, 169, 199, 0.44);
 }
 @media (max-height: 600px) {
