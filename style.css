@@ -554,6 +554,10 @@ article{
 .row p{
 	padding-bottom: 10px;
 }
+.bottom-right{
+	vertical-align: bottom;
+	text-align: right;
+}
 
 .dropdown-menu {
 	/*background-color: #f0f0f0;*/
@@ -604,7 +608,7 @@ html{
 	bottom: 0;
 	width: 100%;
 }
-article{
+#other > article{
 	background: rgba(142, 169, 199, 0.44);
 }
 @media (max-height: 600px) {
